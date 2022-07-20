@@ -1,8 +1,11 @@
+# Bridge app by Pietrass and Lehu
+
+## Introduction
 In this project we focus on creating `bridge app`. It's an app especially for bridge players or fans, who want to monitor their progress. 
 Our projects consists of 2 parts. Firstly, we structure and prepare data. After creating some functions which return data frames, we go ahead to second part
 In this part we try to develop web app, which use data from part 1. Especially important is for us design of our application. 
 In this `README file` we describe all commits.
-----------------------------------
+
 ## Directory first attempt
 It's directory, which contains all of our scratches and ideas. We don't encourage to look into, but it shows how our code has evolved. 
 
