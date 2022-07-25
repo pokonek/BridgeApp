@@ -1,0 +1,20 @@
+średnia_na_rozgrywce- od ilu procent graczy zawodnik osiąga 
+lepsze wyniki w rozdamiach, w których rozgrywa.
+
+średnia_na_obronie- od ilu procent graczy zawodnik osiąga 
+lepsze wyniki w rozdamiach, w których broni.
+
+Kokosy_na_Obronie- od ilu procent graczy zawodnik osiąga 
+lepsze wyniki w rozdamiach, w których bierze zapis na obronie
+
+częściówka- od ilu procent graczy zawodnik osiąga 
+lepsze wyniki w rozdamiach, w których wygrywa częściówkę
+
+końcówka- od ilu procent graczy zawodnik osiąga 
+lepsze wyniki w rozdamiach, w których wygrywa końcówkę
+
+szlemik- od ilu procent graczy zawodnik osiąga 
+lepsze wyniki w rozdamiach, w których wygrywa szlemika lub szlema
+
+wpadka- od ilu procent graczy zawodnik osiąga 
+lepsze wyniki w rozdamiach, w których przegrywa kontrakt

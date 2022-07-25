@@ -1,5 +1,5 @@
 0,PID,name,3,4,5,6,7,8
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 1.,06706,Apolinary Kowalski,WM,24,AS,189 039,E,VITAS ESBS Elblag
 2.,08513,Piotr Gawryś,DS,24,AS,152 444,E,BRIDGESCANNER KS AZS Wratislavia I WR
 3.,06658,Jacek Kalita,SW,24,AS,146 929,E,SPS CONSTRUCTION Kielce
@@ -50,7 +50,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 48.,07431,Marek Witek,SW,21,AM,59 073,E,Dr SMILE Starachowice
 49.,04111,Krzysztof Kotorowicz,SW,21,AM,58 911,E,SPS CONSTRUCTION Kielce
 50.,06909,Anna Sarniak,MA,21,AM,58 522,1,Bridge24.pl 2.
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 1.,06706,Apolinary Kowalski,WM,24,AS,189 039,E,VITAS ESBS Elblag
 2.,08513,Piotr Gawryś,DS,24,AS,152 444,E,BRIDGESCANNER KS AZS Wratislavia I WR
 3.,06658,Jacek Kalita,SW,24,AS,146 929,E,SPS CONSTRUCTION Kielce
@@ -101,7 +101,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 48.,07431,Marek Witek,SW,21,AM,59 073,E,Dr SMILE Starachowice
 49.,04111,Krzysztof Kotorowicz,SW,21,AM,58 911,E,SPS CONSTRUCTION Kielce
 50.,06909,Anna Sarniak,MA,21,AM,58 522,1,Bridge24.pl 2.
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 1.,06706,Apolinary Kowalski,WM,24,AS,189 039,E,VITAS ESBS Elblag
 2.,08513,Piotr Gawryś,DS,24,AS,152 444,E,BRIDGESCANNER KS AZS Wratislavia I WR
 3.,06658,Jacek Kalita,SW,24,AS,146 929,E,SPS CONSTRUCTION Kielce
@@ -152,7 +152,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 48.,07431,Marek Witek,SW,21,AM,59 073,E,Dr SMILE Starachowice
 49.,04111,Krzysztof Kotorowicz,SW,21,AM,58 911,E,SPS CONSTRUCTION Kielce
 50.,06909,Anna Sarniak,MA,21,AM,58 522,1,Bridge24.pl 2.
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 51.,05718,Jerzy Michałek,MP,21,AM,55 290,2,TS Wisła Kraków
 52.,05856,Piotr Walczak,SW,21,AM,53 051,E,Dr SMILE Starachowice
 53.,07849,Bogdan Szulejewski,KP,21,AM,52 548,E,LKS KASZTELAN KONKRET Chełmno
@@ -203,7 +203,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 98.,03027,Włodzimierz Stobiecki,SW,19,AM,14 523,-,Świętokrzyski Klub Brydżowy w Kielcach
 99.,07818,Viktor Markowicz,MA,19,AM,13 977,-,Singleton Warszawa
 100.,09280,Janusz Nowak,MA,19,AM,12 875,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 101.,06717,Jolanta Krogulska,MA,19,AM,11 810,-,Singleton Warszawa
 102.,09012,Bolesław Ostrowski,PM,19,AM,10 747,-,
 103.,19120,David Bakhshi,WP,19,AM,10 649,-,
@@ -254,7 +254,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 148.,06954,Adam Suwik,MA,18,AM,30 955,1,ESKOM Warszawa
 149.,04430,Jan Rogowski,WM,18,AM,30 827,-,Zorro22 Olsztyn
 150.,04696,Antoni Sękowski,PM,18,AM,28 320,3,OSiR Activa PL Juszkowo
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 151.,05732,Paweł Niedzielski,WP,18,AM,28 244,1,STARKA Poznań
 152.,05695,Andrzej Lućko,SW,18,AM,27 777,-,Świętokrzyski Klub Brydżowy w Kielcach
 153.,03847,Jarosław Michałowski,KP,18,AM,27 269,-,
@@ -305,7 +305,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 198.,04593,Wacław Janicki,PM,17,A,19 790,2,Infiniti Brokerzy Gdynia
 199.,05069,Paweł Jassem,WP,17,A,19 455,1,DĄBRÓWKA NAUKABRYDZA.PL Poznań
 200.,01831,Marian Kupnicki,KP,17,A,18 061,E,LKS KASZTELAN KONKRET Chełmno
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 201.,04109,Łukasz Brede,WP,17,A,18 060,1,UKB KLEKS Szamotuły
 202.,09550,Jakub Wojcieszek,WP,17,A,17 624,1,DĄBRÓWKA NAUKABRYDZA.PL Poznań
 203.,07242,Vytautas Vainikonis,WM,17,A,17 236,E,VITAS ESBS Elblag
@@ -356,7 +356,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 248.,14728,Kamil Nowak,SW,15,A,7 767,E,SPS CONSTRUCTION Kielce
 249.,07114,Waldemar Skóra,LD,15,A,7 615,1,Inwit Pabianice
 250.,01643,Ewa Sobolewska,OP,15,A,7 401,1,SYNIS OPOLE
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 251.,03401,Jarosław Ostrowski,WP,15,A,7 044,1,DĄBRÓWKA NAUKABRYDZA.PL Poznań
 252.,10793,Natalia Sakowska,MA,15,A,6 996,-,Singleton Warszawa
 253.,02827,Marek Urbański,PM,15,A,6 825,E,GTB SDK Tczew
@@ -407,7 +407,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 298.,05822,Tomasz Spodenkiewicz,DS,13,A,20 458,E,GOLDBECK COMFORT SA AZS Wratislavia IV
 299.,03464,Adam Robak,SL,13,A,20 453,E,TB Silesia I Gliwice
 300.,06334,Dariusz Krajewski,MA,13,A,20 045,2,Płockie Towarzystwo Gier Umysłowych
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 301.,05615,Jarosław Gąsiorowski,LD,13,A,19 616,2,PKB Wtórmex Radomsko
 302.,01952,Andrzej Choniawko,ZP,13,A,18 979,3,LKS POMORZANIN Nowogard
 303.,05307,Zbigniew Papierniak,SL,13,A,18 866,1,TB Silesia II Gliwice
@@ -458,7 +458,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 348.,01291,Krzysztof Dziekański,DS,13,A,10 657,1,Invenio Szlem Dzierżoniów
 349.,06715,Jerzy Kraszewski,MA,13,A,10 471,-,
 350.,02644,Grzegorz Gawron,MP,13,A,10 218,1,Agilero Piast Skawina
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 351.,02326,Janusz Łunis,LB,13,A,10 121,-,
 352.,01299,Karol Filipowicz,WP,13,A,10 115,1,UKB KLEKS Szamotuły
 353.,01443,Mariusz Kwieciński,DS,13,A,9 844,-,
@@ -509,7 +509,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 398.,02518,Włodzimierz Maryniowski,SW,13,A,4 044,E,Dr SMILE Starachowice
 399.,09549,Maciej Bielawski,DS,13,A,3 936,2,Bluerefrigeration KS AZS Wratislavia II
 400.,03596,Andrzej Wojtusiak,SL,13,A,3 838,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 401.,04496,Cezary Wilczopolski,WM,13,A,3 677,-,
 402.,01220,Grzegorz Bajek,DS,13,A,3 648,E,GOLDBECK COMFORT SA AZS Wratislavia IV
 403.,08431,Wiesław Sycz,MA,13,A,3 269,3,MOIIB Warszawa
@@ -560,7 +560,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 448.,05170,Włodzimierz Kwiatkowski,WP,12,A,28 179,O,Na Dobrej
 449.,01288,Janusz Drozdowski,DS,12,A,26 277,1,Objectivity KS AZS Wratislavia VI WR
 450.,08078,Edmund Pinkiewicz,PM,12,A,26 215,2,Infiniti Brokerzy Gdynia
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 451.,04682,Jacek Piotrowski,PM,12,A,24 802,2,Darles Santerm Gdańsk
 452.,04347,Henryk Łakomski,WM,12,A,23 863,1,Vęgoria WCK Węgorzewo
 453.,05454,Bogdan Świątek,WP,12,A,22 965,2,UNIA II Leszno
@@ -611,7 +611,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 498.,04601,Witold Kaliński,PM,12,A,13 389,3,GTB Makabi Gdańsk
 499.,01030,Marek Cyrkiel,PK,12,A,13 234,2,Rewers - Joker Rzeszów
 500.,02174,Wojciech Waszkowiak,LB,12,A,13 207,2,MOSiR Kostrzyn/ Fundacja ILB
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 501.,05156,Roman Kujawski,WP,12,A,13 183,2,Admira Poznań
 502.,02723,Bogusław Lesiecki,MP,12,A,13 125,2,Dunajec Nowy Sącz
 503.,01283,Piotr Dobryszycki,DS,12,A,13 112,1,TURBO FLY BACK Wrocław
@@ -662,7 +662,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 548.,05366,Jerzy Rymwid,WP,12,A,9 167,-,
 549.,03561,Zbigniew Tymków,SL,12,A,8 916,3,CKS Czeladź
 550.,04949,Michał Dembiński,WP,12,A,8 888,1,STARKA Poznań
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 551.,04793,Krzysztof Kluf,MA,12,A,8 817,3,AKS Polonia Warszawa
 552.,06556,Sylwester Cieślak,MA,12,A,8 581,O,KADIMEX Warszawa
 553.,02803,Adam Stono,MP,12,A,8 400,-,
@@ -713,7 +713,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 598.,04644,Bogusław Matuszkiewicz,PM,12,A,4 119,-,
 599.,06883,Sławomir Rokicki,MA,12,A,4 006,O,KADIMEX Warszawa
 600.,03327,Wojciech Łyskawa,SL,12,A,3 583,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 601.,06631,Eugeniusz Jagiełło,MA,12,A,3 506,-,
 602.,03098,Jerzy Ciesielczuk,SL,12,A,3 493,3,GKS Piast Gliwice III
 603.,06869,Tomasz Przyjemski,MA,12,A,3 162,-,
@@ -764,7 +764,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 648.,02663,Jacek Herman,PK,11,MM,14 324,3,Przyjaciele Rzeszów
 649.,02764,Bogdan Piasecki,MP,11,MM,14 226,2,Dunajec Nowy Sącz
 650.,01711,Lech Warężak,DS,11,MM,14 217,3,BKB I Bolesławiec
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 651.,06638,Włodzimierz Janeczek,MA,11,MM,14 036,3,Czwórka Hutnik Warszawa
 652.,02434,Jerzy Trembowski,LB,11,MM,13 828,-,
 653.,01945,Mirosław Bublewicz,LB,11,MM,13 825,2,Kłodawka KART-EL Gorzów Wlkp.
@@ -815,7 +815,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 698.,08313,Adam Wyszyński,MA,11,MM,8 857,1,ESKOM Warszawa
 699.,01246,Bohdan Błęcki,DS,11,MM,8 610,-,
 700.,01439,Lech Kurowski,DS,11,MM,8 459,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 701.,04854,Kazimierz Zelga,PM,11,MM,8 454,-,STB Słupsk
 702.,12253,Jerzy Kozyczkowski,LD,11,MM,8 416,2,PKB Wtórmex Radomsko
 703.,06077,Tomasz Rusiecki,ZP,11,MM,8 405,-,
@@ -866,7 +866,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 748.,02354,Zbigniew Nahorski,LB,11,MM,5 382,-,
 749.,03722,Maciej Haczewski,KP,11,MM,5 253,-,
 750.,07034,Stanisław Zembrzuski,MA,11,MM,4 941,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 751.,09037,Mirosław Roesler,WM,11,MM,4 894,3,CENTRUM Olsztyn
 752.,01736,Jacek Wojnarowicz,DS,11,MM,4 878,2,Bluerefrigeration KS AZS Wratislavia II
 753.,05649,Tomasz Jochymski,WP,11,MM,4 782,1,DĄBRÓWKA NAUKABRYDZA.PL Poznań
@@ -917,7 +917,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 798.,02720,Magdalena Lankosz,MP,9,MM,17 895,-,
 799.,08520,Tomasz Bajorek,PK,9,MM,17 824,3,Come-Back Dropol Rzeszów
 800.,06675,Andrzej Klik,MA,9,MM,16 754,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 801.,04127,Marian Urwanowicz,PD,9,MM,16 244,-,
 802.,04559,Kazimierz Dominiak,PM,9,MM,16 040,3,GTB Expres z Kaszub
 803.,05510,Marek Wojciechowski,WP,9,MM,15 747,3,KB Gniezno
@@ -968,7 +968,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 848.,02787,Zbigniew Sagan,MP,9,MM,10 346,3,Lajkonik Kraków
 849.,07555,Stanisław Stachlewski,MA,9,MM,10 184,-,Singleton Warszawa
 850.,04229,Mirosław Doroszuk,WM,9,MM,9 942,3,CENTRUM Olsztyn
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 851.,02227,Ryszard Chmiel,LB,9,MM,9 930,-,
 852.,04577,Gabriela Gnacińska,PM,9,MM,9 921,-,
 853.,04730,Zbigniew Walczyński,PM,9,MM,9 883,-,
@@ -1019,7 +1019,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 898.,03964,Piotr Szczuka,KP,9,MM,7 601,3,PASTEL Bydgoszcz
 899.,04737,Elżbieta Wesołowska,PM,9,MM,7 586,2,CKiS Pruszcz Gdański
 900.,08450,Waldemar Szelka,OP,9,MM,7 495,1,SYNIS OPOLE
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 901.,02946,Andrzej Majcher,SW,9,MM,7 420,-,Świętokrzyski Klub Brydżowy w Kielcach
 902.,06960,Janusz Szukszta,MA,9,MM,7 327,-,Singleton Warszawa
 903.,02491,Jacek Karwowski,LU,9,MM,7 273,3,RYCHO Kraśnik
@@ -1070,7 +1070,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 948.,01739,Rafał Wolański,SL,9,MM,5 787,1,BSBS KONSTANTA Bielsko-Biała
 949.,11809,Krzysztof Mielnik,PM,9,MM,5 759,E,GTB SDK Tczew
 950.,03346,Andrzej Mączyński,SL,9,MM,5 755,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 951.,05692,Jacek Lewandowski,LD,9,MM,5 749,-,
 952.,03214,Leszek Jaworski,SL,9,MM,5 682,-,
 953.,08911,Ilya Shpuntou,WP,9,MM,5 657,1,DĄBRÓWKA NAUKABRYDZA.PL Poznań
@@ -1121,7 +1121,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 998.,15519,Piotr Kulesza,ZP,9,MM,4 402,1,AD Szczecin
 999.,05642,Barbara Jarota-Romaniuk,MA,9,MM,4 401,-,
 1000.,06355,Lech Warwocki,LD,9,MM,4 372,3,KDK II Kutno
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 1001.,06684,Stefan Knothe,MA,9,MM,4 351,-,Singleton Warszawa
 ,05675,Mariusz Kraśnicki,LD,9,MM,4 351,3,KDK II Kutno
 1003.,06107,Jerzy Szarek,ZP,9,MM,4 340,-,
@@ -1172,7 +1172,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 1048.,07290,Jacek Cholewik,SL,9,MM,2 133,-,BSBS Biesy Czechowice-Dziedzice
 1049.,06921,Dariusz Sierocki,MA,9,MM,2 049,2,Gambling Zamek Ciechanów
 1050.,02018,Robert Karanowski,LB,9,MM,1 963,2,Instalko SBS 1 Międzyrzecz
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 1051.,07641,Marek Jachimczyk,MP,9,MM,1 900,-,
 1052.,10252,Salek Zeligman,MA,9,MM,1 839,-,
 1053.,03207,Józef Janicki,SL,9,MM,1 766,2,ZTB 7 TREFL Zawiercie
@@ -1223,7 +1223,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 1098.,02760,Jerzy Pasich,MP,7,MM,16 283,-,
 1099.,01806,Zdzisław Gryzło,OP,7,MM,16 034,3,RODŁO-DOŁEK OPOLE
 1100.,02678,Jacek Kalinowski,MP,7,MM,15 725,3,Sapico Kraków
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 1101.,06721,Edward Krusiewicz,MA,7,MM,15 571,O,Źródło
 1102.,04848,Maria Tomczewska,PM,7,MM,15 531,-,STB Słupsk
 1103.,05403,Piotr Solecki,WP,7,MM,15 360,2,FLUX-MEDICAL Boguniewo
@@ -1274,7 +1274,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 1148.,04067,Tomasz Bliński,PD,7,MM,10 864,2,Fundacja Mała Ojczyzna
 1149.,03724,Leszek Hejne,KP,7,MM,10 805,-,Singleton KPZBS
 1150.,03761,Waldemar Kamiński,KP,7,MM,10 781,3,DOL-BY Bydgoszcz
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 1151.,05647,Daniela Jędrychowska,LD,7,MM,10 742,-,
 1152.,05049,Jarosław Hilbrecht,WP,7,MM,10 687,2,FLUX-MEDICAL Boguniewo
 1153.,11092,Tytus Bisping,MP,7,MM,10 681,3,Lajkonik Kraków
@@ -1325,7 +1325,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 1198.,02652,Jan Górka,MP,7,MM,8 970,-,
 1199.,09387,Cezary Jarmuł,ZP,7,MM,8 959,3,FLOTA II Świnoujście
 1200.,06441,Roman Urbańczyk,MA,7,MM,8 951,3,GEOBEJUR Radom
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 1201.,06165,Dariusz Biedrzycki,MA,7,MM,8 937,2,Gambling Zamek Ciechanów
 1202.,04345,Tomasz Lisica,WM,7,MM,8 919,2,Dworek Króla Stanisława OSiR Lidzbark W.
 1203.,01703,Jan Tur,DS,7,MM,8 867,-,
@@ -1376,7 +1376,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 1248.,04078,Jan Gardocki,PD,7,MM,7 585,-,
 1249.,17167,Tomasz Kiełbasa,MA,7,MM,7 513,E,Akademia Brydża AZS UW Warszawa
 1250.,03893,Janusz Plewa,KP,7,MM,7 499,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 1251.,00556,Leopold Hartman,DS,7,MM,7 496,-,
 1252.,05893,Jacek Batóg,ZP,7,MM,7 466,2,AZS UNIWERSYTET SZCZECIŃSKI I
 1253.,05023,Paweł Gruszczyński,WP,7,MM,7 443,1,STARKA Poznań
@@ -1427,7 +1427,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 1298.,02694,Krzysztof Korosadowicz,MP,7,MM,6 589,-,
 1299.,01966,Sławomir Dobrzyński,LB,7,MM,6 560,-,
 1300.,06835,Andrzej Orłow,MA,7,MM,6 536,-,Singleton Warszawa
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 1301.,02669,Stanisław Jaros,MP,7,MM,6 507,3,Galimex Kraków
 1302.,08743,Jerzy Staszak,SL,7,MM,6 478,-,
 1303.,06321,Leszek Dzieńkowski,MA,7,MM,6 466,-,Seniorzy Płock
@@ -1478,7 +1478,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 1348.,03525,Aleksy Swoboda,SL,7,MM,5 536,1,BSBS KONSTANTA Bielsko-Biała
 1349.,02874,Agnieszka Kucharska,SW,7,MM,5 529,-,
 1350.,04748,Andrzej Wyborski,PM,7,MM,5 522,3,KS Beniaminek 03
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 1351.,03948,Maciej Stanek,KP,7,MM,5 519,-,
 1352.,06118,Jerzy Świderski,ZP,7,MM,5 501,-,
 1353.,11656,Elena Shokhan,PD,7,MM,5 457,-,
@@ -1529,7 +1529,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 1398.,06051,Marek Ostrowski,ZP,7,MM,4 467,O,KLUB BRYDŻOWY Kołobrzeg
 1399.,03103,Robert Cimr,SL,7,MM,4 462,2,PREMONT Impas Katowice
 1400.,12018,Andrzej Wilemski,KP,7,MM,4 453,1,EKO-TECH JANTAR Toruń
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 1401.,01923,Maciej Arnold,LB,7,MM,4 439,2,Instalko SBS 1 Międzyrzecz
 1402.,08271,Adam Karczmarz,PD,7,MM,4 436,2,SUDOVIA International
 1403.,09492,Jan Przygrodzki,LU,7,MM,4 389,-,
@@ -1580,7 +1580,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 1448.,04605,Jan Klapkowski,PM,7,MM,3 692,-,GTB Gdańsk
 ,04097,Andrzej Raczkowski,PD,7,MM,3 692,2,Hetman Białystok
 ,03952,Zdzisław Strzemkowski,KP,7,MM,3 692,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 1451.,02898,Zbigniew Dymiński,SW,7,MM,3 691,-,
 1452.,02968,Jarosław Piasecki,SW,7,MM,3 658,-,
 1453.,07312,Dariusz Sosin,PD,7,MM,3 648,2,Hetman Białystok
@@ -1631,7 +1631,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 1498.,03884,Wiesław Paczkowski,KP,7,MM,2 995,2,TKB PAAK CHEMIK Bydgoszcz
 1499.,06940,Sylwester Sommer,MA,7,MM,2 982,2,NOWA STACJA (BARD13)
 1500.,03498,Zbigniew Słaby,SL,7,MM,2 976,-,SINGLETON ŚLĄSK Katowice
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 1501.,05882,Mirosław Zieleniewicz,LD,7,MM,2 975,-,
 1502.,02233,Andrzej Ciesielski,LB,7,MM,2 954,-,
 1503.,04205,Zbigniew Branicki,WM,7,MM,2 946,-,
@@ -1682,7 +1682,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 1548.,10171,Yan Shpuntou,ZP,7,MM,2 131,2,AZS UNIWERSYTET SZCZECIŃSKI I
 1549.,00575,Jerzy Kokorniak,WM,7,MM,2 130,-,
 1550.,05174,Andrzej Latanowicz,WP,7,MM,2 117,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 1551.,06643,Jadwiga Jenek,MA,7,MM,2 106,-,
 1552.,05729,Bogdan Natkański,LD,7,MM,2 104,-,
 1553.,17773,Jerzy Bojarski,MP,7,MM,2 080,-,
@@ -1733,7 +1733,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 1598.,01249,Czesław Bogusławski,DS,7,MM,1 241,2,MKS Rokita Brzeg Dolny
 ,06271,Stanisław Kalinowski,MA,7,MM,1 241,-,
 1600.,01408,Mariusz Kowalczyk,DS,7,MM,1 222,1,TURBO FLY BACK Wrocław
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 1601.,11871,Magdalena Szumny,MP,7,MM,1 221,-,
 1602.,05517,Krzysztof Wośkowiak,MA,7,MM,1 179,-,Singleton Płock
 1603.,07224,Jacek Gaj,MP,7,MM,1 131,-,
@@ -1784,7 +1784,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 1648.,01892,Leszek Szymaniec,OP,7,MM,217,2,MKS Strzelce Opolskie
 1649.,02118,Eugeniusz Rybak,LB,7,MM,164,-,
 1650.,07871,Piotr Zieliński,MA,7,MM,149,2,ABNEGAT WZBS Warszawa
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 1651.,13028,Piotr Suchodolski,PM,7,MM,143,3,GTB GAME OVER Gdańsk
 1652.,05326,Robert Pogorzelski,WP,7,MM,111,-,
 1653.,02969,Waldemar Pikus,SW,7,MM,52,-,
@@ -1835,7 +1835,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 1698.,02810,Wacław Sypień,MP,5,MK,9 693,-,
 1699.,03712,Mirosław Graczkowski,KP,5,MK,9 449,-,
 1700.,01621,Wojciech Sękowski,DS,5,MK,9 432,3,BKB I Bolesławiec
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 1701.,05242,Ewa Knapik,WP,5,MK,9 405,O,Chaos Gniezno
 1702.,01456,Andrzej Litwiński,DS,5,MK,9 398,3,NORMAZET MKS Zakrzów Wrocław I
 1703.,07614,Marek Kiepura,MP,5,MK,9 372,3,Sapico Kraków
@@ -1886,7 +1886,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 1748.,02211,Krzysztof Beyga,LB,5,MK,7 667,3,MKS Sokół Żary
 1749.,03056,Witold Białas,SL,5,MK,7 569,-,SINGLETON ŚLĄSK Katowice
 1750.,10930,Zbigniew Niedziałkowski,MA,5,MK,7 551,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 1751.,08426,Robert Sadowski,MA,5,MK,7 530,2,NOWA STACJA (BARD13)
 1752.,01693,Maciej Terpiłowski,DS,5,MK,7 498,3,PROMOST AZS Wratislavia X Wrocław
 1753.,04969,Piotr Ertel,LB,5,MK,7 393,-,
@@ -1937,7 +1937,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 1798.,07937,Michał Świdziński,LU,5,MK,6 754,3,RYCHO Kraśnik
 1799.,05350,Wojciech Robiński,WP,5,MK,6 749,O,Chaos Gniezno
 1800.,02443,Wiesław Wiśniewski,LB,5,MK,6 702,3,CKR Wschowa
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 1801.,01450,Bogdan Leśniak,DS,5,MK,6 693,2,ŚWSBS Chełmiec I Termet WB
 ,05229,Adam Meller,WP,5,MK,6 693,O,BIG Brydż Poznań
 1803.,01195,Zbigniew Wilisowski,PK,5,MK,6 682,2,Wisłoka Dębica - Korso Mielec
@@ -1988,7 +1988,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 1848.,02917,Paweł Kita,SW,5,MK,6 158,-,Świętokrzyski Klub Brydżowy w Kielcach
 1849.,12229,Robert Rychlicki,KP,5,MK,6 138,2,TENISPOINT CHEMIK Bydgoszcz
 1850.,01068,Janusz Jarząbek,PK,5,MK,6 124,3,Atut Łańcut
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 1851.,05713,Mirosław Marszał,LD,5,MK,6 119,2,PKB Binż Bełchatów
 1852.,02367,Bogumił Olszewski,LB,5,MK,6 052,3,MKS Sokół Żary
 1853.,01173,Bolesław Smorąg,PK,5,MK,6 025,3,Elektryczni Świlcza
@@ -2039,7 +2039,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 1898.,06373,Jerzy Buchacz,MA,5,MK,5 408,-,
 1899.,01636,Józef Sławenta,DS,5,MK,5 407,3,BKS Miles Milicz
 1900.,04018,Wojciech Wójciak,KP,5,MK,5 397,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 1901.,04871,Jerzy Bajka,WP,5,MK,5 359,-,
 1902.,14845,Robert Krawczyk,PM,5,MK,5 341,3,BLACKWOOD Gdańsk
 1903.,02402,Zygmunt Sanocki,LB,5,MK,5 336,-,
@@ -2090,7 +2090,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 1948.,07117,Sławomir Sroczyński,LD,5,MK,4 835,3,Jagielloński Ośrodek Kultury Łódź
 1949.,01556,Jan Pawlikaniec,WP,5,MK,4 833,1,UKB KLEKS Szamotuły
 1950.,01540,Józef Olejnik,DS,5,MK,4 830,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 1951.,01320,Andrzej Górzyński,DS,5,MK,4 826,-,
 1952.,06101,Paweł Stężała,ZP,5,MK,4 811,2,PIONIER Entuzjaści Szczecin
 1953.,02941,Andrzej Łepkowski,SW,5,MK,4 810,-,
@@ -2141,7 +2141,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 1998.,09924,Jacek Kowalski,MA,5,MK,4 526,3,GEOBEJUR Radom
 ,04639,Andrzej Malinowski,PM,5,MK,4 526,-,GTB Gdańsk
 2000.,02483,Krzysztof Haase,LU,5,MK,4 507,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 2001.,06404,Aleksander Karsznia,MA,5,MK,4 503,3,GEOBEJUR Radom
 2002.,02488,Stanisław Jędrych,LU,5,MK,4 501,-,
 2003.,03733,Piotr Iwanus,KP,5,MK,4 500,O,MOSiR Rypin
@@ -2192,7 +2192,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 2048.,03651,Dariusz Borysow,KP,5,MK,4 181,3,BIN II Aleksandrów Kujawski
 2049.,04039,Andrzej Głowacki,PD,5,MK,4 179,2,SUDOVIA International
 2050.,17721,Jakub Bazyluk,MA,5,MK,4 172,E,Akademia Brydża AZS UW Warszawa
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 2051.,07158,Zbigniew Hałaczkiewicz,LU,5,MK,4 154,3,OGNISKO TKKF CHEMIK Puławy
 2052.,08253,Witold Grochulski,LU,5,MK,4 147,3,UKS KRASZAK Biała Podlaska
 2053.,01848,Marek Mazur,OP,5,MK,4 143,2,BPEC PIAST BRZEG - RSB
@@ -2243,7 +2243,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 2098.,12854,Rafał Śmiałek,MP,5,MK,3 783,2,J&J Kraków
 2099.,16177,Roman Miłkowski,LB,5,MK,3 767,2,ANNEBERG Zielona Góra - I Love Bridge
 2100.,05286,Ryszard Nowicki,WP,5,MK,3 765,3,brydz.pl
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 2101.,04104,Adam Popławski,PD,5,MK,3 757,-,
 2102.,13411,Michał Kaleta,LU,5,MK,3 756,2,SPS EKO - RÓŻANKA
 2103.,04219,Aleksander Cydejko,WM,5,MK,3 754,2,ŁĄCZNOŚĆ NARIE Morąg
@@ -2294,7 +2294,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 2148.,15023,Rafał Łangowski,MA,5,MK,3 543,2,NOWA STACJA (BARD13)
 2149.,03154,Krzysztof Gawędzki,SL,5,MK,3 541,-,
 2150.,10392,Jerzy Terlecki,WP,5,MK,3 524,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 2151.,05224,Bogusław Matuszewski,WP,5,MK,3 516,3,WKBS Września
 2152.,06805,Dariusz Morawski,LB,5,MK,3 512,-,
 2153.,06865,Jan Prokop,MA,5,MK,3 504,-,
@@ -2345,7 +2345,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 2198.,01537,Wiesław Ogrodnik,DS,5,MK,3 226,O,BKB II Bolesławiec
 2199.,09008,Alicja Kupczyk,KP,5,MK,3 224,-,
 2200.,06443,Stanisław Woźniak,MA,5,MK,3 218,3,ZAMŁYNIE ZA KOMBUD S.A. Radom
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 2201.,07164,Sviatlana Badrankova,PD,5,MK,3 209,-,
 2202.,07992,Andrzej Szczepaniak,LU,5,MK,3 205,2,FORTA BIŁGORAJ
 2203.,03188,Michał Haczewski,SL,5,MK,3 202,-,
@@ -2396,7 +2396,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 2248.,01845,Jerzy Marszałkowski,OP,5,MK,2 987,3,NTB Nysa
 2249.,02345,Jerzy Miller,LB,5,MK,2 986,-,
 2250.,06033,Włodzimierz Mysłek,ZP,5,MK,2 966,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 2251.,06078,Tadeusz Rutkowski,ZP,5,MK,2 964,-,
 2252.,04573,Michał Gapa,PM,5,MK,2 961,3,SCK IMPAS Sztum
 2253.,06108,Sławomir Szczełkun,ZP,5,MK,2 956,3,MDK Międzyzdroje
@@ -2447,7 +2447,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 2298.,05661,Wojciech Koeppe,LD,5,MK,2 733,-,
 2299.,04392,Robert Ostapczuk,WM,5,MK,2 729,3,Warmia-Dymer Biskupiec
 2300.,05203,Sławomir Maciejewski,WP,5,MK,2 715,3,Platan Pleszew
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 2301.,01691,Grzegorz Tarka,DS,5,MK,2 713,2,Szlem Dzierżoniów
 2302.,08279,Andrzej Sławiński,MA,5,MK,2 711,-,Singleton Radom
 2303.,09558,Waldemar Dębiczak,DS,5,MK,2 710,O,Klub Logiczny Piechowice
@@ -2498,7 +2498,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 2348.,08526,Artur Bobołowicz,MP,5,MK,2 480,-,
 2349.,02415,Stanisław Stefański,LB,5,MK,2 479,3,MKS Sokół Żary
 2350.,01409,Jarosław Kowalik,DS,5,MK,2 478,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 2351.,01907,Piotr Woźniak,OP,5,MK,2 476,3,BLOTKA Dobrodzień
 2352.,08177,Wiesław Kubiński,DS,5,MK,2 473,3,KBS Kolejarz III Wrocław
 2353.,16493,Jan Niemiec,MP,5,MK,2 471,-,
@@ -2549,7 +2549,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 2398.,04574,Ignacy Gaweł,PM,5,MK,2 218,-,
 2399.,01134,Zbigniew Pelc,PK,5,MK,2 208,-,
 2400.,12634,Monika Sautaux,KP,5,MK,2 194,1,EKO-TECH JANTAR Toruń
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 2401.,18032,Maciej Kulikowski,MA,5,MK,2 186,O,KB Saska Kępa
 2402.,06584,Dariusz Dyzio,MA,5,MK,2 170,-,
 2403.,17155,Sławomir Bąk,MA,5,MK,2 169,2,Elektroosmoza Legionowo
@@ -2600,7 +2600,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,04653,Edmund Monkiewicz,PM,5,MK,1 977,3,GTB Makabi Gdańsk
 2449.,03115,Stanisław Dankowski,KP,5,MK,1 966,-,
 2450.,05126,Wiesław Kordoński,WP,5,MK,1 961,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 2451.,02294,Jerzy Kornicki,LB,5,MK,1 949,-,
 2452.,08393,Janusz Anczakowski,MA,5,MK,1 939,3,EKONAFT Radom
 ,09301,Jerzy Bronisławski,KP,5,MK,1 939,3,DOL-BY Bydgoszcz
@@ -2651,7 +2651,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 2498.,02494,Grzegorz Kizeweter,LU,5,MK,1 734,-,
 2499.,04100,Mieczysław Kudźma,PD,5,MK,1 730,3,KONTRI Białystok
 2500.,01565,Jan Pisarek,DS,5,MK,1 727,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 2500.,06130,Wojciech Waszkiewicz,ZP,5,MK,1 727,3,LKS POMORZANIN Nowogard
 2502.,02120,Ignacy Sakowicz,LB,5,MK,1 723,-,
 2503.,01982,Andrzej Garczyński,LB,5,MK,1 717,3,Wastaafu Gorzów Wlkp. - Fundacja ILB
@@ -2702,7 +2702,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 2548.,06000,Romuald Leoniewski,ZP,5,MK,1 515,-,ZZBS Szczecin
 2549.,06756,Radosław Lula,MA,5,MK,1 501,-,
 2550.,04391,Stefan Osika,PK,5,MK,1 500,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 2551.,05142,Waldemar Kożuchowski,WP,5,MK,1 495,1,KS KM IMPORT JAGIELLONKA PIŁA
 2552.,10928,Robert Niedziałkowski,MA,5,MK,1 494,-,
 2553.,05074,Janusz Jędrzejewski,WP,5,MK,1 489,3,NZBS Credo Piła
@@ -2753,7 +2753,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 2598.,05964,Waldemar Kaśkiewicz,ZP,5,MK,1 296,-,
 ,05436,Mieczysław Szczechowiak,WP,5,MK,1 296,-,PAB Poznań
 2600.,05525,Maciej Wybranowski,WP,5,MK,1 293,3,IOR II Poznań
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 2601.,04352,Dariusz Łuczak,WM,5,MK,1 290,2,ŁĄCZNOŚĆ NARIE Morąg
 2602.,08566,Andrzej Szadurski,PM,5,MK,1 288,-,
 2603.,14325,Czesław Szypuła,PK,5,MK,1 279,-,
@@ -2804,7 +2804,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 2648.,01473,Krzysztof Makomaski,DS,5,MK,1 103,-,
 2649.,02232,Michał Cieplicki,LB,5,MK,1 097,-,
 2650.,01535,Mścisław Ociesa,DS,5,MK,1 094,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 2651.,02109,Jerzy Poślednik,LB,5,MK,1 090,-,
 2652.,06291,Zdzisław Olszewski,MA,5,MK,1 080,3,Dom Kultury Rembertów
 ,14688,Jacek Szczerba,MP,5,MK,1 080,2,J&J Kraków
@@ -2855,7 +2855,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 2698.,04691,Eugeniusz Rogiński,PM,5,MK,932,-,GTB Gdańsk
 2699.,06832,Teresa Olczyk,MA,5,MK,926,-,
 2700.,04850,Krystyna Widerska,PM,5,MK,919,-,STB Słupsk
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 2701.,01618,Andrzej Sawko,DS,5,MK,914,2,MKS Rokita Brzeg Dolny
 2702.,03698,Jarosław Frąckowiak,WP,5,MK,912,-,
 2703.,07301,Andrzej Lasota,MP,5,MK,908,-,
@@ -2906,7 +2906,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 2748.,10495,Łukasz Rokita,DS,5,MK,740,3,BKS Miles Milicz
 2749.,10003,Eugeniusz Wilniewiec,LB,5,MK,738,-,
 2750.,05228,Jacek Melcer,WP,5,MK,736,O,Na Dobrej
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 2751.,04429,Patrycjusz Reszczyński,WM,5,MK,735,-,
 2752.,09843,Krzysztof Kozioł,SL,5,MK,731,-,
 2753.,04491,Ewa Tutaj,WM,5,MK,729,-,Zorro22 Olsztyn
@@ -2957,7 +2957,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 2798.,06494,Ryszard Bałuk,MA,5,MK,567,-,
 2799.,02835,Józef Waśko,MP,5,MK,565,-,
 2800.,10466,Józef Dybus,MA,5,MK,564,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 2801.,03885,Józef Palewicz,KP,5,MK,557,3,KJ Plast Bydgoszcz
 2802.,01262,Krystyna Chrzanowska,DS,5,MK,556,-,
 2803.,06387,Bogdan Gancarz,MA,5,MK,553,3,FOTO-SOWA Puławy
@@ -3008,7 +3008,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 2848.,12269,Tomasz Jakóbczak,ZP,5,MK,376,3,FLOTA II Świnoujście
 ,01569,Mieczysław Podrecki,DS,5,MK,376,-,
 ,06119,Alina Talaga-Drabik,ZP,5,MK,376,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 2851.,03629,Tadeusz Żurawski,SL,5,MK,372,-,
 2852.,03227,Andrzej Kaczmarczyk,SL,5,MK,367,-,
 2853.,13591,Konrad Stenzel,MA,5,MK,364,2,NOWA STACJA (BARD13)
@@ -3059,7 +3059,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,02872,Grzegorz Żyła,MP,5,MK,235,2,AZS AGH Piast Kraków
 2899.,03447,Marcin Przywitowski,MA,5,MK,226,-,
 2900.,16695,Marcin Jankowski,MA,5,MK,223,-,Singleton Warszawa
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 2901.,09464,Bartosz Gajewski,LB,5,MK,222,3,Metallbau Chrostowski MOSiR II Kostrzyn
 2902.,04582,Ludwik Grubba,PM,5,MK,220,-,
 2903.,17384,Joanna Derewońko,MA,5,MK,216,-,
@@ -3110,7 +3110,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 2948.,10870,Paweł Krzemiński,KP,5,MK,52,1,BIN Aleksandrów Kujawski
 2949.,03263,Zbigniew Koszowski,SL,5,MK,50,-,
 2950.,04705,Andrzej Staszkiewicz,PM,5,MK,45,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 2950.,06478,Stanisław Tranda,LU,5,MK,45,3,UKS KRASZAK Biała Podlaska
 2952.,09338,Stanisław Lisowski,PD,5,MK,43,2,MOK Mońki
 2953.,01887,Piotr Spisla,OP,5,MK,40,-,
@@ -3161,7 +3161,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 2998.,04184,Tadeusz Augustynowicz,WM,4,MK,2 850,-,
 2999.,03412,Jacek Pasek,SL,4,MK,2 848,3,SV Tarnowskie Góry
 3000.,09046,Krzysztof Gaik,LB,4,MK,2 842,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 3001.,04774,Zdzisław Drewniak,PM,4,MK,2 840,-,
 ,05814,Janusz Słowiński,LD,4,MK,2 840,-,
 3003.,06955,Wojciech Szkiełko,MA,4,MK,2 839,-,
@@ -3212,7 +3212,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,01580,Jerzy Prokosz,DS,4,MK,2 727,-,
 ,04512,Zdzisław Zackiewicz,WM,4,MK,2 727,-,
 3050.,02265,Jarosław Hołowiak,LB,4,MK,2 725,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 3051.,05982,Waldemar Krych,ZP,4,MK,2 724,3,FLOTA II Świnoujście
 3052.,08288,Grzegorz Bachanek,SW,4,MK,2 718,-,
 3053.,11521,Kazimierz Komorowicz,DS,4,MK,2 717,O,NORMAZET MKS Zakrzów Wrocław III
@@ -3263,7 +3263,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 3098.,07162,Mariusz Florkiewicz,OP,4,MK,2 588,-,
 ,11180,Jan Glenz,OP,4,MK,2 588,3,RSB I Racibórz
 3100.,02656,Zbigniew Gruszecki,MP,4,MK,2 586,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 3101.,07915,Wiesław Skowron,LB,4,MK,2 578,-,
 3102.,11394,Joanna Kotarba,MP,4,MK,2 577,-,
 3103.,03774,Andrzej Kojro,KP,4,MK,2 573,-,
@@ -3314,7 +3314,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 3148.,01936,Władysław Biernat,LB,4,MK,2 461,3,Instalko SBS 2 Międzyrzecz
 3149.,09996,Krzysztof Sinicki,LB,4,MK,2 458,3,MKS Sokół Żary
 3150.,03065,Tomasz Bobrowski,SL,4,MK,2 457,3,SV Tarnowskie Góry
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 3150.,10458,Ryszard Maras,LD,4,MK,2 457,3,KDK III Kutno
 ,07152,Jacek Mazurkiewicz,OP,4,MK,2 457,3,RODŁO-DOŁEK OPOLE
 3153.,04756,Andrzej Żaboklicki,PM,4,MK,2 456,O,SZKUTY Brydż Kosakowo
@@ -3365,7 +3365,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 3198.,06589,Mieczysław Falaciński,MA,4,MK,2 321,-,
 3199.,05764,Włodzimierz Pietrzyk,LD,4,MK,2 320,-,
 ,04142,Wincenty Wybranowski,PD,4,MK,2 320,3,ŁABS Dolina Narwi Łomża
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 3201.,02858,Wojciech Zemek,MP,4,MK,2 317,-,
 3202.,01645,Bogdan Sokół,DS,4,MK,2 313,3,KBS Kolejarz III Wrocław
 3203.,03743,Marian Jankowski,KP,4,MK,2 301,3,DOL-BY Bydgoszcz
@@ -3416,7 +3416,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 3248.,13007,Jan Kurzyk,PM,4,MK,2 194,-,
 3249.,03047,Czesław Batkowski,SL,4,MK,2 189,-,
 3250.,06641,Marek Jaźwiński,MA,4,MK,2 187,-,Singleton Warszawa
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 3251.,01665,Adam Sudoł,DS,4,MK,2 181,-,
 3252.,06788,Piotr Michałowski,MA,4,MK,2 180,-,
 3253.,04257,Stefan Goś,WM,4,MK,2 178,-,
@@ -3467,7 +3467,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,05021,Tadeusz Grobys,WP,4,MK,2 062,3,Platan Pleszew
 3299.,04231,Zygmunt Duk,WM,4,MK,2 059,-,
 ,10862,Kamil Sawwa,PD,4,MK,2 059,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 3301.,05243,Tomasz Mieloch,WP,4,MK,2 055,-,PAB Poznań
 ,01740,Marek Woźniak,DS,4,MK,2 055,1,Erbud KS AZS Wratislavia IX WR
 3303.,12660,Sławomir Piętak,LU,4,MK,2 051,-,
@@ -3518,7 +3518,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 3348.,18993,Franciszek Bułyszko,LB,4,MK,1 937,3,GSBS DOM KULTURY GÓRA
 3349.,03590,Janusz Wituszyński,SL,4,MK,1 932,3,SV Tarnowskie Góry
 3350.,01072,Waldemar Kaszuba,PK,4,MK,1 926,3,Come-Back Dropol Rzeszów
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 3351.,11383,Jan Meretik,MA,4,MK,1 922,-,
 3352.,12264,Paweł Rokoszyński,MA,4,MK,1 921,3,WIST 2 Pomiechówek
 ,10426,Marek Szakun,MA,4,MK,1 921,3,TEAM Natolin Warszawa
@@ -3569,7 +3569,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 3398.,06445,Ryszard Wójcik,MA,4,MK,1 817,-,Singleton Radom
 3399.,12455,Piotr Nauman,MA,4,MK,1 812,-,
 3400.,10150,Jerzy Stepka,WP,4,MK,1 808,O,Wełna Skoki
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 3401.,12680,Michał Wróblewski,ZP,4,MK,1 801,3,DRAWNO
 3402.,05622,Włodzimierz Graczyk,LD,4,MK,1 797,-,
 3403.,07064,Witold Wojdyłło,MA,4,MK,1 795,3,MOIIB Warszawa
@@ -3620,7 +3620,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 3448.,12048,Andrzej Błoński,KP,4,MK,1 660,-,
 3449.,04813,Wojciech Majchrowski,PM,4,MK,1 658,-,
 3450.,09289,Józef Wasilewski,WM,4,MK,1 653,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 3451.,04080,Tadeusz Duda,PD,4,MK,1 647,-,
 ,16716,Lena Ostrowska,MA,4,MK,1 647,3,BATMIX ESKOM Warszawa
 3453.,06410,Włodzimierz Król,MA,4,MK,1 646,3,EKONAFT Radom
@@ -3671,7 +3671,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 3498.,01511,Robert Mroczek,DS,4,MK,1 487,O,KBS Kolejarz I Wrocław
 3499.,05891,Czesław Barczyk,ZP,4,MK,1 484,-,
 3500.,02549,Zdzisław Rusek,LU,4,MK,1 481,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 3501.,14006,Andrzej Tarlecki,MA,4,MK,1 479,O,Koźmiński Bridge Team
 3502.,03446,Bronisław Procyk,SL,4,MK,1 477,-,
 3503.,08802,Robert Grad,WM,4,MK,1 475,3,Zatoka Braniewo
@@ -3722,7 +3722,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 3548.,10234,Katarzyna Górniak,MA,4,MK,1 336,-,
 ,15044,Piotr Surdyk,WP,4,MK,1 336,O,PKB Kontrakt Poznań
 3550.,03504,Witold Smętek,SL,4,MK,1 332,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 3551.,04548,Andrzej Burczyk,PM,4,MK,1 331,O,KONTRA Krokowa
 3552.,03270,Marek Kozik,SL,4,MK,1 319,-,
 3553.,14369,Józef Klimowski,ZP,4,MK,1 315,-,ZZBS Szczecin
@@ -3773,7 +3773,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 3598.,02291,Kazimierz Kawka,LB,4,MK,1 215,-,
 3599.,09650,Roman Skrzypczak,DS,4,MK,1 213,-,
 3600.,12493,Władysław Szałkiewicz,PD,4,MK,1 210,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 3601.,07946,Edward Witan,MA,4,MK,1 206,3,FORSING Warszawa
 3602.,03396,Roman Ochot,SL,4,MK,1 204,3,DDK I BRZEZINY ŚLĄSKIE
 3603.,08327,Lech Klorek,ZP,4,MK,1 203,O,PIĄTEK Szczecin
@@ -3824,7 +3824,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 3648.,06821,Daniel Norek,MA,4,MK,1 092,-,
 3649.,13841,Marek Parol,PM,4,MK,1 089,-,STB Słupsk
 3650.,12620,Bartłomiej Cybula,PM,4,MK,1 083,3,GTB GAME OVER Gdańsk
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 3651.,09122,Tomasz Solarski,WP,4,MK,1 082,3,NZBS Credo Piła
 ,02845,Aleksander Wodyński,MP,4,MK,1 082,-,
 3653.,11836,Jerzy Karwacki,LU,4,MK,1 081,3,MARIASZ Dęblin
@@ -3875,7 +3875,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 3698.,09543,Tadeusz Bryszewski,LD,4,MK,1 000,-,
 ,08466,Edward Cios,PM,4,MK,1 000,-,
 3700.,10612,Ryszard Calik,MP,4,MK,994,3,Światowid Kraków
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 3701.,05583,Henryk Chojnacki,LD,4,MK,990,-,
 ,01374,Gerard Kempiński,DS,4,MK,990,-,
 ,07111,Ewa Serdiukow-Tokarczyk,LD,4,MK,990,3,Veolia Łódź
@@ -3926,7 +3926,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,01773,Jacek Zmarzły,DS,4,MK,882,-,
 3749.,08322,Bohdan Zacerkownyj,WP,4,MK,878,-,
 3750.,04206,Zygmunt Brzozowski,WM,4,MK,876,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 3751.,07734,Waldemar Jurczak,MP,4,MK,874,-,
 ,07335,Janusz Kaniuk,SL,4,MK,874,-,
 ,01902,Sławomir Wiszniewski,OP,4,MK,874,-,
@@ -3977,7 +3977,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 3798.,19754,Mirosław Mamoń,MP,4,MK,806,-,
 3799.,06959,Zofia Szuchnik,MA,4,MK,804,3,FORSING Warszawa
 3800.,08453,Grzegorz Kostrzewa,OP,4,MK,802,3,NTB Nysa
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 3801.,03460,Janusz Rawski,SL,4,MK,797,-,
 3802.,09829,Piotr Kabus,SL,4,MK,796,-,
 3803.,09184,Julian Mroziak,OP,4,MK,791,-,
@@ -4028,7 +4028,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 3848.,04462,Zdzisław Stankiewicz,WM,4,MK,714,-,
 3849.,06328,Jacek Iwański,MA,4,MK,712,-,
 ,07539,Andrzej Juszczyk,MP,4,MK,712,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 3849.,01182,Wilhelm Szczepanek,PK,4,MK,712,-,Singleton Podkarpacki
 3852.,06704,Edward Kowalewski,MA,4,MK,711,-,
 3853.,06773,Grzegorz Makowski,MA,4,MK,710,-,
@@ -4079,7 +4079,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 3898.,06781,Kazimierz Marcinkowski,MA,4,MK,632,O,Kajakowa 60+
 3899.,05946,Wiktor Jackowski,ZP,4,MK,631,-,
 3900.,09563,Jerzy Gdeczyk,DS,4,MK,629,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 3901.,04866,Andrzej Andrzejewski,WP,4,MK,628,O,Pil-Building Piła
 3902.,12328,Zygmunt Kondyjowski,ZP,4,MK,626,3,SSMBS Brydż-Star - KW Blue-Star 1
 3903.,15760,Tadeusz Pawlak,MA,4,MK,625,-,
@@ -4130,7 +4130,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 3948.,03635,Dariusz Bartoś,KP,4,MK,548,3,EUROBAC Nakło
 3949.,08101,Andrzej Kąca,PM,4,MK,542,-,
 3950.,04245,Leszek Gałczyk,WM,4,MK,538,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 3951.,07592,Jurek Kordoński,WP,4,MK,528,-,
 3952.,10851,Stanisław Borowiecki,LD,4,MK,527,-,
 ,05105,Stanisław Kaszuba,WP,4,MK,527,-,
@@ -4181,7 +4181,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 3998.,04780,Grzegorz Gan,PM,4,MK,446,-,STB Słupsk
 ,06035,Aleksander Neimann,ZP,4,MK,446,-,
 ,14389,Tomasz Prądzyński,OP,4,MK,446,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 4001.,12421,Zygmunt Sołtysiak,MA,4,MK,445,-,
 4002.,04076,Wiesław Niewiński,PD,4,MK,444,-,
 ,07411,Kazimierz Pawłowski,SL,4,MK,444,-,
@@ -4232,7 +4232,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 4048.,02908,Ryszard Jabłoński,SW,4,MK,368,-,
 4049.,05912,Stefan Cichy,ZP,4,MK,367,-,
 ,13422,Leszek Zieliński,SL,4,MK,367,-,BSBS Singleton Bielsko-Biała
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 4051.,10507,Igor Terszak,MA,4,MK,363,3,ICO Wołomin - Spójnia Warszawa
 4052.,11758,Eugeniusz Gąska,DS,4,MK,361,3,KS Konfeks I Legnica
 ,01079,Grzegorz Kornak,PK,4,MK,361,3,Fundacja Kolbuszowa
@@ -4283,7 +4283,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 4098.,03503,Krzysztof Smętek,SL,4,MK,285,-,
 4099.,04891,Piotr Biderman,WP,4,MK,282,-,
 4100.,03900,Cezary Pozorski,KP,4,MK,281,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 4101.,04679,Czesław Pietrzyk,PM,4,MK,280,-,
 4102.,01192,Marek Wesołowski,PK,4,MK,279,-,
 4103.,05420,Alicja Stefanowska,WP,4,MK,278,-,PAB Poznań
@@ -4334,7 +4334,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,02552,Piotr Sopiński,LU,4,MK,206,-,
 4149.,10535,Jerzy Szymański,WP,4,MK,204,-,
 4150.,12158,Izabella Jaworska,LD,4,MK,201,-,Singleton LD
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 4150.,03245,Korneliusz Kempa,SL,4,MK,201,2,GKS Piast Gliwice I
 4152.,05955,Roman Jaśkiewicz,ZP,4,MK,200,-,
 ,06968,Piotr Świątek,MA,4,MK,200,-,
@@ -4385,7 +4385,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,13845,Jerzy Madera,PK,4,MK,122,2,Gonzo Concert Sanok
 4199.,10367,Zbigniew Winiarski,ZP,4,MK,119,-,
 4200.,04836,Tadeusz Sadoczyński,PM,4,MK,116,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 4200.,02800,Andrzej Stec,MP,4,MK,116,-,
 4202.,17983,John Catlow,WP,4,MK,114,3,brydz.pl
 4203.,14862,Krzysztof Cetera,MP,4,MK,109,3,Just Bridge II AZS AGH Kraków
@@ -4436,7 +4436,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 4248.,05261,Jarosław Modlibowski,WP,4,MK,31,O,Wełna Skoki
 ,08976,Maciej Pielaszkiewicz,MA,4,MK,31,-,
 4250.,08725,Stanisław Pawłowski,SL,4,MK,29,-,SINGLETON ŚLĄSK Katowice
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 4251.,00662,Henryk Weredyn,DS,4,MK,28,-,
 4252.,05182,Marek Lis,WP,4,MK,27,3,IOR II Poznań
 4253.,03919,Kazimierz Rogulski,KP,4,MK,26,-,
@@ -4487,7 +4487,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,00576,Zofia Kowal,MP,4,MK,0,-,
 ,00586,Marek Kumanowski,MA,4,MK,0,-,
 ,00589,Jerzy Kwiatkowski,KP,4,MK,0,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 4267.,12616,Marian Leszczyński,MP,4,MK,0,-,
 ,00592,Małgorzata Lew-Kajzer,PM,4,MK,0,-,
 ,00594,Krzysztof Lisicki,MA,4,MK,0,-,
@@ -4538,7 +4538,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,18018,Zbigniew Niziołek,PK,3,MR,1 975,3,Elektryczni Świlcza
 4349.,02914,Marek Jaskólski,SW,3,MR,1 971,3,SZLEM
 4350.,03793,Stanisław Krupa,KP,3,MR,1 970,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 4350.,05278,Sebastian Nowacki,WP,3,MR,1 970,-,
 4352.,04771,Jan Czeczotko,PM,3,MR,1 967,-,
 ,02437,Bolesław Urbaniak,LB,3,MR,1 967,-,
@@ -4589,7 +4589,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 4398.,07682,Zbigniew Chyl,MP,3,MR,1 874,-,
 ,14704,Igor Godun,PD,3,MR,1 874,-,
 ,06811,Jacek Musiał,MA,3,MR,1 874,O,KAM BEK Warszawa
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 4401.,08989,Katarzyna Jażdrzyk,MA,3,MR,1 872,-,
 4402.,08218,Tomasz Nadolski,KP,3,MR,1 869,-,
 4403.,08122,Tomasz Tarasiuk,PM,3,MR,1 868,2,GTB ATUT Rumia
@@ -4640,7 +4640,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 4448.,01854,Romuald Naumowicz,OP,3,MR,1 807,-,
 4449.,03808,Jan Latzke,KP,3,MR,1 806,-,
 4450.,09707,Janusz Marszałkiewicz,MA,3,MR,1 805,O,KONWENCJA Działdowo
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 4451.,04326,Zenon Kryński,WM,3,MR,1 804,-,
 4452.,06114,Władysław Szlachtowicz,ZP,3,MR,1 803,-,
 4453.,16778,Jerzy Rybarski,PK,3,MR,1 802,3,Atut Łańcut
@@ -4691,7 +4691,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,05392,Jerzy Skwirowski,WP,3,MR,1 741,O,GOK Kaczory
 4499.,10673,Tatiana Kozon,MA,3,MR,1 738,-,
 4500.,01261,Tadeusz Chrost,DS,3,MR,1 737,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 4500.,06198,Wojciech Kała,MA,3,MR,1 737,O,PSBS Impas Płońsk
 4502.,13602,Ewa Kwiecień,MP,3,MR,1 736,2,Leskowiec Wadowice - Beskid Andrychów
 4503.,14528,Marek Palubiński,MA,3,MR,1 734,3,AltMan Smart Warszawa
@@ -4742,7 +4742,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 4548.,05012,Adam Grabowski,DS,3,MR,1 671,-,
 4549.,02229,Henryk Choiński,LB,3,MR,1 670,3,GSBS DOM KULTURY GÓRA
 4550.,04023,Andrzej Wyszyński,KP,3,MR,1 668,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 4551.,01764,Urszula Załuska,DS,3,MR,1 667,-,
 4552.,04826,Zygmunt Pawlak,PM,3,MR,1 665,-,
 ,03958,Franciszek Szafranek,KP,3,MR,1 665,3,MLKS Solec Kujawski
@@ -4793,7 +4793,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,03543,Tomasz Szymczyk,SL,3,MR,1 606,-,SINGLETON ŚLĄSK Katowice
 4599.,07892,Dariusz Kowalczyk,LB,3,MR,1 605,-,
 ,01841,Grzegorz Majka,OP,3,MR,1 605,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 4601.,01275,Henryk Czywczyński,DS,3,MR,1 604,-,
 ,06868,Jerzy Przyjemski,MA,3,MR,1 604,-,
 ,09118,Włodzimierz Robak,WP,3,MR,1 604,3,Poznański Klub Brydżowy
@@ -4844,7 +4844,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 4648.,03641,Krzysztof Bielicki,KP,3,MR,1 508,-,
 4649.,01759,Gwidon Zajączkowski,DS,3,MR,1 507,-,
 4650.,08602,Piotr Rewak,LB,3,MR,1 502,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 4651.,08983,Tadeusz Kustra,LU,3,MR,1 500,-,
 4652.,07607,Paweł Radwan,WM,3,MR,1 499,-,
 ,10557,Zdzisław Żuber,PK,3,MR,1 499,3,Greinplast Dębica
@@ -4895,7 +4895,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 4698.,15213,Grzegorz Szulc,MA,3,MR,1 440,-,
 4699.,01426,Jerzy Kubica,DS,3,MR,1 439,-,
 4700.,05601,Łukasz Domalążek,LD,3,MR,1 438,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 4700.,10453,Dariusz Szopieraj,WP,3,MR,1 438,O,Piast Złotów
 4702.,07635,Bronisław Mucha,MP,3,MR,1 435,-,
 4703.,02432,Władysław Święcański,LB,3,MR,1 433,-,
@@ -4946,7 +4946,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,08804,Justyna Stankiewicz,WP,3,MR,1 386,-,
 4749.,04359,Paweł Makal,WM,3,MR,1 385,-,
 4750.,05657,Krzysztof Kiepas,LD,3,MR,1 382,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 4751.,11646,Sebastian Wybranowski,PK,3,MR,1 381,-,
 4752.,08102,Zygmunt Mikołajczyk,PM,3,MR,1 380,-,
 4753.,04258,Krzysztof Gotard,WM,3,MR,1 379,-,
@@ -4997,7 +4997,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 4798.,15650,Maciej Podgórny,OP,3,MR,1 330,3,NTB Nysa
 4799.,13104,Arkadiusz Stasiak,LB,3,MR,1 329,-,
 4800.,10386,Jarosław Kuźba,ZP,3,MR,1 328,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 4801.,12963,Wacław Tomala,MP,3,MR,1 327,-,
 4802.,10591,Joanna Brede,WP,3,MR,1 326,-,
 ,16702,Andrzej Jawień,MP,3,MR,1 326,-,
@@ -5048,7 +5048,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 4848.,17545,Franciszek Kurlit,MP,3,MR,1 282,2,CKiS Skawina
 ,13910,Lesław Mandecki,MA,3,MR,1 282,-,
 ,07013,Józef Wychowałek,MA,3,MR,1 282,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 4851.,09094,Paweł Kierszka,WP,3,MR,1 281,3,Ziemowit Złotów
 4852.,12235,Mieczysław Maciążek,WM,3,MR,1 280,1,Vęgoria WCK Węgorzewo
 ,11803,Agnieszka Małas,DS,3,MR,1 280,-,
@@ -5099,7 +5099,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,03432,Stanisław Piwko,SL,3,MR,1 235,-,
 4899.,11281,Jerzy Dąbrowski,LD,3,MR,1 233,-,
 4900.,08862,Zbigniew Sadziński,DS,3,MR,1 232,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 4901.,03358,Aleksandra Mierzejewska,SL,3,MR,1 231,-,
 4902.,15980,Benedykt Kaliciński,MP,3,MR,1 230,-,
 4903.,05874,Alicja Woźniak,LD,3,MR,1 226,-,
@@ -5150,7 +5150,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 4948.,04146,Ryszard Socha,WM,3,MR,1 175,-,
 4949.,03535,Czesław Szostok,SL,3,MR,1 174,-,
 4950.,05707,Andrzej Majsterek,LD,3,MR,1 172,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 4951.,03193,Jacek Hartleb,SL,3,MR,1 171,-,
 ,11177,Ireneusz Malczewski,OP,3,MR,1 171,3,BLOTKA Dobrodzień
 ,15110,Artur Zariczny,PK,3,MR,1 171,-,
@@ -5201,7 +5201,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,04988,Marian Gasztych,WP,3,MR,1 090,-,
 ,11173,Zbigniew Grzeszczyk,MA,3,MR,1 090,-,
 ,03289,Adam Książek,SL,3,MR,1 090,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 5001.,08114,Tadeusz Święcicki,KP,3,MR,1 088,-,
 5002.,13906,Anna Andrejczyk,MA,3,MR,1 087,-,MKS Przasnysz
 5003.,13753,Jarosław Hryniewicz,WM,3,MR,1 084,-,
@@ -5252,7 +5252,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,02423,Halina Szajowska,LB,3,MR,1 047,-,
 5049.,10432,Zbigniew Manowski,MA,3,MR,1 046,-,
 5050.,07519,Marcin Horodyski,SW,3,MR,1 045,-,Świętokrzyski Klub Brydżowy w Kielcach
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 5050.,11665,Andrzej Przygodzki,SW,3,MR,1 045,-,Świętokrzyski Klub Brydżowy w Kielcach
 5052.,02905,Wojciech Golański,SW,3,MR,1 042,-,
 5053.,07093,Tomasz Krym,LD,3,MR,1 041,1,Laser DeLux Łódź
@@ -5303,7 +5303,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 5098.,02334,Wiesława Malewicz,LB,3,MR,996,3,MKS Sokół Żary
 5099.,01122,Sławomir Mulawka,PK,3,MR,995,-,
 5100.,13905,Grzegorz Andrejczyk,MA,3,MR,994,-,MKS Przasnysz
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 5100.,02328,Zygmunt Macina,LB,3,MR,994,-,
 5102.,02331,Edward Makarewicz,LB,3,MR,993,-,
 ,09762,Marek Michałowicz,PD,3,MR,993,-,
@@ -5354,7 +5354,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,03342,Ryszard Matysiok,SL,3,MR,945,-,
 5149.,10462,Zbigniew Gralewski,LD,3,MR,944,-,
 ,07457,Adam Sawczyński,MP,3,MR,944,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 5151.,12390,Katarzyna Klimkiewicz,PM,3,MR,943,-,GTB Gdańsk
 5152.,11169,Stanisław Graboń,OP,3,MR,939,3,NTB Nysa
 ,02492,Paweł Katarzyński,LU,3,MR,939,-,
@@ -5405,7 +5405,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 5198.,14870,Mieczysław Antosz,SL,3,MR,887,3,SV Tarnowskie Góry
 ,09771,Jacek Bąkowski,MA,3,MR,887,O,PSBS Impas Płońsk
 5200.,02197,Józef Żarski,LB,3,MR,885,3,Metallbau Chrostowski MOSiR II Kostrzyn
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 5201.,01579,Tomasz Proczkowski,DS,3,MR,884,-,
 5202.,06587,Jan Dzierżko,MA,3,MR,883,-,
 ,07304,Franciszek Miska,MP,3,MR,883,-,
@@ -5456,7 +5456,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 5248.,03133,Alfred Figiel,SL,3,MR,833,-,
 ,10158,Jarosław Kłosiński,WM,3,MR,833,3,CENTRUM Olsztyn
 ,01204,Waldemar Zarębski,PK,3,MR,833,3,Fundacja Kolbuszowa
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 5251.,14350,Edmund Kolmas,SL,3,MR,832,-,
 ,16178,Leszek Tarnogrodzki,OP,3,MR,832,3,RODŁO-DOŁEK OPOLE
 ,04537,Marta Zaleska,PM,3,MR,832,-,
@@ -5507,7 +5507,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,17679,Jacek Kowalewski,MA,3,MR,772,-,
 5299.,08131,Regina Ziębicka,PM,3,MR,760,-,
 5300.,15263,Andrzej Rzechuła,MA,3,MR,759,3,Altkom Akademia SMART
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 5301.,10427,Janusz Sołtysiak,MA,3,MR,758,-,
 5302.,03302,Mieczysław Kuza,SL,3,MR,757,-,
 ,09427,Mariusz Wierzchowski,ZP,3,MR,757,O,KLUB BRYDŻOWY Kołobrzeg
@@ -5558,7 +5558,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 5348.,03468,Rafał Romanowski,SL,3,MR,699,-,
 5349.,08387,Zbigniew Rakowski,LB,3,MR,698,-,
 5350.,07934,Jerzy Marczak,LU,3,MR,697,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 5351.,11503,Mirosława Miętkiewska,WP,3,MR,694,O,BIG Brydż Poznań
 ,05861,Dariusz Weider,LD,3,MR,694,-,
 5353.,06523,Andrzej Brzeszczak,MA,3,MR,692,-,
@@ -5609,7 +5609,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,01911,Władysław Załanowski,OP,3,MR,657,-,
 5399.,14165,Sylwester Gołdyn,DS,3,MR,656,3,ZKBS II Zgorzelec
 ,03296,Arkadiusz Kulawik,SL,3,MR,656,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 5401.,04996,Edward Glon,WP,3,MR,655,-,
 ,06666,Tadeusz Karolak,MA,3,MR,655,-,
 ,03251,Jerzy Kmiecik,SL,3,MR,655,-,
@@ -5660,7 +5660,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 5448.,03238,Tomasz Kapera,SL,3,MR,622,-,
 5449.,11743,Krzysztof Miałkowski,MA,3,MR,621,-,
 ,11240,Andrzej Pluszczewski,SL,3,MR,621,3,GKS Piast Gliwice III
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 5449.,11457,Michał Zimniewicz,WP,3,MR,621,-,
 5452.,02257,Jerzy Górny,LB,3,MR,620,-,
 ,01523,Jan Niebudek,DS,3,MR,620,3,KS Konfeks I Legnica
@@ -5711,7 +5711,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,08991,Grzegorz Seweryn,ZP,3,MR,593,3,SSMBS Brydż-Star - KW Blue-Star 1
 5499.,18826,Wiesław Sirman,ZP,3,MR,592,3,KONTRA II Koszalin
 5500.,01851,Aleksander Mielcarski,OP,3,MR,590,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 5501.,07100,Arkadiusz Olejniczak,LD,3,MR,589,-,
 5502.,14476,Jacek Gąsiorek,PK,3,MR,585,3,Elektryczni Świlcza
 ,13656,Wiesław Olczyk,LD,3,MR,585,3,Zdrowie Piast Sieradz
@@ -5762,7 +5762,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,03119,Damian Gałuszka,SL,3,MR,545,-,
 ,02255,Henryk Gowarzewski,LB,3,MR,545,-,
 ,17001,Jakub Lenkiewicz,MP,3,MR,545,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 5551.,03040,Mirosław Baranowski,SL,3,MR,543,-,
 ,08196,Adam Lewandowski,DS,3,MR,543,-,
 5553.,12000,Aleksandra Granowska,KP,3,MR,542,3,EUROBAC Nakło
@@ -5813,7 +5813,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,09156,Iwona Gierszewska,WM,3,MR,502,-,
 5599.,12268,Zbigniew Bednarek,MA,3,MR,500,3,Latawce
 5600.,03164,Wiesław Gliwiński,SL,3,MR,498,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 5601.,07736,Maciej Szczepański,WP,3,MR,497,3,KB Gniezno
 5602.,08771,Adam Siudem,PK,3,MR,496,-,
 ,04717,Janusz Świder,PM,3,MR,496,-,
@@ -5864,7 +5864,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 5648.,05992,Antoni Kurowski,ZP,3,MR,461,-,
 5649.,04298,Dariusz Kasperowicz,WM,3,MR,459,-,
 ,12835,Wacław Opacki,LD,3,MR,459,2,Rondo Łódź
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 5651.,05204,Grzegorz Maćkowiak,WP,3,MR,457,O,MCK Czarnków
 5652.,05001,Krzysztof Goźdź,WP,3,MR,456,-,
 ,06213,Adam Luberadzki,MA,3,MR,456,-,
@@ -5915,7 +5915,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 5698.,01734,Sławomir Wojak,DS,3,MR,420,-,
 5699.,15313,Małgorzata Augustyn,WP,3,MR,419,-,Taurus
 ,01518,Aleksander Nagler,DS,3,MR,419,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 5701.,05924,Cezary Engel,ZP,3,MR,418,-,
 5702.,03015,Grzegorz Włoczewski,SW,3,MR,416,-,
 5703.,04075,Mirosław Turczuk,PD,3,MR,415,-,
@@ -5966,7 +5966,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 5748.,05573,Aleksander Biniek,LD,3,MR,362,-,
 ,06089,Mieczysław Sidorowicz,ZP,3,MR,362,-,
 5750.,16495,Marek Janota,MA,3,MR,361,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 5751.,02172,Leszek Wasilewski,LB,3,MR,359,-,
 5752.,17468,Zbigniew Czarnecki,PK,3,MR,356,-,
 ,08179,Tadeusz Krawczyński,DS,3,MR,356,-,
@@ -6017,7 +6017,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 5798.,14138,Jan Janiszewski,SL,3,MR,303,-,
 5799.,09140,Karol Król,WP,3,MR,302,-,
 5800.,07694,Tomasz Papiewski,MP,3,MR,299,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 5800.,14517,Maciej Wawrzyniak,KP,3,MR,299,-,
 5802.,13521,Grzegorz Skołyszewski,MP,3,MR,298,-,
 ,15056,Piotr Turczynowicz,MP,3,MR,298,O,SBS ALF-1 Nowy Sącz
@@ -6068,7 +6068,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 5848.,08636,Mirosław Derengowski,WP,3,MR,267,O,DK Stokrotka Poznań
 5849.,07831,Witold Perzanowski,MA,3,MR,265,-,
 ,13772,Leszek Rzepecki,DS,3,MR,265,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 5849.,11248,Radosław Szczepanowski,PM,3,MR,265,-,
 5852.,08163,Stanisław Brzozowski,DS,3,MR,264,-,
 ,04248,Piotr Garbal,WM,3,MR,264,3,Warmia-Dymer Biskupiec
@@ -6119,7 +6119,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,10954,Stanisław Makuch,SL,3,MR,226,-,SINGLETON ŚLĄSK Katowice
 5899.,14522,Aleksandra Byra,MP,3,MR,222,3,Just Bridge II AZS AGH Kraków
 ,01961,Anatol Ćwirko,LB,3,MR,222,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 5899.,07696,Marek Konwiński,WP,3,MR,222,-,
 ,01445,Tadeusz Laskowski,DS,3,MR,222,-,
 5903.,04070,Józef Czapko,PD,3,MR,221,-,
@@ -6170,7 +6170,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,06863,Sławomir Potempski,MA,3,MR,187,-,
 5949.,01157,Jadwiga Roźniatowska,PK,3,MR,186,-,Singleton Podkarpacki
 ,04098,Wiesław Wilk,PD,3,MR,186,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 5951.,09638,Janina Penter,DS,3,MR,185,-,
 5952.,10827,Mieczysław Ziarko,WM,3,MR,184,-,
 5953.,11475,Włodzimierz Gromko,MA,3,MR,183,-,
@@ -6221,7 +6221,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,19634,Łukasz Sławiński,MA,3,MR,150,-,
 ,03019,Stefan Wójtowicz,SW,3,MR,150,-,
 6000.,11711,Tadeusz Skowroński,DS,3,MR,149,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 6001.,09773,Andrzej Lenart,MA,3,MR,148,3,WIST 2 Pomiechówek
 ,06916,Marian Sęk,MA,3,MR,148,-,
 ,05411,Piotr Spychała,WP,3,MR,148,-,
@@ -6272,7 +6272,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 6048.,07935,Stanisław Wieczorek,LU,3,MR,114,-,
 6049.,01447,Adam Lenkow,DS,3,MR,113,-,
 6050.,14848,Stanisław Gęga,SL,3,MR,112,-,SINGLETON ŚLĄSK Katowice
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 6051.,08672,Jan Duda,SL,3,MR,111,-,
 ,07724,Wojciech Superson,MP,3,MR,111,-,
 ,12354,Janusz Śniadecki,LB,3,MR,111,-,
@@ -6323,7 +6323,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,16372,Tadeusz Osiecki,MA,3,MR,82,O,13 Sochaczew
 6099.,15714,Jan Szafraniec,MP,3,MR,80,-,
 6100.,01387,Zdzisław Kogut,DS,3,MR,79,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 6101.,06775,Roman Malinowski,MA,3,MR,77,-,
 ,03627,Andrzej Zynek,SL,3,MR,77,-,
 6103.,16220,Maciej Kokorniak,WP,3,MR,75,O,DK Stokrotka Poznań
@@ -6374,7 +6374,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 6148.,05032,Witold Grześkowiak,WP,3,MR,43,-,
 ,12300,Wiesław Tomczuk,WM,3,MR,43,-,
 ,10164,Wojciech Walkiewicz,WM,3,MR,43,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 6151.,10861,Michał Klichowicz,LD,3,MR,42,-,Singleton LD
 ,03500,Wojciech Słociński,SL,3,MR,42,-,
 6153.,06438,Mieczysław Stawiarz,MA,3,MR,39,-,
@@ -6425,7 +6425,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,04044,Bogusław Ołdakowski,PD,3,MR,6,-,
 ,01177,Maciej Strzelecki,PK,3,MR,6,-,
 6200.,14776,Benon Krawczyk,ZP,3,MR,5,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 6201.,11864,Marek Dobrowolski,MA,3,MR,4,-,
 6202.,18476,Marian Szulc,MP,3,MR,2,-,
 6203.,09576,Zbigniew Konikiewicz,DS,3,MR,1,-,
@@ -6476,7 +6476,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 6248.,17740,Lidia Gapińska,WP,2.5,MW,1 178,O,BIG Brydż Poznań
 6249.,11660,Paweł Łysek,SW,2.5,MW,1 176,-,
 6250.,07963,Andrzej Denysiuk,LU,2.5,MW,1 175,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 6250.,11562,Kazimierz Wojajczyk,LD,2.5,MW,1 175,-,
 6252.,16172,Jan Bielejewski,ZP,2.5,MW,1 174,-,
 6253.,15513,Piotr Pęsiek,MA,2.5,MW,1 171,-,
@@ -6527,7 +6527,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,05839,Ryszard Szczepanik,LD,2.5,MW,1 078,-,
 6299.,14973,Piotr Duszak,MA,2.5,MW,1 077,3,AZS UW Orły Warszawa
 6300.,14372,Eugeniusz Karczyński,ZP,2.5,MW,1 074,O,ŚMIAŁY Police
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 6300.,05840,Stefan Szczepański,LD,2.5,MW,1 074,-,
 6302.,18072,Krzysztof Olejnik,LD,2.5,MW,1 073,3,Zdrowie Piast Sieradz
 6303.,05602,Janusz Dorofiejczyk,WP,2.5,MW,1 072,-,
@@ -6578,7 +6578,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 6348.,12682,Wioletta Matusik,MP,2.5,MW,1 017,O,Bocheńskie Towarzystwo Brydżowe
 6349.,19115,Zdzisław Gumkowski,MA,2.5,MW,1 016,-,Singleton Warszawa
 ,14692,Zbyszek Ratajczak,LD,2.5,MW,1 016,3,KDK III Kutno
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 6349.,09929,Waldemar Stępiński,MA,2.5,MW,1 016,-,
 ,04088,Sławomir Uszyński,PD,2.5,MW,1 016,-,
 6353.,13723,Aleksander Mielczarek,MA,2.5,MW,1 015,-,
@@ -6629,7 +6629,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 6398.,13939,Zbigniew Dembiński,MA,2.5,MW,971,3,AltMan Smart Warszawa
 6399.,03335,Jacek Marciniak,SL,2.5,MW,968,-,
 ,18250,Maciej Sachs,OP,2.5,MW,968,3,RSB I Racibórz
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 6399.,03570,Antoni Utracki,SL,2.5,MW,968,-,
 6402.,16336,Włodzimierz Maćkowski,KP,2.5,MW,967,O,SP 60 Bydgoszcz
 6403.,17214,Karol Konopko,MA,2.5,MW,964,-,Singleton Warszawa
@@ -6680,7 +6680,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,10895,Beata Pietrzak,LD,2.5,MW,927,3,Veolia Łódź
 6449.,10654,Bogdan Świadek,ZP,2.5,MW,924,3,Kigar - Blotka Goleniów
 6450.,13189,Marian Cybura,PM,2.5,MW,922,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 6450.,01174,Bogdan Solarski,PK,2.5,MW,922,-,
 6452.,03723,Franciszek Hałas,KP,2.5,MW,918,-,
 6453.,14371,Leszek Piechocki,ZP,2.5,MW,917,O,ŚMIAŁY Police
@@ -6731,7 +6731,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 6498.,08068,Rafał Smoczyński,PM,2.5,MW,874,-,
 ,14510,Wojciech Witkowski,WP,2.5,MW,874,O,Dębina Lemury
 6500.,03670,Sławomir Cieślewicz,KP,2.5,MW,873,3,ZNICZ Rojewo
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 6500.,07990,Wojciech Sołtysiak,LU,2.5,MW,873,-,SINGLETON Lublin
 6502.,01963,Henryk Denko,LB,2.5,MW,872,-,
 ,05254,Bogumił Misiąg,WP,2.5,MW,872,-,
@@ -6782,7 +6782,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 6548.,06362,Leszek Adamiak,MA,2.5,MW,822,-,
 ,01842,Ryszard Majkowski,OP,2.5,MW,822,-,
 ,18801,Radosław Rozman,MA,2.5,MW,822,3,TEAM Natolin Warszawa
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 6551.,07439,Janusz Ples,SL,2.5,MW,818,-,
 ,07008,Bogusław Wójcik,MA,2.5,MW,818,-,
 6553.,02511,Ryszard Lato,LU,2.5,MW,816,-,
@@ -6833,7 +6833,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 6598.,15620,Edward Wojewoda,WM,2.5,MW,750,-,
 6599.,09388,Maciej Keller,ZP,2.5,MW,749,-,
 6600.,11023,Andrzej Kowalski,MA,2.5,MW,748,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 6601.,17508,Maciej Masłowski,WP,2.5,MW,747,O,IOR III Poznań
 6602.,05724,Wojciech Mularczyk,SW,2.5,MW,746,-,
 6603.,09299,Leszek Ćwil,LU,2.5,MW,745,-,
@@ -6884,7 +6884,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 6648.,12340,Andrzej Kot,WP,2.5,MW,694,O,Kuźnia Boduszewo
 6649.,14255,Marcin Skurzyński,MA,2.5,MW,690,-,
 6650.,07817,Ewa Łukowska,SL,2.5,MW,689,3,CKS Czeladź
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 6651.,13068,Ryszard Bielawski,ZP,2.5,MW,686,-,
 6652.,13083,Ryszard Góralski,LB,2.5,MW,685,-,
 ,14563,Marek Jakubowski,DS,2.5,MW,685,O,SBS Impas Lubin
@@ -6935,7 +6935,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,12456,Krzysztof Stefaniak,MA,2.5,MW,640,O,KAM BEK Warszawa
 6699.,09704,Jarosław Mróz,WM,2.5,MW,639,-,
 6700.,07548,Mieczysław Wrzos,LD,2.5,MW,637,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 6701.,02212,Wacław Bieniasz,LB,2.5,MW,634,-,
 ,09401,Wiesław Drozd,PK,2.5,MW,634,-,
 ,04372,Sławomir Miros,WM,2.5,MW,634,-,
@@ -6986,7 +6986,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,16344,Witold Starkiewicz,MA,2.5,MW,586,3,MOIIB Warszawa
 6749.,15201,Jacek Komorowski,MA,2.5,MW,584,2,DRIM TIM
 ,05257,Bogdan Miziński,WP,2.5,MW,584,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 6749.,08963,Józef Pajęcki,LB,2.5,MW,584,-,
 6752.,20641,Maximilian Szemik,SL,2.5,MW,582,3,BSBS OLIMPIJCZYK V LO BIELSKO - BIAŁA
 6753.,12562,Krystyna Rogala,PM,2.5,MW,581,O,KONTRA Krokowa
@@ -7037,7 +7037,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,14292,Jan Rzepka,LB,2.5,MW,534,-,
 ,13783,Leszek Tymcio,DS,2.5,MW,534,-,
 6800.,11541,Janusz Dzielendziak,DS,2.5,MW,533,O,AZS XI Wratislavia
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 6801.,11785,Tadeusz Grewling,WP,2.5,MW,532,O,Szlemik RCK Rogoźno
 ,01088,Józef Krauz,PK,2.5,MW,532,-,
 6803.,09135,Aleksandra Górska,WP,2.5,MW,530,-,
@@ -7088,7 +7088,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,16730,Paweł Siwak,WP,2.5,MW,495,O,IOR III Poznań
 6849.,09921,Paweł Czerski,MA,2.5,MW,494,-,
 6850.,08857,Arkadiusz Buczek,DS,2.5,MW,492,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 6850.,03140,Michał Franczak,SL,2.5,MW,492,-,
 6852.,20076,Marek Nazarko,PD,2.5,MW,491,2,Fundacja Mała Ojczyzna
 6853.,01028,Dariusz Ciupa,PK,2.5,MW,490,-,
@@ -7139,7 +7139,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,03737,Ryszard Jagodziński,KP,2.5,MW,448,-,
 ,14685,Grzegorz Krawczyk,LU,2.5,MW,448,3,UKS KRASZAK Biała Podlaska
 6900.,10769,Bartosz Pędziński,WP,2.5,MW,446,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 6901.,01240,Barbara Bielkiewicz,DS,2.5,MW,444,-,
 ,15687,Mieczysław Kańdulski,WP,2.5,MW,444,-,
 6903.,01415,Andrzej Kozłowski,DS,2.5,MW,442,-,
@@ -7190,7 +7190,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,06831,Szczepan Okła,MA,2.5,MW,398,2,DRIM TIM
 ,11966,Janusz Skirło,SL,2.5,MW,398,-,
 6950.,18897,Kornel Krawiec,DS,2.5,MW,397,3,KS AZS Wratislavia V WR
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 6951.,13954,Sławomir Kowalski,MP,2.5,MW,395,O,PTG Sokół 2 Gorlice
 6952.,17834,Alicja Myśliwiec,DS,2.5,MW,393,1,Objectivity KS AZS Wratislavia VI WR
 6953.,01451,Józef Leśnik,DS,2.5,MW,392,-,
@@ -7241,7 +7241,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 6998.,02033,Jan Korzeniowski,LB,2.5,MW,340,3,Wastaafu Gorzów Wlkp. - Fundacja ILB
 6999.,08098,Michał Okoński,PM,2.5,MW,337,3,SIGNUM OPTYLIO Gdańsk
 7000.,18932,Krzysztof Dzierżak,KP,2.5,MW,336,3,CENTRUM PLANOWANIA PRZYGÓD
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 7001.,05114,Leszek Klijewski,WP,2.5,MW,334,-,
 7002.,01324,Stanisław Greszta,DS,2.5,MW,333,O,NORMAZET MKS Zakrzów Wrocław II
 ,18436,Bogusław Kozakiewicz,PD,2.5,MW,333,3,KONTRI Białystok
@@ -7292,7 +7292,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 7048.,04357,Andrzej Madziewicz,WM,2.5,MW,276,-,
 ,17157,Marek Wyżlic,KP,2.5,MW,276,3,SPLINTER Toruń
 7050.,14307,Jadwiga Bakalarska,LB,2.5,MW,274,3,MKS Sokół Żary
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 7050.,01306,Jerzy Gawlik,DS,2.5,MW,274,-,
 ,02960,Adam Oleksiak,SW,2.5,MW,274,-,
 ,04428,Tomasz Reczuga,WM,2.5,MW,274,-,
@@ -7343,7 +7343,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 7098.,11456,Piotr Janczarek,KP,2.5,MW,243,-,
 7099.,04934,Mariusz Cichowicz,WP,2.5,MW,242,-,
 ,08180,Jan Iwanowski,DS,2.5,MW,242,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 7099.,06296,Michał Sas,MA,2.5,MW,242,-,
 ,04447,Zygmunt Sinkiewicz,WM,2.5,MW,242,-,
 7103.,09791,Jan Baster,SL,2.5,MW,241,-,
@@ -7394,7 +7394,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 7148.,08951,Janusz Tchórzewski,WM,2.5,MW,204,3,ESBS-2 Elbląg
 7149.,13573,Katarzyna Parcia,SL,2.5,MW,203,-,
 7150.,04295,Włodzimierz Karoliński,WM,2.5,MW,202,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 7150.,13518,Piotr Merynda,MP,2.5,MW,202,-,
 7152.,04276,Łukasz Jagielski,WM,2.5,MW,200,-,
 ,07186,Waldemar Wierzbicki,OP,2.5,MW,200,-,
@@ -7445,7 +7445,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,16708,Agata Nowicz,PM,2.5,MW,163,3,SIGNUM OPTYLIO Gdańsk
 7199.,08394,Marian Anisimowicz,MA,2.5,MW,162,-,
 ,11911,Dariusz Kowalski,MA,2.5,MW,162,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 7199.,02371,Zenon Paprocki,LB,2.5,MW,162,-,
 7202.,10368,Michał Kułakowski,MA,2.5,MW,159,2,NOWA STACJA (BARD13)
 7203.,16251,Krzysztof Golanko,LU,2.5,MW,158,-,
@@ -7496,7 +7496,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,12821,Krzysztof Rodak,MP,2.5,MW,120,-,Solidarność -80 Tarnów
 ,18392,Anna Stelmach,SL,2.5,MW,120,-,SINGLETON ŚLĄSK Katowice
 7250.,19721,Kacper Kisielewski,MP,2.5,MW,119,3,Piast/CKiS II Skawina
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 7251.,03858,Józef Molczyński,KP,2.5,MW,118,-,
 ,06678,Joanna Okła,MA,2.5,MW,118,2,DRIM TIM
 7253.,08618,Roland Godlewski,LD,2.5,MW,117,-,
@@ -7547,7 +7547,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,04106,Józef Rogala,PD,2.5,MW,88,-,
 7299.,15703,Andrzej Żugaj,PD,2.5,MW,87,3,MBKB 24 Holiday
 7300.,07383,Jakub Ogonowski,SL,2.5,MW,86,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 7301.,04234,Włodzimierz Elsner,WM,2.5,MW,82,-,
 7302.,14773,Zenon Ciebiera,ZP,2.5,MW,80,-,
 7303.,05911,Mirosław Chwalko,ZP,2.5,MW,78,-,
@@ -7598,7 +7598,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 7348.,13598,Cezary Dudkiewicz,LD,2.5,MW,47,-,
 ,14778,Judyta Michałowicz-Wnęk,ZP,2.5,MW,47,-,
 7350.,17810,Tomasz Czekała,PM,2.5,MW,46,3,PIANPUR Sierakowice
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 7350.,07896,Władysław Kurek,LB,2.5,MW,46,-,
 7352.,16226,Jarosław Michalski,WP,2.5,MW,45,O,PKB Kontrakt Poznań
 ,07019,Mirosław Zabłocki,MA,2.5,MW,45,-,
@@ -7649,7 +7649,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 7398.,15106,Roman Kowalik,LD,2.5,MW,6,-,
 ,07872,Krzysztof Ziemiański,MA,2.5,MW,6,-,
 7400.,07485,Rafał Modelski,SW,2.5,MW,4,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 7400.,14747,Andrzej Sokołowski,KP,2.5,MW,4,-,
 7402.,06749,Jacek Leszczyłowski,LD,2.5,MW,3,-,
 7403.,01388,Ryszard Kojka,DS,2.5,MW,2,-,
@@ -7700,7 +7700,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,12295,Stefan Warkowski,WP,2,MO,759,-,
 7449.,18925,Andrzej Bojda,DS,2,MO,756,2,MKS Rokita Brzeg Dolny
 7450.,17281,Marek Śliwka,OP,2,MO,753,3,WIELUŃSKI DOM KULTURY
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 7451.,05462,Paweł Trzebiatowski,WP,2,MO,750,-,
 7452.,11019,Marian Kokoszka,MA,2,MO,748,-,
 ,04397,Marcin Palmowski,PM,2,MO,748,-,
@@ -7751,7 +7751,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,04395,Zbigniew Ostrówka,WM,2,MO,716,-,
 7499.,08041,Eligiusz Wojakowski,LU,2,MO,715,-,
 7500.,05121,Jacek Komornicki,WP,2,MO,714,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 7500.,13185,Jarosław Kuźniar,DS,2,MO,714,O,Klub Logiczny Piechowice
 ,05748,Jacek Osada,LD,2,MO,714,-,
 ,08522,Paweł Stawiński,MA,2,MO,714,-,
@@ -7802,7 +7802,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,15662,Romuald Ławrynowicz,PD,2,MO,679,-,
 7549.,13929,Grzegorz Raźny,MP,2,MO,678,-,
 7550.,06312,Stanisław Abramski,MA,2,MO,676,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 7550.,04021,Henryk Bałtronowicz,WM,2,MO,676,-,Zorro22 Olsztyn
 ,02617,Robert Czekaj,MP,2,MO,676,-,
 ,19106,Piotr Piątkiewicz,MA,2,MO,676,O,Hutnik Warszawa
@@ -7853,7 +7853,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 7598.,14317,Aleksandra Talaczek,MP,2,MO,647,-,
 7599.,07588,Grzegorz Adamek,WP,2,MO,646,-,
 ,13992,Mariusz Bakalarski,SL,2,MO,646,-,BSBS New Blue Team
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 7599.,02892,Jarosław Cieślak,SW,2,MO,646,-,
 ,18419,Tomasz Gellert,MA,2,MO,646,-,
 ,17535,Kacper Wieczorkowski,MP,2,MO,646,3,Just Bridge II AZS AGH Kraków
@@ -7904,7 +7904,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,05180,Stanisław Lewandowski,WM,2,MO,618,-,
 ,11663,Antoni Sołoducha,LD,2,MO,618,-,
 ,13652,Krzysztof Tomczyński,MA,2,MO,618,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 7651.,12333,Krzysztof Kerber,WP,2,MO,617,-,
 7652.,11887,Krzysztof Bereza,SL,2,MO,615,-,
 ,17249,Elżbieta Olejnik,KP,2,MO,615,O,SP 60 Bydgoszcz
@@ -7955,7 +7955,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,15269,Eugeniusz Jaworski,KP,2,MO,592,-,Singleton KPZBS
 ,03786,Marek Kozłowski,KP,2,MO,592,-,
 ,05829,Kazimierz Stawicki,LD,2,MO,592,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 7697.,15642,Jacek Surma,WP,2,MO,592,-,
 ,02841,Jerzy Wietrzny,MP,2,MO,592,-,
 7703.,16803,Dariusz Kosiorek,LD,2,MO,591,-,
@@ -8006,7 +8006,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 7748.,13843,Stanisław Gołdyn,DS,2,MO,557,O,ZKBS I Zgorzelec
 ,11570,Jerzy Kasper,LD,2,MO,557,-,
 7750.,14178,Michał Chudański,MA,2,MO,556,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 7751.,17250,Grzegorz Olejnik,KP,2,MO,555,O,SP 60 Bydgoszcz
 ,13150,Zenon Szanfisz,DS,2,MO,555,-,
 7753.,04152,Leszek Ostrowski,WM,2,MO,553,-,Zorro22 Olsztyn
@@ -8057,7 +8057,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,04667,Waldemar Kowalski,WM,2,MO,524,-,
 ,03913,Czesław Redzimski,KP,2,MO,524,-,
 ,09041,Ludwik Sadlok,LB,2,MO,524,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 7796.,11815,Aleksandra Wolska,PM,2,MO,524,-,
 7802.,10768,Kacper Pędziński,WP,2,MO,523,-,
 7803.,14586,Magdalena Chmielewska,MP,2,MO,522,3,Światowid Kraków
@@ -8108,7 +8108,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 7848.,14974,Karolina Jastrzębska,MA,2,MO,491,-,
 7849.,04931,Zbigniew Cholajda,WP,2,MO,490,-,
 ,05922,Jarosław Dominiczak,ZP,2,MO,490,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 7849.,09603,Krzysztof Gałek,MA,2,MO,490,-,
 ,09199,Jacek Śnieżek,OP,2,MO,490,-,
 ,16937,Ireneusz Wędołowski,SL,2,MO,490,-,SINGLETON ŚLĄSK Katowice
@@ -8159,7 +8159,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 7898.,07123,Marek Lange,OP,2,MO,462,-,
 7899.,13129,Ryszard Korpalski,DS,2,MO,460,-,
 ,10121,Krzysztof Stefańczuk,MA,2,MO,460,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 7899.,05457,Dariusz Tatys,WP,2,MO,460,-,
 7902.,10690,Marian Borowicz,LU,2,MO,458,-,SINGLETON Lublin
 ,08579,Jerzy Pawełczak,WP,2,MO,458,-,PAB Poznań
@@ -8210,7 +8210,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,01296,Piotr Faustyn,DS,2,MO,432,-,
 ,03907,Adam Puchała,KP,2,MO,432,-,
 ,08159,Krzysztof Stryjak,DS,2,MO,432,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 7951.,17151,Kamila Kiraga,MA,2,MO,431,-,
 7952.,15105,Waldemar Folbrycht,ZP,2,MO,430,O,ŚMIAŁY Police
 7953.,02742,Wojciech Migdał,MP,2,MO,428,-,
@@ -8261,7 +8261,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 7998.,13619,Iwona Gronkiewicz-Marcisz,MP,2,MO,403,-,
 ,02440,Eugeniusz Walczak,LB,2,MO,403,-,
 8000.,01951,Agata Choniawko-Umoh,MP,2,MO,402,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 8000.,13187,Lech Rębisz,DS,2,MO,402,O,Klub Logiczny Piechowice
 ,02456,Zdzisława Ziółko,LB,2,MO,402,-,
 8003.,14650,Dmitry Kamlyuk,PD,2,MO,401,-,
@@ -8312,7 +8312,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,15867,Halina Szymańska,ZP,2,MO,356,2,AZS UNIWERSYTET SZCZECIŃSKI I
 8049.,10464,Krzysztof Krzemiński,LD,2,MO,354,3,Ares Piotrków Trybunalski
 8050.,16460,Zbigniew Komorowski,MA,2,MO,353,3,AltMan Smart Warszawa
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 8050.,17441,Sebastian Wojtczak,LD,2,MO,353,O,MKS Jedynka Łódź
 8052.,18821,Marek Melsztyński,MA,2,MO,352,-,Singleton Warszawa
 8053.,17941,Stanisław Jargan,LB,2,MO,350,-,
@@ -8363,7 +8363,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 8098.,06547,Artur Chrostowski,MA,2,MO,312,-,
 ,05709,Przemysław Mamrot,LD,2,MO,312,-,
 ,19011,Marian Piasecki,KP,2,MO,312,3,GEOCHEMIA Toruń
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 8098.,12250,Małgorzata Rozman,MA,2,MO,312,-,
 8102.,17659,Jerzy Noworol,MA,2,MO,311,-,Singleton Warszawa
 8103.,12280,Roland Stenzel,ZP,2,MO,310,-,
@@ -8414,7 +8414,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,02369,Bernard Opałka,LB,2,MO,278,-,
 ,17754,Andrzej Trzeciak,PM,2,MO,278,-,
 8150.,17756,Artur Szybowski,PM,2,MO,277,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 8151.,02897,Krzysztof Drewniak,SW,2,MO,276,-,
 ,07353,Mirosław Jastrząb,MP,2,MO,276,-,
 ,21254,Zenon Kowalski,KP,2,MO,276,-,
@@ -8465,7 +8465,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 8198.,14397,Anna Jaskowiak,WM,2,MO,251,-,
 8199.,01011,Henryka Bielenda,PK,2,MO,250,-,
 ,01358,Mateusz Jarzębowicz,DS,2,MO,250,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 8201.,18189,Marcin Marcinkowski,DS,2,MO,249,3,NORMAZET MKS Zakrzów Wrocław I
 ,16270,Mariusz Sterniczuk,LB,2,MO,249,-,
 ,01708,Józef Wiśnik,WM,2,MO,249,-,Zorro22 Olsztyn
@@ -8516,7 +8516,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 8248.,09473,Jadwiga Żulińska,PK,2,MO,227,-,Singleton Podkarpacki
 8249.,12696,Krzysztof Kucharski,MA,2,MO,226,-,
 ,15104,Jacek Reszczyński,ZP,2,MO,226,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 8249.,03560,Izabela Tunkel,SL,2,MO,226,-,
 8252.,12338,Janusz Woda,WP,2,MO,225,O,Pik Puszczykowo
 8253.,14941,Lucjan Piechota,ZP,2,MO,224,-,
@@ -8567,7 +8567,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,19403,Andrzej Grześko,WP,2,MO,210,3,Idealny Dach Poznań
 8299.,14798,Michał Kałczyński,WP,2,MO,208,-,
 ,13657,Paweł Pyziak,LD,2,MO,208,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 8301.,14471,Krzysztof Szubarga,KP,2,MO,207,O,DEXPOL Jeżewo
 ,17862,Roman Urbański,MP,2,MO,207,-,
 8303.,11760,Adam Michalak,MP,2,MO,204,-,
@@ -8618,7 +8618,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,09435,Anna Marek,MP,2,MO,186,-,
 8349.,16326,Andrzej Marjanowski,KP,2,MO,185,-,
 8350.,07961,Marek Ciesielczuk,SW,2,MO,184,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 8350.,03906,Krzysztof Pstrągowski,KP,2,MO,184,-,
 ,09461,Zbigniew Samborski,WM,2,MO,184,-,
 8353.,11673,Gabriela Stężała,ZP,2,MO,183,O,AZS UNIWERSYTET SZCZECIŃSKI II
@@ -8669,7 +8669,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 8398.,15139,Aleksander Górski,PM,2,MO,157,3,BLACKWOOD Gdańsk
 ,12306,Jan Kozera,WP,2,MO,157,O,GOK Kaczory
 ,14479,Maciej Plichta,MA,2,MO,157,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 8401.,03079,Łukasz Bujar,SL,2,MO,156,-,
 ,09078,Arkadiusz Dąbrowski,WP,2,MO,156,3,Platan Pleszew
 ,02159,Anatoliusz Święcicki,LB,2,MO,156,-,
@@ -8720,7 +8720,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 8448.,16791,Dariusz Żmuda,DS,2,MO,131,-,
 8449.,08542,Lech Dąbrowski,MA,2,MO,130,-,
 ,10393,Włodzimierz Grobys,WP,2,MO,130,3,Platan Pleszew
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 8449.,06964,Marek Szymański,MA,2,MO,130,-,
 8452.,15076,Bohdan Kamiński,ZP,2,MO,129,-,
 ,19730,Jakub Korzeniowski,MP,2,MO,129,3,CM Jordan Kraków
@@ -8771,7 +8771,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 8498.,07278,Jacek Czerwiak,MP,2,MO,104,-,
 ,19677,Jacek Jeleński,MA,2,MO,104,-,Singleton Warszawa
 ,11579,Waldemar Sztramski,WM,2,MO,104,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 8501.,05449,Józef Szymański,WP,2,MO,100,-,
 ,18667,Roman Wojciechowski,WP,2,MO,100,O,Kopernik
 8503.,16763,Waldemar Czajkowski,WP,2,MO,99,-,Nadnotecki Związek Brydża Sportowego
@@ -8822,7 +8822,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 8548.,16988,Aleksander Jonak,SL,2,MO,79,-,
 ,02128,Tomasz Skibiński,LB,2,MO,79,-,
 8550.,04991,Tomasz Gaziński,WP,2,MO,78,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 8550.,02290,Jan Kasprzyk,LB,2,MO,78,-,
 8552.,05887,Andrzej Abratkiewicz,ZP,2,MO,75,-,
 8553.,19780,Tomasz Kuchta,WP,2,MO,74,-,PAB Poznań
@@ -8873,7 +8873,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,02391,Marek Rakowski,LB,2,MO,58,-,
 8599.,15227,Piotr Kalinowski,ZP,2,MO,57,O,MŁODZI ENTUZJAŚCI Szczecin
 8600.,09933,Mateusz Milczarek,MA,2,MO,56,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 8601.,13860,Zdzisław Sarnacki,LB,2,MO,55,-,
 8602.,17461,Józef Korthals,KP,2,MO,54,-,
 ,04069,Włodzimierz Wieczorkiewicz,PD,2,MO,54,-,
@@ -8924,7 +8924,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 8648.,06575,Ryszard Duch,MA,2,MO,32,-,
 ,19102,Marek Jefremienko,MA,2,MO,32,O,Hutnik Warszawa
 ,17555,Karolina Kowalska,MA,2,MO,32,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 8648.,06888,Janusz Ropelewski,MA,2,MO,32,-,
 ,02788,Edward Sawicki,MP,2,MO,32,-,
 ,04722,Aleksy Tomczuk,PD,2,MO,32,-,
@@ -8975,7 +8975,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,18202,Tomasz Olenderek,WP,2,MO,9,O,BIG Brydż Poznań
 8699.,02655,Jakub Gronowski,MP,2,MO,8,-,
 ,17019,Janusz Kowalski,DS,2,MO,8,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 8699.,18916,Patryk Mrukot,MP,2,MO,8,-,
 ,11450,Jolanta Ziarkowska,LB,2,MO,8,-,
 8703.,13612,Beata Czarnecka,MA,2,MO,7,-,
@@ -9026,7 +9026,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 8748.,13079,Maciej Hoppe,WP,1.5,M,496,-,
 ,17677,Zdzisław Kuc,DS,1.5,M,496,O,NORMAZET MKS Zakrzów Wrocław II
 ,18878,Bogdan Lipiński,ZP,1.5,M,496,O,Dama Pik Białogard II
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 8751.,18677,Andrzej Kita,KP,1.5,M,494,3,GEOCHEMIA Toruń
 ,08603,Jerzy Stankowski,LB,1.5,M,494,-,
 8753.,16164,Vadim Basalyga,PD,1.5,M,493,-,
@@ -9077,7 +9077,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 8798.,02226,Zenon Chaszczowski,LB,1.5,M,466,-,
 ,18385,Grzegorz Jabłoński,LD,1.5,M,466,3,Brydż Quartet Tomaszów Mazowiecki
 ,18182,Marek Świniarski,LD,1.5,M,466,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 8801.,13498,Michał Górny,WP,1.5,M,465,-,
 ,09178,Zbigniew Lachowicz,OP,1.5,M,465,-,
 ,03314,Waldemar Orłowski,WM,1.5,M,465,3,WARMIA i MAZURY Olsztyn
@@ -9128,7 +9128,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 8848.,07705,Łukasz Horajski,MP,1.5,M,448,-,
 ,10438,Henryk Kumoch,WP,1.5,M,448,-,
 ,09993,Wojciech Leszczyłowski,LB,1.5,M,448,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 8851.,20978,Cyprian Morawski,PM,1.5,M,447,-,
 ,11799,Czesław Wejner,KP,1.5,M,447,-,
 ,10218,Dominika Życka,MA,1.5,M,447,-,
@@ -9179,7 +9179,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,09455,Henryk Komodziński,KP,1.5,M,433,O,KS Krobia
 ,06220,Ryszard Nowak,MA,1.5,M,433,-,
 ,05305,Sławomir Pancer,WP,1.5,M,433,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 8901.,17746,Roman Fąs,WP,1.5,M,432,-,
 ,19637,Piotr Okonek,MA,1.5,M,432,3,Akademia Brydża AZS UW Warszawa II
 ,06054,Włodzimierz Packań,ZP,1.5,M,432,-,
@@ -9230,7 +9230,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 8948.,19418,Artur Chibowski,KP,1.5,M,415,2,TENISPOINT CHEMIK Bydgoszcz
 ,10505,Zygmunt Kempiński,MA,1.5,M,415,-,
 ,10294,Simona Krystek,WP,1.5,M,415,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 8951.,09819,Romuald Hadrych,SL,1.5,M,414,-,
 ,08651,Teodor Sosiński,WP,1.5,M,414,O,Pik Puszczykowo
 8953.,11091,Barbara Jezierska,MP,1.5,M,413,-,
@@ -9281,7 +9281,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,18921,Bolesław Szkodziński,DS,1.5,M,401,O,SBS Impas Lubin
 ,18455,Pietro Vinci,SL,1.5,M,401,-,BSBS New Blue Team
 9000.,07267,Mariusz Bocz,SL,1.5,M,400,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 9000.,10167,Marek Krawczyk,MA,1.5,M,400,-,
 ,02370,Jan Osuch,LB,1.5,M,400,-,
 ,16126,Leopold Stefański,KP,1.5,M,400,-,
@@ -9332,7 +9332,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,15079,Robert Ścibior,ZP,1.5,M,377,-,
 9049.,15541,Radosław Morek,MP,1.5,M,376,-,
 ,15276,Jan Szybiak,MP,1.5,M,376,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 9051.,18850,Patryk Klim,PD,1.5,M,375,3,MBKB Białystok
 ,05368,Sylwester Sadek,WP,1.5,M,375,-,
 9053.,18852,Wiktor Skiepko,PD,1.5,M,374,3,MBKB Białystok
@@ -9383,7 +9383,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,06229,Marek Rębecki,MA,1.5,M,353,-,
 ,19483,Piotr Urbański,MA,1.5,M,353,3,BATMIX ESKOM Warszawa
 9100.,08739,Henryk Sojka,SL,1.5,M,352,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 9101.,17282,Stanisław Dyderski,OP,1.5,M,351,-,
 ,07751,Ryszard Fryska,WP,1.5,M,351,-,
 ,18015,Ireneusz Jędrzejewski,MA,1.5,M,351,O,ESKOM II
@@ -9434,7 +9434,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,11661,Wacław Ziomek,SW,1.5,M,338,-,
 9149.,05196,Leopold Łazar,WP,1.5,M,337,-,
 ,12420,Sławomir Waszczuk,DS,1.5,M,337,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 9151.,11518,Marcin Graczkowski,ZP,1.5,M,336,-,ZZBS Szczecin
 9152.,06316,Lech Chodkowski,MA,1.5,M,335,-,Seniorzy Płock
 ,14456,Zbigniew Kamyk,DS,1.5,M,335,-,
@@ -9485,7 +9485,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 9198.,16345,Lech Bujnowski,MA,1.5,M,322,-,Singleton Warszawa
 ,20830,Szymon Grabala,PM,1.5,M,322,3,ACTIVA PRIMUS Juszkowo
 ,13229,Magdalena Nadopta,SL,1.5,M,322,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 9198.,06896,Krzysztof Rutkowski,MA,1.5,M,322,-,
 ,18700,Wiesław Sturgulewski,KP,1.5,M,322,-,
 9203.,20223,Piotr Cieśliński,WP,1.5,M,321,O,Na Dobrej
@@ -9536,7 +9536,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,09258,Andrzej Kłopotek,KP,1.5,M,310,-,
 ,09708,Bronisław Mazurkiewicz,MA,1.5,M,310,O,KONWENCJA Działdowo
 ,19431,Andrzej Migalski,ZP,1.5,M,310,3,CKM SZLEMIK Mielno
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 9247.,18340,Ryszard Ostrogórski,MP,1.5,M,310,-,
 ,17193,Kacper Tanaś,LB,1.5,M,310,-,
 ,18724,Piotr Wierzbicki,MA,1.5,M,310,O,Sekwens Wołomin Spójnia
@@ -9587,7 +9587,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,07357,Artur Lichończak,MP,1.5,M,292,-,
 ,16280,Sławomir Żeleźniak,SL,1.5,M,292,-,
 9300.,01371,Tomasz Lubecki,WM,1.5,M,291,3,WARMIA i MAZURY Olsztyn
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 9300.,18784,Agnieszka Mankiewicz,MA,1.5,M,291,-,AZS KU UW Warszawa
 ,18164,Elżbieta Więch,WP,1.5,M,291,O,Piast Złotów
 ,01746,Sławomir Wójcik,DS,1.5,M,291,-,
@@ -9638,7 +9638,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,01112,Waldemar Madejski,PK,1.5,M,269,-,
 ,13876,Georgii Veselyi,LU,1.5,M,269,-,SINGLETON Lublin
 9350.,15733,Maria Domagałło,PM,1.5,M,268,-,GTB Gdańsk
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 9351.,19981,Robert Brak,PK,1.5,M,267,3,AZS UR Energetyk SM Rzeszów
 ,16820,Marek Gumuła,MP,1.5,M,267,-,
 ,08340,Romuald Markowski,ZP,1.5,M,267,3,MDM & ZIELONI Stargard
@@ -9689,7 +9689,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,15296,Karolina Piekarz,MP,1.5,M,253,-,
 ,07910,Zbigniew Pietrzak,LB,1.5,M,253,3,Instalko SBS 2 Międzyrzecz
 ,04724,Adam Truskolawski,PM,1.5,M,253,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 9401.,13908,Jerzy Cichowski,MA,1.5,M,252,-,
 ,04244,Ryszard Gajewski,WM,1.5,M,252,-,
 ,12508,Mateusz Górczak,WP,1.5,M,252,3,brydz.pl
@@ -9740,7 +9740,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 9448.,13538,Tomasz Cwielung,SL,1.5,M,241,-,
 ,01326,Tomasz Gromek,DS,1.5,M,241,-,
 ,17745,Mateusz Polaszek,WP,1.5,M,241,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 9451.,15578,Edward Kamiński,LD,1.5,M,240,-,
 ,21188,Kira Szamkołowicz,DS,1.5,M,240,-,
 ,15840,Patryk Szczuczko,WP,1.5,M,240,-,PAB Poznań
@@ -9791,7 +9791,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,18485,Jerzy Danel,SL,1.5,M,229,-,
 ,12151,Maciej Sidorowicz,WP,1.5,M,229,-,
 ,03025,Wojciech Zręda,SW,1.5,M,229,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 9501.,20306,Jerzy Grela,LU,1.5,M,228,-,SINGLETON Lublin
 ,09265,Marian Jarosiński,MA,1.5,M,228,-,
 ,03531,Michał Szczyra,SL,1.5,M,228,-,
@@ -9842,7 +9842,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,15875,Volodymyr Plakushchenko,LU,1.5,M,215,-,
 ,05848,Wojciech Świtalski,LD,1.5,M,215,-,
 9550.,15109,Wiesław Kulikowski,WP,1.5,M,214,O,OOK Oborniki
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 9550.,20201,Piotr Mizak,KP,1.5,M,214,3,SPLINTER Toruń
 ,08290,Cezary Pyszyński,MA,1.5,M,214,-,
 ,08845,Mirosław Statkiewicz,ZP,1.5,M,214,-,
@@ -9893,7 +9893,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,14810,Mikołaj Dziubiński,SL,1.5,M,199,-,
 ,13505,Adam Wierzbicki,MA,1.5,M,199,-,
 9600.,14158,Juste Rotomskyte,PD,1.5,M,198,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 9601.,08514,Stanisław Chlebuś,PK,1.5,M,197,-,Singleton Podkarpacki
 ,13813,Volodymyr Gulyk,LU,1.5,M,197,-,
 ,09440,Wanda Jakubowska,PD,1.5,M,197,-,
@@ -9944,7 +9944,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 9648.,19604,Tadeusz Górnicki,MA,1.5,M,182,O,Szlemik GT
 ,09830,Rafał Kaczmarczyk,SL,1.5,M,182,-,
 ,13875,Orest Kadykalo,LU,1.5,M,182,-,SINGLETON Lublin
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 9648.,11095,Wiesław Korpula,PD,1.5,M,182,-,
 9652.,04008,Aniela Bocheńska,WM,1.5,M,181,3,Pałac Młodzieży SEWIL Junior Olsztyn
 9653.,19322,Franciszek Kłonowski,WP,1.5,M,180,3,Cytryna Poznań
@@ -9995,7 +9995,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 9698.,17641,Renata Baran,LB,1.5,M,161,-,
 ,14683,Jerzy Bentke,MA,1.5,M,161,-,
 ,14383,Tomasz Hałat,DS,1.5,M,161,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 9698.,13493,Artur Kozłowski,LD,1.5,M,161,-,
 ,17590,Aleksandra Rekowska,PM,1.5,M,161,O,Hotel Amber Gdańsk
 9703.,20003,Katarzyna Cantwell,ZP,1.5,M,160,O,AMATORKI I AMATORZY
@@ -10046,7 +10046,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,17507,Kazimierz Jaszczuk,SW,1.5,M,150,-,Świętokrzyski Klub Brydżowy w Kielcach
 ,04646,Włodzimierz Matyśkiewicz,PM,1.5,M,150,-,
 ,16823,Jan Włoszek,ZP,1.5,M,150,O,AMATORKI I AMATORZY
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 9751.,06011,Jan Makowiecki,ZP,1.5,M,149,-,
 ,17696,Ilona Ziółkowska,MA,1.5,M,149,-,
 9753.,05660,Ireneusz Kmiecik,LD,1.5,M,148,-,
@@ -10097,7 +10097,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,09088,Ryszard Henclewski,WP,1.5,M,137,-,
 ,09242,Piotr Jasiński,WM,1.5,M,137,-,
 ,16185,Agata Kacperek,MA,1.5,M,137,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 9797.,20031,Marek Nowak,PK,1.5,M,137,3,Greinplast Dębica
 9802.,18406,Szymon Krzyżaniak,SL,1.5,M,136,-,
 9803.,14765,Jan Maciąg,ZP,1.5,M,135,-,
@@ -10148,7 +10148,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,19544,Andrzej Zawada,MP,1.5,M,128,O,Bocheńskie Towarzystwo Brydżowe
 9849.,09288,Zbigniew Bando,WM,1.5,M,127,-,Zorro22 Olsztyn
 ,13246,Lech Schimmelpfennig,LU,1.5,M,127,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 9849.,09334,Andrey Sotnikow,PD,1.5,M,127,-,
 ,03584,Jaromir Wężyk,SL,1.5,M,127,-,
 9853.,16275,Tomasz Łoskot,SL,1.5,M,126,3,O-Rety Team Mikołów
@@ -10199,7 +10199,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,14070,Wiktoria Hałas,SL,1.5,M,114,-,SINGLETON ŚLĄSK Katowice
 ,09005,Ryszard Jankowski,WP,1.5,M,114,-,
 ,09315,Mirosław Kania,MA,1.5,M,114,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 9897.,15147,Maria Karwacka,PM,1.5,M,114,-,
 ,14461,Krzysztof Konieczny,PM,1.5,M,114,-,
 ,07208,Robert Lubowicki,PD,1.5,M,114,-,
@@ -10250,7 +10250,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,07364,Inga Wądrzyk,MP,1.5,M,106,-,
 ,09257,Maria Ziemba,KP,1.5,M,106,-,
 ,19400,Zygmunt Żmuda-Trzebiatowski,ZP,1.5,M,106,-,ZZBS Szczecin
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 9951.,18499,Krzysztof Bieniek,KP,1.5,M,105,-,
 ,17329,Michał Pilawski,WP,1.5,M,105,3,Dąbrówka Dwujęzyczni Poznań
 ,11057,Kamil Szuścik,SL,1.5,M,105,-,
@@ -10301,7 +10301,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,21181,Piotr Łagoda,WP,1.5,M,91,O,Czwarty Walet Poznań
 ,09886,Andrzej Rączaszek,SL,1.5,M,91,-,SINGLETON ŚLĄSK Katowice
 10000.,20266,Piotr Kubiak,KP,1.5,M,90,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 10000.,19582,Adam Licznerski,LB,1.5,M,90,-,
 ,15404,Włodzimierz Tabaczyński,MA,1.5,M,90,-,
 10003.,14306,Tomek Mike,SL,1.5,M,89,-,
@@ -10352,7 +10352,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 10048.,16194,Jadwiga Lenartowicz,OP,1.5,M,75,-,
 ,18633,Jolanta Okręglicka,SL,1.5,M,75,-,BSBS Singleton Bielsko-Biała
 ,10143,Marcin Sakowicz,LB,1.5,M,75,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 10051.,14744,Adam Bieniek,MA,1.5,M,74,O,FABEX Wyszków
 ,13778,Jerzy Dwernicki,DS,1.5,M,74,-,
 ,10149,Jarosław Klimentowski,MA,1.5,M,74,-,
@@ -10403,7 +10403,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,01646,Ryszard Sokół,DS,1.5,M,58,-,
 ,07846,Agnieszka Suliga,MA,1.5,M,58,-,
 10100.,14041,Beata Drozdowska,MA,1.5,M,57,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 10100.,10436,Jarosław Januszewicz,MA,1.5,M,57,-,
 ,14436,Jacek Kaczor,PM,1.5,M,57,-,
 ,18294,Czesław Knapik,OP,1.5,M,57,3,Złota Jesień OPOLE
@@ -10454,7 +10454,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,13415,Stanisław Sikora,SL,1.5,M,48,-,
 ,09027,Adam Strzelecki,KP,1.5,M,48,-,
 10150.,11311,Janusz Bednarowicz,PD,1.5,M,47,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 10150.,07586,Piotr Cieślik,WP,1.5,M,47,-,
 ,12323,Marek Deleżuch,ZP,1.5,M,47,-,
 ,18404,Jerzy Paszylk,SL,1.5,M,47,-,
@@ -10505,7 +10505,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,14240,Karol Sawicki,MA,1.5,M,40,-,Ostatnia Drużyna Łukasza
 10199.,09564,Dominik Gozdek,DS,1.5,M,39,-,
 ,20113,Kamil Koratkiewicz,PD,1.5,M,39,3,MBKB Białystok
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 10199.,09202,Piotr Wantoch-Rekowski,OP,1.5,M,39,-,
 ,11193,Antoni Wilkowski,KP,1.5,M,39,-,
 ,07549,Marek Zagajewski,LD,1.5,M,39,-,
@@ -10556,7 +10556,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,10788,Julia Śmielińska,WP,1.5,M,30,-,
 ,04522,Jarosław Żukowski,WM,1.5,M,30,-,
 10250.,20787,Tomasz Kalinowski,MA,1.5,M,29,O,Misfit Warszawa
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 10250.,18917,Albert Mosiałek,MP,1.5,M,29,-,
 ,16750,Janina Szozda,OP,1.5,M,29,3,ZAWSZE RAZEM Kluczbork
 ,01719,Wiesław Węgrzynowski,DS,1.5,M,29,-,
@@ -10607,7 +10607,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 10298.,14642,Irena Imburska,MP,1.5,M,19,-,
 10299.,03344,Andrzej Mazur,SL,1.5,M,18,-,
 ,09453,Bogdan Pruszkowski,WP,1.5,M,18,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 10299.,09697,Andrzej Zosiak,PM,1.5,M,18,-,
 10302.,13110,Roman Fabiś,LB,1.5,M,17,-,
 ,11918,Wojciech Hareńczyk,SL,1.5,M,17,-,
@@ -10658,7 +10658,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,03391,Mirosław Nocoń,SL,1.5,M,10,-,
 ,01143,Zbigniew Pękala,WM,1.5,M,10,3,ESBS-2 Elbląg
 ,18981,Paweł Piasecki,KP,1.5,M,10,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 10347.,09891,Dagmara Sobczak,SL,1.5,M,10,-,
 ,11432,Wojciech Sosiński,WP,1.5,M,10,-,
 ,14462,Andrzej Szewczyk,LU,1.5,M,10,-,SINGLETON Lublin
@@ -10709,7 +10709,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,15468,Adam Kajzer,PM,1.5,M,2,-,
 ,18997,Krzysztof Malesiński,MA,1.5,M,2,O,ESKOM II
 ,02076,Andrzej Mazurak,LB,1.5,M,2,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 10397.,07670,Marian Mazurek,WP,1.5,M,2,-,
 ,11863,Vladimir Nulicek,SL,1.5,M,2,-,
 ,02375,Tadeusz Pierzchała,LB,1.5,M,2,-,
@@ -10760,7 +10760,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,17050,Ewa Deskur,ZP,1,Ad,194,-,
 ,02475,Janusz Dzieliński,LU,1,Ad,194,-,
 10450.,20663,Maja Pacholec,SL,1,Ad,193,3,BSBS OLIMPIJCZYK V LO BIELSKO - BIAŁA
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 10450.,17727,Valery Shveikus,PD,1,Ad,193,-,
 ,16764,Tadeusz Szymowołos,WP,1,Ad,193,-,
 10453.,04695,Jerzy Górski,WM,1,Ad,191,-,
@@ -10811,7 +10811,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,21541,Dariusz Wojtasiak,LD,1,Ad,177,3,KDK III Kutno
 ,21106,Katarzyna Wolak,MP,1,Ad,177,-,Hybryda Team Tarnów
 10500.,12565,Roman Liecau,PM,1,Ad,176,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 10500.,13766,Józef Nowicki,WM,1,Ad,176,-,
 ,04050,Bogdan Pac,PD,1,Ad,176,-,
 10503.,18874,Juliusz Engelhardt,ZP,1,Ad,175,O,MŁODZI ENTUZJAŚCI Szczecin
@@ -10862,7 +10862,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,14418,Sławomir Liberadzki,MA,1,Ad,163,-,
 ,14948,Valiantsina Sidortsava,PD,1,Ad,163,-,
 10550.,01282,Adrian Brzuzy,WM,1,Ad,162,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 10550.,14818,Maria Malcherek,SL,1,Ad,162,-,
 ,21047,Wiktoria Pańcyk,ZP,1,Ad,162,O,MŁODZI ENTUZJAŚCI Szczecin
 ,15275,Katarzyna Rodzaj,MP,1,Ad,162,-,
@@ -10913,7 +10913,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,20210,Krystyna Sum,PK,1,Ad,149,-,
 10599.,03007,Maciej Częczek,WM,1,Ad,148,3,Pałac Młodzieży SEWIL Junior Olsztyn
 ,19057,Stanisław Grzesiak,MP,1,Ad,148,O,MCKCiE Grybów
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 10599.,18483,Ryszard Jaworski,KP,1,Ad,148,-,
 ,19787,Lena Kopowicz,MA,1,Ad,148,O,Piast Feliksów
 ,14239,Tomasz Łęgowski,MA,1,Ad,148,-,
@@ -10964,7 +10964,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 10648.,19362,Maciej Godlewski,MA,1,Ad,136,O,Piast Feliksów
 ,20142,Krzysztof Olewiński,MP,1,Ad,136,3,Just Bridge II AZS AGH Kraków
 ,18311,Bartłomiej Sikorski,DS,1,Ad,136,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 10648.,19426,Ewa Skrzyniarz,OP,1,Ad,136,-,
 10652.,21142,Jan Juchniewicz,PD,1,Ad,135,3,ATU Kleosin
 ,17293,Bolesław Mikulski,KP,1,Ad,135,-,
@@ -11015,7 +11015,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,14141,Andrzej Księżki,LD,1,Ad,125,-,
 ,18780,Andrzej Makohin,MA,1,Ad,125,O,Sekwens Wołomin Spójnia
 ,16331,Adam Paszkowski,MA,1,Ad,125,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 10697.,21062,Tomasz Pawlik,DS,1,Ad,125,O,KBS Kolejarz I Wrocław
 10702.,12740,Grzegorz Bieńkowski,KP,1,Ad,124,-,
 ,15749,Mirosław Bryndzia,DS,1,Ad,124,-,
@@ -11066,7 +11066,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,18682,Grzegorz Piątek,WP,1,Ad,118,-,
 ,17772,Jerzy Sadowski,WP,1,Ad,118,-,
 ,16362,Dorota Wieczorek,MA,1,Ad,118,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 10751.,19680,Marek Farecki,MA,1,Ad,117,O,Szlemik GT
 ,18342,Jolanta Remańska,MP,1,Ad,117,-,
 ,18866,Paweł Skierś,ZP,1,Ad,117,-,
@@ -11117,7 +11117,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,14356,Hanna Sobczuk,WP,1,Ad,110,-,
 ,10062,Filip Zieliński,MA,1,Ad,110,-,
 10800.,15838,Daniel Bogdziel,ZP,1,Ad,109,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 10800.,10866,Lech Bramorski,MA,1,Ad,109,-,
 ,17957,Stefan Łysek,MP,1,Ad,109,-,
 ,12199,Iga Pękala,DS,1,Ad,109,-,
@@ -11168,7 +11168,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,19486,Iwona Klorek,MA,1,Ad,100,-,
 ,18264,Edward Neuburger,DS,1,Ad,100,O,INSTALATOR-SB ZKBS III Zgorzelec
 ,14046,Artur Obrycki,PD,1,Ad,100,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 10844.,17096,Jakub Pietrończyk,LB,1,Ad,100,-,
 ,19674,Andrzej Rymarz,LB,1,Ad,100,-,
 ,17913,Marcel Szydłowski,WP,1,Ad,100,3,Dąbrówka Dwujęzyczni Poznań
@@ -11219,7 +11219,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,12974,Piotr Szarowski,SL,1,Ad,92,-,
 10899.,14425,Grzegorz Gliński,PM,1,Ad,91,-,
 ,13345,Damian Grzeszczuk,WP,1,Ad,91,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 10899.,16570,Adrianna Kicińska,LB,1,Ad,91,-,
 ,21124,Katarzyna Pogłód,MA,1,Ad,91,O,ESKOM II
 ,21317,Maija Romanovska,MA,1,Ad,91,-,
@@ -11270,7 +11270,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,13501,Jakub Talarczyk,WP,1,Ad,83,-,
 10949.,21005,Robert Adamek,MP,1,Ad,82,-,
 ,15685,Henryka Boratyńska,MP,1,Ad,82,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 10949.,01673,Janina Kubica,WM,1,Ad,82,-,Zorro22 Olsztyn
 ,20784,Adam Sala,MP,1,Ad,82,-,
 ,17194,Stanisław Zieliński,LB,1,Ad,82,-,
@@ -11321,7 +11321,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,20275,Magdalena Gorczyca,SW,1,Ad,71,-,Świętokrzyski Klub Brydżowy w Kielcach
 ,14640,Stanisław Górowski,MP,1,Ad,71,-,
 ,19606,Ireneusz Górski,SL,1,Ad,71,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 10997.,17412,Szymon Wróbel,LD,1,Ad,71,-,
 11002.,21315,Jelena Alfejeva,MA,1,Ad,70,-,Singleton Warszawa
 ,20298,Jan Izwantowski,MA,1,Ad,70,O,AZS UW Azymut
@@ -11372,7 +11372,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,12494,Saulius Sinkevicius,PD,1,Ad,63,-,
 ,14408,Filip Szota,SL,1,Ad,63,-,
 ,19412,Marian Twardowski,WP,1,Ad,63,O,Pik Puszczykowo
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 11043.,17396,Andrzej Wieczorek,LD,1,Ad,63,3,Lokator Zduńska Wola
 11052.,15675,Michał Dembski,WP,1,Ad,62,-,
 ,19421,Jacek Kalicki,ZP,1,Ad,62,-,
@@ -11423,7 +11423,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,16200,Elżbieta Sosulska,OP,1,Ad,56,-,
 11099.,21502,Alex Cimr,SL,1,Ad,55,-,SBS BLUE CLUB CHORZÓW
 ,09080,Wiesław Długiewicz,WP,1,Ad,55,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 11099.,12477,Jolanta Fidelus,WP,1,Ad,55,-,
 ,20143,Wojciech Gilla,PM,1,Ad,55,-,
 ,13774,Sebastian Grocholski,DS,1,Ad,55,-,
@@ -11474,7 +11474,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,01521,Józef Kuczak,WM,1,Ad,48,-,Zorro22 Olsztyn
 ,18445,Danuta Łazikiewicz,SL,1,Ad,48,-,UTW Chorzów
 ,18365,Romuald Łukaszewicz,LB,1,Ad,48,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 11143.,06286,Krzysztof Mierzejewski,MA,1,Ad,48,-,
 ,13788,Jerzy Musielak,LB,1,Ad,48,-,Wschowski Klub Brydżowy
 ,03438,Sabina Podkowik,SL,1,Ad,48,-,
@@ -11525,7 +11525,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 11198.,19423,Danuta Dudzik,ZP,1,Ad,43,3,Kigar - Blotka Goleniów
 ,14561,Bartosz Liszka,MP,1,Ad,43,-,
 ,18800,Bogusław Malinka,PK,1,Ad,43,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 11198.,19026,Stanisław Obałka,LD,1,Ad,43,-,
 ,13637,Małgorzata Obrębska,LD,1,Ad,43,-,
 ,06350,Alina Rodzeń,MA,1,Ad,43,-,
@@ -11576,7 +11576,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,20039,Natalia Domalewska,PD,1,Ad,37,-,
 ,09087,Paweł Hajdukiewicz,WP,1,Ad,37,-,
 ,09403,Leszek Hildebrand,PK,1,Ad,37,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 11247.,18223,Krzysztof Lickiewicz,DS,1,Ad,37,-,
 ,20122,Wojciech Masełkowski,WP,1,Ad,37,O,Pik Puszczykowo
 ,05303,Andrzej Paluch,WP,1,Ad,37,-,
@@ -11627,7 +11627,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,20001,Zofia Kandulska,WP,1,Ad,33,-,
 ,13238,Bogdan Kosturek,DS,1,Ad,33,-,
 ,12694,Tadeusz Mediuch,ZP,1,Ad,33,O,SSMBS Brydż-Star KW Blue-Star 2
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 11297.,16034,Maciej Setlak,PK,1,Ad,33,-,
 ,13100,Zbigniew Sobczak,WP,1,Ad,33,-,
 ,16689,Mikołaj Tomalik,SL,1,Ad,33,-,
@@ -11678,7 +11678,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,18689,Ryszard Tkacz,SL,1,Ad,29,-,
 ,13330,Krzysztof Turski,MA,1,Ad,29,-,
 ,12654,Helena Zagrodnik,MA,1,Ad,29,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 11343.,12655,Jan Zagrodnik,MA,1,Ad,29,-,
 11352.,17327,Stanisław Brzuska,WP,1,Ad,28,-,
 ,10055,Eugeniusz Grzywacz,LB,1,Ad,28,-,
@@ -11729,7 +11729,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 11398.,17458,Dariusz Borkowski,KP,1,Ad,24,-,
 ,18581,Marcin Dworak,MP,1,Ad,24,-,
 ,16790,Grzegorz Gajewski,KP,1,Ad,24,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 11398.,07651,Alojzy Jabłoński,WP,1,Ad,24,-,
 ,19138,Denis Kurek,MP,1,Ad,24,-,
 ,04138,Tadeusz Kwasiborski,PD,1,Ad,24,-,
@@ -11780,7 +11780,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,19211,Władysław Deręgowski,SL,1,Ad,19,-,
 ,07570,Adam Jaśkiewicz,WM,1,Ad,19,-,
 ,14775,Paweł Kaczyński,ZP,1,Ad,19,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 11446.,09093,Bogdan Karwowski,WP,1,Ad,19,-,
 ,17796,Andrzej Kosik,LU,1,Ad,19,-,SINGLETON Lublin
 ,19443,Kajetan Marcinkowski,DS,1,Ad,19,-,
@@ -11831,7 +11831,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 11498.,11314,Waldemar Czarnecki,WP,1,Ad,15,-,
 ,15181,Grażyna Jankowska,SW,1,Ad,15,-,
 ,17251,Stefan Maeß,WP,1,Ad,15,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 11498.,20110,Andrius Michailovas,MA,1,Ad,15,-,
 ,08886,Jan Omelańczuk,LD,1,Ad,15,-,
 ,21353,Oliwier Polak,MP,1,Ad,15,-,UKS Trójka As Spod Wista Tarnów
@@ -11882,7 +11882,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,21082,Lesław Kaczmarski,PK,1,Ad,10,-,
 ,19818,Radosław Łucki,DS,1,Ad,10,-,
 ,20827,Tadeusz Medrala,MP,1,Ad,10,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 11543.,17887,Konrad Nosal,MP,1,Ad,10,-,
 ,14553,Janusz Rysiewicz,MP,1,Ad,10,-,
 ,21593,Kazimierz Siwiec,MP,1,Ad,10,O,PTG Sokół 2 Gorlice
@@ -11933,7 +11933,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,16562,Piotr Niziołek,WP,1,Ad,6,-,
 ,05838,Emilia Szczepaniak,LD,1,Ad,6,-,
 ,14748,Ryszard Szymczak,LD,1,Ad,6,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 11593.,14572,Wojciech Zarzyka,KP,1,Ad,6,-,
 11602.,16846,Stanisław Babiak,ZP,1,Ad,5,-,ZZBS Szczecin
 ,10473,Henryk Bencal,DS,1,Ad,5,-,
@@ -11984,7 +11984,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,01209,Ryszard Żywiec,PK,1,Ad,2,-,
 11649.,10073,Tomasz Adamski,MP,1,Ad,1,-,
 ,21272,Łukasz Czajkowski,MP,1,Ad,1,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 11649.,11805,Marcin Deniziuk,PM,1,Ad,1,-,
 ,18057,Zenon Gajkowski,KP,1,Ad,1,-,Singleton KPZBS
 ,20211,Piotr Homa,PK,1,Ad,1,-,
@@ -12035,7 +12035,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,10933,Zdena Tomcikova,SL,0.5,K,98,-,
 ,21401,Filip Wądołowski,PD,0.5,K,98,3,MBKB Białystok
 ,07433,Andrzej Włodarczyk,SL,0.5,K,98,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 11701.,19273,Adam Andreczko,SL,0.5,K,97,-,
 ,04211,Piotr Chodarcewicz,WM,0.5,K,97,-,
 ,16986,Jerzy Dubanowicz,WP,0.5,K,97,-,
@@ -12086,7 +12086,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,11794,Jan Wysocki,KP,0.5,K,93,-,
 11749.,16264,Piotr Bahyrycz,MP,0.5,K,92,-,
 ,13928,Maksymilian Białek,DS,0.5,K,92,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 11749.,19667,Marta Bugała,MA,0.5,K,92,-,
 ,20061,Krzysztof Cholewa,MP,0.5,K,92,-,UKS Trójka Szaleni Bednarze Tarnów
 ,13304,Tomasz Ciepielewski,MA,0.5,K,92,-,
@@ -12137,7 +12137,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,06603,Tomasz Gawraczyński,MA,0.5,K,89,-,
 ,18328,Edmund Hertmanowski,LD,0.5,K,89,3,Lokator Zduńska Wola
 ,07358,Jan Kasprzyk,MP,0.5,K,89,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 11797.,11680,Natalia Ostrowicz,WP,0.5,K,89,-,
 ,21527,Danuta Rynkiewicz,LB,0.5,K,89,3,Wastaafu Gorzów Wlkp. - Fundacja ILB
 ,07115,Damian Smoliński,LD,0.5,K,89,-,
@@ -12188,7 +12188,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,19118,Elżbieta Powązka,MP,0.5,K,85,-,
 ,08459,Szymon Półtorak,SW,0.5,K,85,-,
 ,21512,Kaja Pustułka,SL,0.5,K,85,-,SBS BLUE CLUB CHORZÓW
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 11841.,18804,Grzegorz Rusinek,LU,0.5,K,85,-,SINGLETON Lublin
 ,16740,Krzysztof Skrobacki,ZP,0.5,K,85,-,
 ,12073,Roman Szubert,MP,0.5,K,85,-,
@@ -12239,7 +12239,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,10599,Heiko Schwierz,DS,0.5,K,81,-,
 ,10069,Marian Sierpiński,MP,0.5,K,81,-,
 ,08745,Robert Strack,SL,0.5,K,81,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 11892.,03988,Krzysztof Twardowski,KP,0.5,K,81,-,
 11902.,04009,Artur Dryhynycz,WM,0.5,K,80,-,
 ,15740,Janusz Figaszewski,SL,0.5,K,80,-,
@@ -12290,7 +12290,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,15806,Jerzy Kobis,MP,0.5,K,78,-,
 ,02500,Leszek Kowalczyk,LU,0.5,K,78,-,
 ,17723,Michał Lange,MA,0.5,K,78,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 11939.,12286,Grażyna Madońska,ZP,0.5,K,78,-,
 ,18628,Jacek Myszka,MA,0.5,K,78,-,
 ,17325,Igor Nowak,WP,0.5,K,78,-,
@@ -12341,7 +12341,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 11998.,18515,Ewa Białogórska,SL,0.5,K,74,-,
 ,13537,Maciej Burdyński,SL,0.5,K,74,-,
 ,09310,Arkadiusz Gadaj,SW,0.5,K,74,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 11998.,20902,Anna Koczorowska,WP,0.5,K,74,-,Poznański Klub Brydżowy
 ,09139,Franciszek Korbański,WP,0.5,K,74,-,
 ,21102,Tymoteusz Kucharek,MA,0.5,K,74,O,Akademia Brydża AZS UW IV
@@ -12392,7 +12392,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,21077,Jacek Narębski,MA,0.5,K,71,O,WTS DeSki
 ,17024,Grażyna Płocka,PM,0.5,K,71,-,
 ,14833,Roman Połetek,ZP,0.5,K,71,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 12042.,05799,Janusz Rześniowiecki,LD,0.5,K,71,-,
 ,14637,Janusz Sapiecha,MP,0.5,K,71,-,
 ,17347,Volodymiyr Sheremet,LU,0.5,K,71,-,
@@ -12443,7 +12443,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,01899,Robert Węgorkiewicz,OP,0.5,K,68,-,
 ,12665,Gerard Wodzyński,MA,0.5,K,68,-,
 12100.,15496,Katarzyna Andrzejczak,LD,0.5,K,67,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 12100.,17500,Ludwik Czosnyka,MP,0.5,K,67,-,
 ,17452,Bogdan Dąbrowski,MA,0.5,K,67,-,
 ,04558,Henryk Domański,PM,0.5,K,67,-,
@@ -12494,7 +12494,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,01738,Cecylia Sienkiewicz,WM,0.5,K,65,-,Vęgoria-R
 ,09121,Marek Smuszkiewicz,WP,0.5,K,65,-,
 ,19646,Krzysztof Strzyżewski,DS,0.5,K,65,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 12137.,15872,Maria Szymańska,MA,0.5,K,65,-,
 12152.,18940,Maria Bielska,KP,0.5,K,64,-,
 ,19982,Kamil Chełminiak,MP,0.5,K,64,-,
@@ -12545,7 +12545,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,06483,Jan Dołęga,MA,0.5,K,61,-,
 ,01303,Aleksander Franczak,DS,0.5,K,61,-,
 ,19548,Weronika Głowacka,DS,0.5,K,61,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 12195.,12741,Krzysztof Głowacki,KP,0.5,K,61,-,
 ,14873,Krystian Heliasz,KP,0.5,K,61,-,
 ,08685,Konrad Jagielski,SL,0.5,K,61,-,
@@ -12596,7 +12596,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,09499,Tomasz Nurzyński,LU,0.5,K,59,-,
 ,21108,Bartosz Olakowski,PM,0.5,K,59,O,PEKABEX Gdańsk
 ,07438,Tomasz Pierończyk,SL,0.5,K,59,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 12236.,17814,Grzegorz Szatkowski,KP,0.5,K,59,-,
 12252.,19471,Maciej Bajorek,MP,0.5,K,58,O,PTG Sokół 2 Gorlice
 ,18935,Krzysztof Gertner,KP,0.5,K,58,-,
@@ -12647,7 +12647,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,07489,Stanisław Kaczmarczyk,SW,0.5,K,56,-,
 ,20490,Mirosław Komorowski,MA,0.5,K,56,-,
 ,19607,Mirosław Kurdziel,SL,0.5,K,56,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 12289.,19416,Yury Lukke,LU,0.5,K,56,-,
 ,14419,Marcin Nowacki,LU,0.5,K,56,-,
 ,17908,Patryk Rudnicki,MP,0.5,K,56,-,
@@ -12698,7 +12698,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,13041,Borys Jasiecki,KP,0.5,K,53,-,
 ,13893,Wojciech Kalamon,PM,0.5,K,53,-,
 ,19092,Wiesław Kiełbik,LB,0.5,K,53,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 12342.,13283,Tadeusz Konopka,MP,0.5,K,53,-,
 ,07967,Andrzej Kossowski,LU,0.5,K,53,-,
 ,19078,Alex Overbeek,MA,0.5,K,53,-,
@@ -12749,7 +12749,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,15169,Jakub Kaliszewski,KP,0.5,K,50,-,
 ,20379,Andrzej Kiersz,WP,0.5,K,50,-,
 ,17580,Julia Klincewicz,WP,0.5,K,50,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 12391.,17497,Zbigniew Kornet,MA,0.5,K,50,-,
 ,18363,Roman Kovalchuk,LU,0.5,K,50,-,
 ,13402,Krzysztof Koźmiński,DS,0.5,K,50,-,
@@ -12800,7 +12800,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,10912,Jacek Firgon,PM,0.5,K,47,-,
 ,19740,Leszek Grzelak,WP,0.5,K,47,-,PAB Poznań
 ,11999,Edward Herezo,ZP,0.5,K,47,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 12446.,20160,Ivan Katerynchuk,LU,0.5,K,47,-,
 ,09760,Bogdan Kolek,LD,0.5,K,47,-,
 ,20161,Serhii Krasheninnikov,LU,0.5,K,47,-,
@@ -12851,7 +12851,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,15588,Karolina Grzegorzewicz,SL,0.5,K,44,-,
 ,12615,Ireneusz Guglas,ZP,0.5,K,44,-,
 ,15964,Cyprian Herl,DS,0.5,K,44,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 12497.,19812,Mateusz Jakubowski,MA,0.5,K,44,-,
 ,21432,Mateusz Kisielewski,MP,0.5,K,44,O,CKiS IV Skawina
 ,17364,Andrzej Krauze,ZP,0.5,K,44,-,
@@ -12902,7 +12902,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,15222,Natalia Filipowiak,DS,0.5,K,41,-,
 ,12886,Kamil Grzeszczuk,WP,0.5,K,41,-,
 ,10387,Adam Kamiński,ZP,0.5,K,41,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 12545.,13326,Lech Kochanowski,MA,0.5,K,41,-,
 ,16532,Roman Latoszek,MA,0.5,K,41,-,
 ,05711,Michał Marcinkowski,LD,0.5,K,41,-,
@@ -12953,7 +12953,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,11035,Marian Szostak,MP,0.5,K,39,-,
 ,02452,Zofia Zawadzka,LB,0.5,K,39,-,
 12600.,11047,Mateusz Adamus,SL,0.5,K,38,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 12600.,20909,Jerzy Badak,WP,0.5,K,38,-,
 ,17808,Maciej Bujny,PM,0.5,K,38,-,
 ,20424,Alicja Furman,PK,0.5,K,38,-,
@@ -13004,7 +13004,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,19382,Piotr Szpryngier,PM,0.5,K,36,O,Asy z Rodos
 ,11085,Roman Zieliński,SL,0.5,K,36,-,
 12650.,20557,Henryk Adamowicz,PM,0.5,K,35,-,GTB Gdańsk
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 12650.,17009,Tomasz Bartnik,OP,0.5,K,35,-,
 ,18611,Karolina Borek,MA,0.5,K,35,-,
 ,15464,Urszula Kałużna,WP,0.5,K,35,-,
@@ -13055,7 +13055,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,15245,Mateusz Kopciński,MP,0.5,K,32,-,
 ,13646,Marzena Koźlak,MA,0.5,K,32,-,
 ,19385,Małgorzata Lipnicka,MA,0.5,K,32,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 12690.,19576,Aleksander Morgała,MP,0.5,K,32,-,
 ,21651,Bogdan Odrowski,WP,0.5,K,32,3,KB Gniezno
 ,20753,Tomasz Pabiś,MP,0.5,K,32,-,
@@ -13106,7 +13106,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,13608,Mirosław Dereszkiewicz,PM,0.5,K,29,-,
 ,14589,Sławomir Garcarz,MP,0.5,K,29,-,
 ,17448,Jerzy Jarmoc,MA,0.5,K,29,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 12747.,16538,Teresa Kulka,MA,0.5,K,29,-,
 ,14697,Adam Kulpa,MA,0.5,K,29,-,
 ,17760,Aleksandra Łyczkowska,DS,0.5,K,29,-,
@@ -13157,7 +13157,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,10952,Tadeusz Gmaj,SL,0.5,K,26,-,
 ,02015,Dorota Kaczmarczyk,LB,0.5,K,26,-,
 ,13909,Michał Kozłowski,MA,0.5,K,26,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 12797.,10951,Stanisław Maryniak,SL,0.5,K,26,-,
 ,13958,Bogusław Mosiej,PD,0.5,K,26,-,
 ,18305,Marek Nycz,DS,0.5,K,26,-,
@@ -13208,7 +13208,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,09129,Michał Czapliński,WP,0.5,K,23,-,
 ,12287,Bogdan Deniziuk,ZP,0.5,K,23,-,
 ,13922,Bronisław Dyrga,DS,0.5,K,23,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 12845.,15767,Lech Godziński,MA,0.5,K,23,-,
 ,01996,Anna Gruszczyńska,LB,0.5,K,23,-,
 ,18067,Katarzyna Jakieła,DS,0.5,K,23,-,
@@ -13259,7 +13259,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,17779,Barbara Kozłowska,DS,0.5,K,21,-,
 ,16580,Monika Kurasiak,DS,0.5,K,21,-,
 ,17833,Julia Midera,DS,0.5,K,21,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 12890.,13927,Mirosław Ostaszewski,DS,0.5,K,21,-,
 ,10360,Filip Otmianowski,MA,0.5,K,21,-,
 ,14832,Andrzej Ratkiewicz,MA,0.5,K,21,-,
@@ -13310,7 +13310,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,12369,Krzysztof Kowalski,WP,0.5,K,18,-,
 ,09098,Jerzy Kutnik,WP,0.5,K,18,-,
 ,21451,Dariusz Kuźmicz,MA,0.5,K,18,O,KB Saska Kępa
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 12941.,14291,Marek Lehmann,KP,0.5,K,18,-,
 ,19129,Marcin Maksymiuk,MA,0.5,K,18,O,Trójka Warszawa
 ,07151,Jerzy Michalak,OP,0.5,K,18,-,
@@ -13361,7 +13361,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,06044,Tadeusz Nykaza,ZP,0.5,K,16,-,
 ,12619,Maja Pieper,PM,0.5,K,16,-,
 ,13997,Marek Rams,MP,0.5,K,16,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 12986.,20758,Kacper Roman,MP,0.5,K,16,-,
 ,13578,Tomasz Różycki,SL,0.5,K,16,-,
 ,11677,Anna Rydzewska,LD,0.5,K,16,-,
@@ -13412,7 +13412,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,06729,Małgorzata Skonieczna,MA,0.5,K,14,-,
 ,11234,Jakub Stono,MP,0.5,K,14,-,
 ,20496,Stanisław Ulatowski,WP,0.5,K,14,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 13030.,19209,Danuta Wylon,SL,0.5,K,14,-,
 ,15766,Jakub Wyroba,MP,0.5,K,14,-,
 13053.,15737,Wiesław Babik,SL,0.5,K,13,-,
@@ -13463,7 +13463,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,16630,Patryk Wypych,LD,0.5,K,12,-,
 ,21453,Elżbieta Zając-Poniży,MP,0.5,K,12,-,
 13100.,19112,Roman Chudzik,LB,0.5,K,11,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 13100.,17059,Aldona Ciepielewska,MA,0.5,K,11,-,
 ,19798,Joanna Dąbrowska,MA,0.5,K,11,-,
 ,20917,Józef Drążek,OP,0.5,K,11,-,
@@ -13514,7 +13514,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,12022,Tomasz Talaśka,KP,0.5,K,10,-,
 ,16587,Aleksandra Toczek,DS,0.5,K,10,-,
 ,19709,Klara Walicka,LD,0.5,K,10,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 13124.,13340,Zdzisław Wawiórko,PD,0.5,K,10,-,
 ,21411,Paweł Wnuk,SL,0.5,K,10,-,SINGLETON ŚLĄSK Katowice
 ,04502,Łukasz Wróblewski,WM,0.5,K,10,-,
@@ -13565,7 +13565,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,20504,Władysław Król,PM,0.5,K,8,-,
 ,20236,Bartosz Łojek,MA,0.5,K,8,-,
 ,15932,Jan Łuczkiewicz,PM,0.5,K,8,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 13179.,20868,Józef Łyżwa,SW,0.5,K,8,-,
 ,15736,Marian Najmrodzki,DS,0.5,K,8,-,
 ,07471,Zdzisław Papir,MP,0.5,K,8,-,
@@ -13616,7 +13616,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,12762,Paulius Grigaliunas,PD,0.5,K,6,-,
 ,13480,Kacper Hima,LD,0.5,K,6,-,
 ,20678,Emilia Jachna,WP,0.5,K,6,O,Cytrynka Poznań
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 13243.,20976,Jolanta Kędzierska,ZP,0.5,K,6,3,CKM SZLEMIK Mielno
 ,12747,Tomasz Kłeczek,MA,0.5,K,6,-,
 ,03326,Waldemar Łuniewski,SL,0.5,K,6,-,
@@ -13667,7 +13667,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,14942,Olga Nowakowska,PM,0.5,K,4,-,
 ,15018,Nikole Pospieszczyk,SL,0.5,K,4,-,
 ,20923,Krzysztof Pyzik,MP,0.5,K,4,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 13286.,13965,Tomasz Rakoczy,MP,0.5,K,4,-,
 ,21614,Andrzej Ratajczak,MP,0.5,K,4,3,Just Bridge III AZS AGH Kraków
 ,18050,Maksym Ratajczak,WP,0.5,K,4,-,
@@ -13718,7 +13718,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,14437,Marcin Lemańczyk,PM,0.5,K,2,-,
 ,13936,Czesław Leś,SL,0.5,K,2,-,
 ,21045,Karolina Łukasik,WP,0.5,K,2,-,PAB Poznań
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 13342.,14629,Artur Paradowski,DS,0.5,K,2,-,
 ,17527,Krzysztof Parocki,MP,0.5,K,2,-,
 ,20184,Zofia Post,LD,0.5,K,2,-,
@@ -13769,7 +13769,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,10347,Włodzimierz Mróz,PM,0.5,K,0,-,
 ,17234,Andrzej Nowakowski,LD,0.5,K,0,-,
 ,20368,Alicja Okulewicz,WP,0.5,K,0,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 13385.,15698,Wojciech Olszewski,DS,0.5,K,0,-,
 ,20911,Ewa Panuś,MP,0.5,K,0,3,CM Jordan Kraków
 ,21518,Michał Paukszto,SL,0.5,K,0,-,SBS BLUE CLUB CHORZÓW
@@ -13820,7 +13820,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,06496,Zbigniew Bartel,MA,0,D,48,-,
 ,21409,Wojciech Bąk,SL,0,D,48,-,SBS BLUE CLUB CHORZÓW
 ,11965,Krzysztof Chróst,SL,0,D,48,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 13447.,14330,Krzysztof Haładus,SL,0,D,48,-,
 ,08248,Henryk Jędryczka,KP,0,D,48,-,
 ,13325,Jolanta Kochanowska,MA,0,D,48,-,
@@ -13871,7 +13871,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,10408,Piotr Gazarkiewicz,MA,0,D,46,-,
 ,12658,Marek Giżyński,MA,0,D,46,-,
 ,04172,Wojciech Gołębiowski,PD,0,D,46,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 13493.,09240,Leszek Góralski,WM,0,D,46,-,
 ,20398,Eugeniusz Graj,ZP,0,D,46,-,
 ,13306,Jan Grudziecki,SL,0,D,46,-,
@@ -13922,7 +13922,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,15697,Mariusz Pasek,DS,0,D,45,-,
 ,19648,Wojciech Paupa,PM,0,D,45,-,
 ,19166,Mateusz Pilarczyk,WP,0,D,45,O,Dąbrówka Liceum
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 13525.,16273,Tomasz Sękowski,SL,0,D,45,-,
 ,14842,Jarosław Staszewski,PD,0,D,45,-,
 ,21021,Andrzej Tabak,MA,0,D,45,-,Singleton Warszawa
@@ -13973,7 +13973,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,18867,Bartosz Młodziński,DS,0,D,43,-,
 ,16840,Kazimierz Molczyk,MP,0,D,43,-,
 ,19509,Bolesław Musiał,LD,0,D,43,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 13589.,18448,Anna Olbrich,SL,0,D,43,-,UTW Chorzów
 ,21325,Bożentyna Pałka-Koruba,SW,0,D,43,-,
 ,21429,Maria Pichór,MP,0,D,43,3,CM Jordan Kraków
@@ -14024,7 +14024,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,10288,Wojciech Gawlik,PK,0,D,41,-,
 ,08244,Artur Gerc,KP,0,D,41,-,
 ,09957,Marcin Gronczewski,MA,0,D,41,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 13643.,20271,Danuta Jarocka,ZP,0,D,41,-,ZZBS Szczecin
 ,09090,Przemysław Jezierski,WP,0,D,41,-,
 ,13300,Andrzej Jeżowski,LU,0,D,41,-,
@@ -14075,7 +14075,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,18356,Tadeusz Miś,MP,0,D,40,-,
 ,14990,Liudmila Nestsiaronak,PD,0,D,40,-,
 ,16557,Wiktoria Nieć,WP,0,D,40,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 13680.,11771,Tadeusz Opałka,MP,0,D,40,-,
 ,19330,Amelia Orłowska,WP,0,D,40,-,
 ,07657,Mirosław Palewski,ZP,0,D,40,-,
@@ -14126,7 +14126,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,19436,Włodzimierz Tugendraich,DS,0,D,39,-,
 ,02829,Łukasz Wachel,MP,0,D,39,-,
 ,04794,Grzegorz Wanat,WM,0,D,39,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 13723.,09290,Jacek Wilczewski,WM,0,D,39,-,
 ,16015,Wojciech Witkowski,ZP,0,D,39,-,
 ,13967,Ada Wróbel,MP,0,D,39,-,
@@ -14177,7 +14177,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,11902,Marta Dwórska,MA,0,D,37,-,
 ,20908,Adam Gawron,MP,0,D,37,-,
 ,20912,Rafał Gawron,MP,0,D,37,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 13792.,10513,Paweł Gawryś,MA,0,D,37,-,
 ,03178,Magdalena Gryzik,SL,0,D,37,-,
 ,20789,Bartosz Heyduk,LB,0,D,37,-,
@@ -14228,7 +14228,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 13848.,21645,Krzysztof Adamczyk,MA,0,D,35,-,Singleton Warszawa
 ,09789,Piotr Adamczyk,SL,0,D,35,-,
 ,09298,Katarzyna Cieślak,SW,0,D,35,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 13848.,01434,Krystyna Dawcewicz,WM,0,D,35,-,
 ,12348,Adam Dąbrowski,LB,0,D,35,-,
 ,22010,Aleksandra Gałaj,LD,0,D,35,O,PTC Juniors Pabianice
@@ -14279,7 +14279,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,17802,Bogusław Łobos,OP,0,D,34,-,
 ,02943,Maria Łomot,SW,0,D,34,-,
 ,21686,Piotr Łukawski,MA,0,D,34,-,Singleton Warszawa
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 13877.,07373,Aleksandra Mierzwa,SL,0,D,34,-,
 ,12845,Michał Mucik,SL,0,D,34,-,
 ,12211,Arkadiusz Multan,LU,0,D,34,-,
@@ -14330,7 +14330,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,09496,Jan Jaśkowiak,LU,0,D,32,-,
 ,11759,Ryszard Kaczan,WP,0,D,32,-,
 ,17910,Adam Kapuśniak,MP,0,D,32,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 13938.,21362,Maja Kielan,MA,0,D,32,O,Akademia Brydża AZS UW V
 ,21578,Erik Klemś,MP,0,D,32,-,
 ,21644,Mateusz Kopaszewski,WP,0,D,32,-,Dąbrówka Joker Poznań
@@ -14381,7 +14381,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,09381,Jarosław Wojciechowski,SW,0,D,31,-,
 ,14742,Wojciech Wojtas,LU,0,D,31,-,SINGLETON Lublin
 ,12501,Karol Wojtowicz,DS,0,D,31,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 13976.,10539,Albert Woźniak,WP,0,D,31,-,
 14002.,10965,Jan Adamczyk,SL,0,D,30,-,SINGLETON ŚLĄSK Katowice
 ,10046,Sebastian Bizub,SL,0,D,30,-,
@@ -14432,7 +14432,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,20060,Kamila Jakubowska,MP,0,D,29,-,
 ,09547,Jakub Jaskuła,LD,0,D,29,-,
 ,07795,Dariusz Jażdrzyk,MA,0,D,29,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 14039.,09832,Agata Kądziela,SL,0,D,29,-,
 ,21419,Tomasz Kolanowski,MA,0,D,29,-,Singleton Warszawa
 ,13742,Jaromir Krawczyński,OP,0,D,29,-,
@@ -14483,7 +14483,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,09533,Jan Pawelczyk,LD,0,D,28,-,
 ,13458,Krzysztof Pieprzak,DS,0,D,28,-,
 ,21423,Barbara Radkiewicz,WP,0,D,28,-,Poznański Klub Brydżowy
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 14077.,19796,Julia Rosa,MA,0,D,28,-,
 ,19909,Helena Schwarz,PM,0,D,28,-,GTB Gdańsk
 ,19934,Aleksander Szenknecht,LD,0,D,28,-,
@@ -14534,7 +14534,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,21349,Jan Zieleniewski,MP,0,D,27,3,CM Jordan Kraków
 14149.,17964,Danuta Białek,LD,0,D,26,-,
 ,09582,Waldemar Bielatowicz,PK,0,D,26,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 14149.,10656,Wojciech Charemza,MA,0,D,26,-,
 ,10759,Marcin Chomicki,MA,0,D,26,-,
 ,08668,Janusz Cząstkiewicz,SL,0,D,26,-,
@@ -14585,7 +14585,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,20821,Karolina Fido,MP,0,D,25,-,
 ,13147,Zbigniew Floriański,MA,0,D,25,-,
 ,07745,Leszek Frąckowiak,WP,0,D,25,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 14188.,20239,Atanazy Gawrysiak,MA,0,D,25,-,
 ,10867,Kazimierz Gęsicki,KP,0,D,25,-,
 ,15381,Agnieszka Hejna,DS,0,D,25,-,
@@ -14636,7 +14636,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,20443,Ignacy Gizelski,WP,0,D,24,-,
 ,12939,Krzysztof Graczak,DS,0,D,24,-,
 ,21522,Kamila Herok,SL,0,D,24,-,SBS BLUE CLUB CHORZÓW
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 14241.,14591,Aleksandra Kalisz,MP,0,D,24,-,
 ,06663,Paweł Kamiński,MA,0,D,24,-,
 ,21201,Maja Kamrowska,WP,0,D,24,O,Cytrynka Poznań
@@ -14687,7 +14687,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,19145,Piotr Kurpiński,LD,0,D,23,-,
 ,20089,Piotr Laskowski,KP,0,D,23,-,
 ,10986,Krzysztof Lewandowski,MA,0,D,23,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 14277.,09100,Marian Lisek,WP,0,D,23,-,
 ,17379,Robert Łada,PM,0,D,23,-,
 ,16438,Dominika Łeńska,DS,0,D,23,-,
@@ -14738,7 +14738,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,18447,Jarosław Kowalcze,SL,0,D,22,-,UTW Chorzów
 ,21665,Danuta Kowalska,WP,0,D,22,-,PAB Poznań
 ,17182,Paweł Królikowski,PK,0,D,22,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 14325.,13099,Ryszard Kurasiewicz,WP,0,D,22,-,
 ,10935,Karol Ludwikowski,MP,0,D,22,-,
 ,17780,Emilia Łabuz,DS,0,D,22,-,
@@ -14789,7 +14789,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,21250,Borys Kamiński,PM,0,D,21,-,GTB Gdańsk
 ,09134,Bogusław Kędzierski,MP,0,D,21,-,
 ,13834,Stanisław Kondro,PK,0,D,21,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 14376.,21672,Halina Kopeć,MA,0,D,21,-,Singleton Warszawa
 ,21674,Krzysztof Kopeć,MA,0,D,21,-,Singleton Warszawa
 ,19512,Tymon Koszarny,MA,0,D,21,-,
@@ -14840,7 +14840,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,12600,Henryk Drzewi,MP,0,D,20,-,
 ,17000,Mikołaj Duch,MP,0,D,20,-,
 ,18091,Maciej Dudek,DS,0,D,20,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 14443.,15781,Julia Firek,MP,0,D,20,-,
 ,15782,Natalia Gajdzińska,MP,0,D,20,-,
 ,13199,Piotr Głębski,LD,0,D,20,-,
@@ -14891,7 +14891,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,16890,Bartłomiej Warzecha,MP,0,D,20,-,
 14499.,09601,Barbara Adaszewska-Jaroń,MA,0,D,19,-,
 ,18819,Szymon Adaszkiewicz,LD,0,D,19,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 14499.,16598,Kamil Barczyński,SL,0,D,19,-,
 ,19682,Tomasz Basiński,MA,0,D,19,-,
 ,21466,Zofia Bubieńczyk,MA,0,D,19,O,Akademia Brydża AZS UW V
@@ -14942,7 +14942,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,14604,Agnieszka Sroka,MP,0,D,19,-,
 ,17564,Michał Stempak,DS,0,D,19,-,
 ,15482,Marcin Styś,MA,0,D,19,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 14499.,10047,Urszula Szczepaniak,PD,0,D,19,-,
 ,19914,Bartek Szwagrowski,PM,0,D,19,-,
 ,16478,Elżbieta Szymańska,PM,0,D,19,-,
@@ -14993,7 +14993,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,16487,Magdalena Szafrańska,SW,0,D,18,-,
 ,14673,Robert Szala,SL,0,D,18,-,
 ,13146,Edward Tabisz,OP,0,D,18,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 14561.,10417,Ryszard Tomczak,WP,0,D,18,-,
 ,12364,Michał Topolski,WP,0,D,18,-,
 ,18631,Mirosław Urbaniak,DS,0,D,18,-,
@@ -15044,7 +15044,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,08861,Rafał Rogula,DS,0,D,17,-,
 ,08451,Tadeusz Scholl,OP,0,D,17,-,
 ,09366,Sylwester Sikora,SW,0,D,17,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 14611.,18103,Mariusz Staniec,SL,0,D,17,-,
 ,19781,Małgorzata Strzelecka,MA,0,D,17,-,
 ,10832,Wiesław Stypiński,PD,0,D,17,-,
@@ -15095,7 +15095,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,17053,Filip Łukaszczyk,PM,0,D,16,-,
 ,15191,Damian Łuziński,KP,0,D,16,-,
 ,21015,Henryk Marciniak,DS,0,D,16,O,KBS Kolejarz I Wrocław
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 14669.,13829,Maciej Mąsiorski,DS,0,D,16,-,
 ,18601,Krzysztof Miedziński,LB,0,D,16,-,
 ,21765,Karolina Miszczuk,MA,0,D,16,O,Akademia Brydża AZS UW Warszawa III
@@ -15146,7 +15146,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,19848,Janusz Kanwiszer,SL,0,D,15,-,
 ,10210,Mateusz Klewicki,MA,0,D,15,-,
 ,19871,Lena Koślacz,MA,0,D,15,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 14729.,12471,Radosław Krawczyk,MA,0,D,15,-,
 ,21131,Maciej Kwacz,WP,0,D,15,O,Grunwald
 ,20292,Lena Machel,DS,0,D,15,-,
@@ -15197,7 +15197,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,09284,Anna Gawrońska,WP,0,D,14,-,
 ,14322,Anna Gębala,MP,0,D,14,-,
 ,18487,Józef Grygieńcza,LB,0,D,14,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 14789.,12498,Tomasz Grzechnik,MA,0,D,14,-,
 ,19712,Aleksander Grzybek,OP,0,D,14,-,
 ,09402,Mirosław Jamróz,PK,0,D,14,-,
@@ -15248,7 +15248,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,14605,Magdalena Szymuś,MP,0,D,14,-,
 ,12554,Wojciech Śliwa,MP,0,D,14,-,
 ,12556,Tomasz Tyrała,MP,0,D,14,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 14789.,10391,Bogdan Woźniak,ZP,0,D,14,-,
 ,16080,Daniel Woźniak,MA,0,D,14,-,
 ,07955,Beata Zaklika,LU,0,D,14,-,
@@ -15299,7 +15299,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,14825,Bogna Sajdak,SL,0,D,13,-,
 ,14602,Justyna Sasiak,MP,0,D,13,-,
 ,20636,Maciej Sikora,PM,0,D,13,-,GTB Gdańsk
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 14854.,16969,Mateusz Skiba,DS,0,D,13,-,
 ,17040,Bartłomiej Stężowski,MP,0,D,13,-,
 ,19782,Mirosław Strzelecki,MA,0,D,13,-,
@@ -15350,7 +15350,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,21810,Łukasz Kościk,MA,0,D,12,O,Piast Feliksów
 ,15100,Paweł Kulboka,MA,0,D,12,-,
 ,16649,Krzysztof Lange,PM,0,D,12,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 14919.,16581,Jakub Laszuk,DS,0,D,12,-,
 ,21754,Kinga Maćkowiak,WP,0,D,12,-,Dąbrówka Joker Poznań
 ,09678,Mateusz Markiewicz,PM,0,D,12,-,
@@ -15401,7 +15401,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,21910,Dorota Cielecka,MA,0,D,11,-,WawaBrydż Warszawa
 ,13921,Roman Dajewski,DS,0,D,11,-,
 ,21877,Lidia Dąbrowska,MA,0,D,11,O,Koźmiński Bridge Team
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 14993.,17559,Milena Dmuchowska,DS,0,D,11,-,
 ,19228,Weronika Dylewska,DS,0,D,11,-,
 ,21705,Małgorzata Filew,MA,0,D,11,-,Singleton Warszawa
@@ -15452,7 +15452,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,18181,Paweł Serwatowski,LD,0,D,11,-,
 ,19334,Michał Siwiec,DS,0,D,11,-,
 ,17665,Marcin Sternicki,PK,0,D,11,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 14993.,10684,Grzegorz Szczepaniak,WP,0,D,11,-,
 ,18811,Adrian Sztolsztejner,WP,0,D,11,-,
 ,13530,Marcin Śliwiński,LB,0,D,11,-,
@@ -15503,7 +15503,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,12297,Ryszard Krasadomski,WP,0,D,10,-,
 ,08051,Jarosław Kwaśniewski,PM,0,D,10,-,
 ,14512,Ignacy Lamla,DS,0,D,10,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 15068.,07397,Hubert Lange,MP,0,D,10,-,
 ,14079,Kamila Leszczyńska,SL,0,D,10,-,
 ,17081,Małgorzata Lewińska,MA,0,D,10,-,
@@ -15554,7 +15554,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,19974,Anna Walczyńska,MA,0,D,10,-,
 ,19232,Anna Wewersowicz,LD,0,D,10,-,
 ,10822,Rajmund Wilke,PM,0,D,10,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 15068.,19356,Jerzy Wójtowicz,SW,0,D,10,-,
 ,07661,Karol Zwierz,WP,0,D,10,-,
 15153.,11621,Joanna Abram,PM,0,D,9,-,
@@ -15605,7 +15605,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,13144,Adam Markowski,OP,0,D,9,-,
 ,09395,Iza Merkiel,ZP,0,D,9,-,
 ,19696,Nadia Miksza,PM,0,D,9,-,GTB Gdańsk
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 15153.,18335,Kornelia Minkiewicz,DS,0,D,9,-,
 ,04083,Miłosz Miotk,WM,0,D,9,-,
 ,11082,Paweł Misiek,SL,0,D,9,-,
@@ -15656,7 +15656,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,21867,Jakub Zoruk,SL,0,D,9,-,Uczniowski Klub ZSP Pszczyna
 ,21139,Mateusz Żmudziński,WP,0,D,9,1,DĄBRÓWKA NAUKABRYDZA.PL Poznań
 ,21087,Miłosz Żyto,DS,0,D,9,-,KS AZS Wratislavia
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 15251.,08395,Jerzy Banach,MA,0,D,8,-,
 ,09790,Dawid Bartos,SL,0,D,8,-,
 ,21904,Stanisław Białecki,MA,0,D,8,-,AZS KU UW Warszawa
@@ -15707,7 +15707,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,13319,Daniel Marciniak,MA,0,D,8,-,
 ,21639,Tymon Matysiak,MA,0,D,8,O,Akademia Brydża AZS UW Warszawa III
 ,09181,Kazimierz Mendel,OP,0,D,8,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 15251.,08648,Tomasz Michalak,WP,0,D,8,-,
 ,21977,Franciszek Mirkowski,MA,0,D,8,-,AZS KU UW Warszawa
 ,17597,Karolina Misiak,MA,0,D,8,-,
@@ -15758,7 +15758,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 15348.,12025,Klaudia Balska,MP,0,D,7,-,
 ,21511,Włodzimierz Banasiewicz,ZP,0,D,7,3,Kigar - Blotka Goleniów
 ,21864,Lena Baron,SL,0,D,7,-,Uczniowski Klub ZSP Pszczyna
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 15348.,14092,Dominik Bednarek,SL,0,D,7,-,
 ,12026,Wiktoria Bełz,MP,0,D,7,-,
 ,15908,Robert Benke,PM,0,D,7,-,
@@ -15809,7 +15809,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,13998,Witold Marcinow,WP,0,D,7,-,
 ,18133,Bartosz Marszałek,PM,0,D,7,-,
 ,12708,Anna Matysiak,PM,0,D,7,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 15348.,21960,Jan Migo,MP,0,D,7,O,CKiS IV Skawina
 ,11077,Łukasz Migodziński,SL,0,D,7,-,
 ,12487,Rafał Milczarek,MA,0,D,7,-,
@@ -15860,7 +15860,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,19360,Antoni Chojnowski,PM,0,D,6,-,GTB Gdańsk
 ,13080,Stanisław Członkowski,WP,0,D,6,-,
 ,11405,Kacper Dąbrowski,LB,0,D,6,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 15438.,16658,Maciej Dobosz,MP,0,D,6,-,
 ,09055,Marcin Dorywalski,MP,0,D,6,-,
 ,20563,Dawid Dulak,DS,0,D,6,-,
@@ -15911,7 +15911,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,19333,Ignacy Kwaśniewski,PM,0,D,6,-,
 ,16919,Jan Kwaśnik,DS,0,D,6,-,
 ,18134,Kacper Kwiatkowski,PM,0,D,6,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 15438.,17206,Mikołaj Leonarski,MA,0,D,6,-,
 ,18279,Antoni Leśniewski,DS,0,D,6,-,
 ,21137,Ewa Łoń,MA,0,D,6,-,WawaBrydż Warszawa
@@ -15962,7 +15962,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,21866,Wiktoria Sosna,SL,0,D,6,-,Uczniowski Klub ZSP Pszczyna
 ,11370,Robert Staszewski,PM,0,D,6,-,
 ,10998,Lech Staśkowiak,KP,0,D,6,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 15438.,18717,Artur Szafarczyk,MA,0,D,6,-,
 ,19817,Jerzy Szczygieł,ZP,0,D,6,-,
 ,09894,Adam Szymański,SL,0,D,6,-,
@@ -16013,7 +16013,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,16979,Jakub Feret,DS,0,D,5,-,
 ,21759,Jakub Frankowski,MA,0,D,5,O,Akademia Brydża AZS UW Warszawa III
 ,21792,Alicja Frąckowiak,SL,0,D,5,-,SBS BLUE CLUB CHORZÓW
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 15571.,04989,Tadeusz Gawczyński,WP,0,D,5,-,
 ,21235,Kinga Gawron,MP,0,D,5,-,
 ,09739,Małgorzata Germak,MA,0,D,5,-,
@@ -16064,7 +16064,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,04177,Paulina Łukaszewicz,PD,0,D,5,-,
 ,15009,Wojciech Madej,LD,0,D,5,-,
 ,14219,Piotr Maleszka,DS,0,D,5,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 15571.,21905,Anastazja Maliszewska,MA,0,D,5,-,AZS KU UW Warszawa
 ,08137,Ewa Mazur,DS,0,D,5,-,
 ,14220,Szymon Michalak,DS,0,D,5,-,
@@ -16115,7 +16115,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,18769,Maciej Szewczyk,MA,0,D,5,-,
 ,15911,Michał Śledź,PM,0,D,5,-,
 ,15939,Michał Ślęzak,SW,0,D,5,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 15571.,21947,Marceli Śmiałkowski,PM,0,D,5,-,GTB Gdańsk
 ,18142,Bogdan Śnieżko,PM,0,D,5,-,
 ,20632,Piotr Świtkowski,MA,0,D,5,O,Trójka Warszawa
@@ -16166,7 +16166,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,17246,Łukasz Czyż,MA,0,D,4,-,
 ,12603,Zofia Dąbrowska,MP,0,D,4,-,
 ,18693,Filip de Raad,MA,0,D,4,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 15722.,20016,Tymoteusz Dobrołowicz,DS,0,D,4,-,
 ,21840,Lena Dogiel,DS,0,D,4,-,KS AZS Wratislavia
 ,09054,Michał Domżał,MP,0,D,4,-,
@@ -16217,7 +16217,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,19889,Piotr Kordowski,MA,0,D,4,-,
 ,20093,Aleksander Korecki,KP,0,D,4,-,
 ,09747,Piotr Koziołkiewicz,MA,0,D,4,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 15722.,07564,Maciej Koziorowski,WM,0,D,4,-,
 ,12033,Klaudia Krawczyk,MP,0,D,4,-,
 ,21838,Maksymilian Krawiec,DS,0,D,4,-,KS AZS Wratislavia
@@ -16268,7 +16268,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,20426,Filip Rodak,LU,0,D,4,-,SINGLETON Lublin
 ,17630,Małgorzata Rojek,MA,0,D,4,-,
 ,17673,Stanisław Rowicki,MA,0,D,4,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 15722.,16517,Wojciech Rudeński,PM,0,D,4,-,GTB Gdańsk
 ,20382,Oliwia Rutkowska,DS,0,D,4,-,
 ,16564,Maciej Rychlik,WP,0,D,4,-,
@@ -16319,7 +16319,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,21898,Filip Bieżuński,KP,0,D,3,-,UKS Gol Brodnica
 ,14738,Alicja Bilska,DS,0,D,3,-,
 ,10336,Kamil Błaszczyk,MA,0,D,3,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 15892.,15054,Michał Bober,DS,0,D,3,-,
 ,16005,Krzysztof Bolda,PM,0,D,3,-,
 ,16949,Małgorzata Borek,DS,0,D,3,-,
@@ -16370,7 +16370,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,13047,Magdalena Janek,WP,0,D,3,-,
 ,16023,Agnieszka Jarecka,DS,0,D,3,-,
 ,19950,Amelia Jasińska,LD,0,D,3,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 15892.,12134,Anna Jaskulska,MA,0,D,3,-,
 ,21461,Matylda Jaźwiec,MA,0,D,3,-,
 ,22003,Paweł Jezierski,MA,0,D,3,-,I LO KRASINIAK Ciechanów
@@ -16421,7 +16421,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,17203,Wiktor Małas,LB,0,D,3,-,
 ,19229,Bartosz Małyszko,PD,0,D,3,-,
 ,21313,Bartłomiej Manowski,PM,0,D,3,-,GTB Gdańsk
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 15892.,16615,Piotr Markowski,MA,0,D,3,-,
 ,11137,Paulina Marszałek,MP,0,D,3,-,
 ,10024,Stefan Maruszewski,LB,0,D,3,-,
@@ -16472,7 +16472,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,09941,Rafał Sawulski,MA,0,D,3,-,
 ,20440,Mateusz Schilling,DS,0,D,3,-,KS AZS Wratislavia
 ,19875,Igor Siuda,MP,0,D,3,3,CM Jordan Kraków
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 15892.,16710,Michał Skrzypkowski,PM,0,D,3,-,
 ,20441,Julia Słowik,DS,0,D,3,-,
 ,19186,Barbara Sroka,DS,0,D,3,-,
@@ -16523,7 +16523,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,20332,Emilia Zielińska,MA,0,D,3,O,WIST Pomiechówek
 ,20390,Filip Zięba,DS,0,D,3,-,
 ,13673,Mateusz Zimniak,DS,0,D,3,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 15892.,18144,Małgorzata Ziopaja,SW,0,D,3,-,
 ,17790,Katarzyna Żbikowska,DS,0,D,3,-,
 ,21845,Paulina Żeleźnik,DS,0,D,3,-,KS AZS Wratislavia
@@ -16574,7 +16574,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,22007,Paweł Dziendziel,SL,0,D,2,-,SBS BLUE CLUB CHORZÓW
 ,12774,Jarek Dzięgiel,SL,0,D,2,-,
 ,17055,Anna Formella,PM,0,D,2,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 16107.,21104,Karolina Foszcz,MP,0,D,2,3,CM Jordan Kraków
 ,15535,Norbert Franek,MP,0,D,2,-,
 ,11049,Zbigniew Gabriel,SL,0,D,2,-,
@@ -16625,7 +16625,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,21571,Anna Kazimierska,PM,0,D,2,O,Król Kier Gdańsk
 ,18768,Rafał Klimczak,MA,0,D,2,-,
 ,19258,Adam Kluczny,OP,0,D,2,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 16107.,20568,Nikodem Kodzik,DS,0,D,2,O,KBS Miłkowice II Miłkowice
 ,20938,Jan Kolano,SL,0,D,2,-,
 ,14854,Julia Kołaszczyńska,MP,0,D,2,-,
@@ -16676,7 +16676,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,11067,Dawid Mankowski,SL,0,D,2,-,
 ,15559,Józef Mańk,MA,0,D,2,-,
 ,18640,Stanisław Marciniak,LD,0,D,2,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 16107.,15851,Lucja Marcinkowska,PM,0,D,2,-,
 ,07764,Joanna Matusiak,WP,0,D,2,-,
 ,14939,Kazimierz Mazurkiewicz,KP,0,D,2,-,
@@ -16727,7 +16727,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,19311,Agnieszka Rawicka,MA,0,D,2,-,
 ,16004,Bartosz Robakowski,PM,0,D,2,-,
 ,21997,Dominik Rojek,SL,0,D,2,-,SBS BLUE CLUB CHORZÓW
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 16107.,21998,Tadeusz Rojek,SL,0,D,2,-,SBS BLUE CLUB CHORZÓW
 ,01605,Jolanta Rucińska,WM,0,D,2,-,
 ,19276,Jakub Rutkowski,MP,0,D,2,-,
@@ -16778,7 +16778,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,03985,Grzegorz Tabaka,WM,0,D,2,-,
 ,08108,Marek Tabot,PM,0,D,2,-,
 ,16361,Vohla Tatarintsava,PD,0,D,2,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 16107.,09895,Marta Tazbir,SL,0,D,2,-,
 ,17243,Olga Taźbierska,MA,0,D,2,-,
 ,03995,Filip Tokarz,WM,0,D,2,-,
@@ -16829,7 +16829,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,19894,Jakub Zyblikiewicz-Słowik,MP,0,D,2,-,
 ,09070,Jakub Żmuda,MP,0,D,2,-,
 ,19864,Szymon Żmudzin,LB,0,D,2,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 16401.,13773,Bartosz Adamski,DS,0,D,1,-,
 ,16512,Katsiaryna Aheyeva,PD,0,D,1,-,
 ,21983,Konstanty Albrycht,MA,0,D,1,-,AZS KU UW Warszawa
@@ -16880,7 +16880,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,13620,Konrad Czechowski,MA,0,D,1,-,
 ,09606,Artur Czemiel,PD,0,D,1,-,
 ,20083,Piotr Czerwonka,KP,0,D,1,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 16401.,15241,Piotr Ćwiklicki,MP,0,D,1,-,
 ,21821,Antoni Danek,WP,0,D,1,-,Poznański Klub Brydżowy
 ,19946,Franciszek Danis,MA,0,D,1,-,
@@ -16931,7 +16931,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,19795,Izabela Gruszecka,MA,0,D,1,-,
 ,20564,Patryk Grybel,DS,0,D,1,-,
 ,22060,Igor Guz,MA,0,D,1,-,AZS KU UW Warszawa
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 16401.,19358,Zbigniew Guzik,PM,0,D,1,-,
 ,21366,Patryk Halat,MA,0,D,1,-,
 ,14345,Bartosz Haładus,SL,0,D,1,-,
@@ -16982,7 +16982,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,21952,Julia Kasprzyk,SL,0,D,1,-,
 ,16511,Sviatlana Kastsiukevich,PD,0,D,1,-,
 ,14281,Adam Kazimierczak,WP,0,D,1,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 16401.,20946,Krzysztof Kaziród,SL,0,D,1,-,
 ,20880,Aleksandra Kenc,DS,0,D,1,-,
 ,19948,Michał Kern,MA,0,D,1,-,
@@ -17033,7 +17033,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,21803,Antoni Kukuś,MP,0,D,1,-,
 ,20669,Anna Kulesza,WP,0,D,1,-,Poznański Klub Brydżowy
 ,19167,Oliwier Kuliński,MA,0,D,1,-,AZS KU UW Warszawa
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 16401.,22053,Konrad Kuna,WP,0,D,1,-,Poznański Klub Brydżowy
 ,08646,Adam Kuznowicz,WP,0,D,1,-,
 ,17125,Artur Kuźmiński,MA,0,D,1,-,
@@ -17084,7 +17084,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,21995,Piotr Misiaszek,MP,0,D,1,3,CM Jordan Kraków
 ,21026,Andrzej Mokrzanowski,MA,0,D,1,-,
 ,13662,Mieczysław Moleda,MA,0,D,1,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 16401.,11022,Tadeusz Motyka,MA,0,D,1,-,
 ,16308,Julia Mrozek,MP,0,D,1,-,
 ,21879,Wojciech Mróz,MP,0,D,1,-,
@@ -17135,7 +17135,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,03895,Hugon Pobłocki,KP,0,D,1,-,
 ,12994,Marek Pochopień,DS,0,D,1,-,
 ,12995,Mikołaj Pochopień,DS,0,D,1,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 16401.,19294,Kacper Poddębniak,LD,0,D,1,-,
 ,20961,Kacper Podgórski,SL,0,D,1,-,
 ,19305,Mikołaj Podolecki,MA,0,D,1,-,
@@ -17186,7 +17186,7 @@ lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 ,22061,Robert Soboński,MA,0,D,1,-,AZS KU UW Warszawa
 ,19876,Jan Socha,MP,0,D,1,-,
 ,15323,Małgorzata Soluch,WP,0,D,1,-,
-lokata,PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
+lokata,00PID,imię i nazwisko,WZBS,WK,TK,PKL,liga,klub / drużyna
 16401.,22049,Jan Sopański,DS,0,D,1,-,
 ,16084,Kamil Spychała,WP,0,D,1,-,
 ,18096,Karol Stachyra,PM,0,D,1,-,
