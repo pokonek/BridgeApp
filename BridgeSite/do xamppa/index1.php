@@ -1,6 +1,6 @@
 <?php
 include_once('connection.php');
-$query="select * from new_ranking";
+$query="select * from final_ranking";
 $result=mysqli_query($con, $query);
 ?>
 
@@ -61,21 +61,37 @@ $result=mysqli_query($con, $query);
                     <span><b>Imię i nazwisko</b></span>
                 </li>
 
+                <li class="ranking_result">
+                    <span><b>Wynik</b></span>
+                </li>
+
+                <li class="ranking_difference">
+                    <span><b>Zmiana pozycji</b></span>
+                </li>
+
             </ul>
                 <?php while($rows=mysqli_fetch_assoc($result)) 
                 { 
                 ?> 
                     <ul class="ranking_profile">
                         <li class="ranking_number">
-                            <span><?php echo $rows['COL 1']; ?></span>
+                            <span><?php echo $rows['Miejsce']; ?></span>
                         </li>
 
                         <li class="ranking_id">
-                            <span><?php echo $rows['COL 2']; ?></span>
+                            <span><?php echo $rows['PID']; ?></span>
                         </li>
 
                         <li class="ranking_name">
-                            <span><?php echo $rows['COL 3']; ?></span>
+                            <span><?php echo $rows['Zawodnik']; ?></span>
+                        </li>
+
+                        <li class="ranking_result">
+                            <span><?php echo $rows['Ranking']; ?></span>
+                        </li>
+
+                        <li class="ranking_difference">
+                            <span><?php echo $rows['Zmiana pozycji']; ?></span>
                         </li>
                     </ul>
             <?php 

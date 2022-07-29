@@ -99,7 +99,7 @@ input{
   }
   .ranking_profile_text{
     display:grid;
-    grid-template-columns: repeat(2, 2fr) 1fr 3fr;
+    grid-template-columns: repeat(3, 2fr) 1fr 3fr;
     grid-column-gap: 0.5em;
     margin-bottom: 1.5rem;
 
@@ -110,7 +110,7 @@ input{
 
   .ranking_profile{
     display:grid;
-    grid-template-columns: repeat(2, 2fr) 1fr 3fr;
+    grid-template-columns: repeat(3, 2fr) 1fr 3fr;
     grid-template-rows: repeat(1, 1fr);
     grid-column-gap: 0.5em;
     align-items: top;
@@ -124,7 +124,7 @@ input{
     padding: 1rem;
 
   }
-  @media (max-width:550px){
+  @media (max-width:450px){
     .main_ranking{
         transform: scale(0.9);
         margin-left: 0.5rem;
@@ -132,14 +132,14 @@ input{
       }
       .ranking_profile_text{
         display:grid;
-        grid-template-columns: repeat(4, 1fr);
+        grid-template-columns: repeat(5, 1fr);
         grid-column-gap: 0.1em;
         grid-row-gap: 0.1em;
         margin:0.5rem;    
       }
       .ranking_profile{
         display:grid;
-        grid-template-columns: repeat(4, 1fr);
+        grid-template-columns: repeat(5, 1fr);
         grid-template-rows: repeat(1, 1fr);
         grid-column-gap: 0.1em;
         grid-row-gap: 0.1em;
