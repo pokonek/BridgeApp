@@ -2,13 +2,13 @@
 include_once('connection.php');
 $query="select * from final_ranking";
 $result=mysqli_query($con, $query);
+
 ?>
 
 <!DOCTYPE html>
 <html lang="PL">
 <head>
     <title>Bridge App</title>
-
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">    
@@ -31,16 +31,22 @@ $result=mysqli_query($con, $query);
     <main>
 
         <div class="search_bar">
+
                 <div class="search_icon">
                     <img src="css/svg/magnifying-glass-solid.svg" alt="search_icon">
                 </div>
 
                 <input type="text" placeholder="Wyszukaj profil zawodnika" />
-
                 <div class="cancel_icon">
                     <img src="css/svg/xmark-solid.svg" alt="cancel_icon">
                 </div>
+                
+                
+            
         </div>
+    
+
+
 
         <div class="description_profile_example">
             <br><br><br><br><br>

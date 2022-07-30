@@ -1,4 +1,5 @@
 <?php 
 $con = mysqli_connect('localhost','root',''); 
-mysqli_select_db($con, 'csv_db 6'); 
+$con->set_charset("utf8");
+mysqli_select_db($con, 'data base 6'); 
 ?>
