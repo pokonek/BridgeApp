@@ -1,4 +1,5 @@
 <?php
+    error_reporting(E_ERROR | E_PARSE);
     include_once('connection.php');
     if(isset($_GET['search'])) {
         $filtervalues = $_GET['search'];
@@ -20,28 +21,28 @@
     $query4 = "SELECT `Zmiana pozycji` FROM final_ranking WHERE `PID`= '$filtervalues' or `Zawodnik`='$filtervalues'";
     $query_run4 = mysqli_query($con, $query4);
 
-    $query5 = "SELECT `klub` FROM stats_to_website WHERE `PID`= '$filtervalues' or `name`='$filtervalues'";
+    $query5 = "SELECT `klub` FROM `table 2` WHERE `PID`= '$filtervalues' or `name`='$filtervalues'";
     $query_run5 = mysqli_query($con, $query5);
 
-    $query6 = "SELECT `średnia_na_rozgrywce` FROM stats_to_website WHERE `PID`= '$filtervalues' or `name`='$filtervalues' ";
+    $query6 = "SELECT `średnia_na_rozgrywce` FROM `table 2` WHERE `PID`= '$filtervalues' or `name`='$filtervalues' ";
     $query_run6 = mysqli_query($con, $query6);
 
-    $query7 = "SELECT `średnia_na_obronie` FROM stats_to_website WHERE `PID`= '$filtervalues' or `name`='$filtervalues' ";
+    $query7 = "SELECT `średnia_na_obronie` FROM `table 2` WHERE `PID`= '$filtervalues' or `name`='$filtervalues' ";
     $query_run7 = mysqli_query($con, $query7);
 
-    $query8 = "SELECT `kokosy na obronie` FROM stats_to_website WHERE `PID`= '$filtervalues' or `name`='$filtervalues' ";
+    $query8 = "SELECT `kokosy na obronie` FROM `table 2` WHERE `PID`= '$filtervalues' or `name`='$filtervalues' ";
     $query_run8 = mysqli_query($con, $query8);
 
-    $query9 = "SELECT `częściówka` FROM stats_to_website WHERE `PID`= '$filtervalues' or `name`='$filtervalues'";
+    $query9 = "SELECT `częściówka` FROM `table 2` WHERE `PID`= '$filtervalues' or `name`='$filtervalues'";
     $query_run9 = mysqli_query($con, $query9);
 
-    $query10 = "SELECT `końcówka` FROM stats_to_website WHERE `PID`= '$filtervalues' or `name`='$filtervalues'";
+    $query10 = "SELECT `końcówka` FROM `table 2` WHERE `PID`= '$filtervalues' or `name`='$filtervalues'";
     $query_run10 = mysqli_query($con, $query10);
 
-    $query11 = "SELECT `szlemik` FROM stats_to_website WHERE `PID`= '$filtervalues' or `name`='$filtervalues'";
+    $query11 = "SELECT `szlemik` FROM `table 2` WHERE `PID`= '$filtervalues' or `name`='$filtervalues'";
     $query_run11 = mysqli_query($con, $query11);
 
-    $query12 = "SELECT `wpadka` FROM stats_to_website WHERE `PID`= '$filtervalues' or `name`='$filtervalues' ";
+    $query12 = "SELECT `wpadka` FROM `table 2` WHERE `PID`= '$filtervalues' or `name`='$filtervalues' ";
     $query_run12 = mysqli_query($con, $query12);
 
     
@@ -62,23 +63,28 @@
     <meta name="author" content="Maciej Leszek, Piotr Okonek">
     
     
-    <link rel="stylesheet" href="css/profile_style.css">
+    <link rel="stylesheet" href="css/profile_style1.css">
     <link rel="icon" href="css/img/logo.png">
 </head>
 <body>
     <nav>
-<br><br><br><br><br><br><br><br>
-    </nav>
-    <div class="col-md-8">
-             <form action="" method="GET">
-                <div class="input-group mb-3">
-                    <input type="text" name="search" required value="<?php if(isset($_GET['search'])){echo $_GET['search']; } ?>" class="form-control" placeholder="Search data">
-                    <button type="submit" class="btn btn-primary">Search</button>
-                </div>
-            </form>
-            <br />
-        		
+        <div class="main_logo">
+            <h1>&#9824; &#9829; The Bridge App &#9830; &#9827;</h1>
         </div>
+    </nav>
+        <form action="" method="GET">
+            <div class="search_bar">            
+                <div>
+
+                </div>
+
+                <input type="text" required value="<?php if(isset($_GET['search'])){echo $_GET['search']; } ?>" name="search" placeholder="Wyszukaj profil zawodnika" />               
+                
+                <button type="submit" class="search_icon">
+                    <img src="css/svg/magnifying-glass-solid.svg" alt="search_icon">
+                </button>
+             </div>
+        </form> 
     <main>
 
         <header>
@@ -228,7 +234,31 @@
     </main>
 
     <footer>
-
+        <h2>Kontakt</h2>
+        <div class="contact">
+            <div class="contact_p">
+                <img src="css/img/user.png" alt="Piotr Okonek">
+                <br>
+                <h3>Piotr Okonek </h3><br> <h4> student Inżynierii i Analizy Danych <br> na Politechnice Warszawskiej</h4>
+                <br>
+                <p>linkedin:</p>
+                <br>
+                <p>mail:</p>
+                <br>
+                <p>github:</p>
+            </div>
+            <div class="contact_m">
+                <img src="css/img/user.png" alt="Maciej Leszek">
+                <br>
+                <h3>Maciej Leszek</h3><br> <h4> student Inżynierii Internetu Rzeczy <br> na Politechnice Warszawskiej</h4>
+                <br>
+                <p>linkedin:</p>
+                <br>
+                <p>mail:</p>
+                <br>
+                <p>github:</p>
+            </div>
+        </div>
     </footer>
 </body>
 </html>
