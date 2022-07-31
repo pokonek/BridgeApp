@@ -1,6 +1,6 @@
 <?php
 include_once('connection.php');
-$query="select * from final_ranking";
+$query="select * from final_ranking limit 100";
 $result=mysqli_query($con, $query);
 
 ?>
@@ -17,7 +17,7 @@ $result=mysqli_query($con, $query);
     <meta name="author" content="Maciej Leszek, Piotr Okonek">
     
     
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/style2.css">
     <link rel="icon" href="css/img/logo.png">
 </head>
 <body>
@@ -32,24 +32,25 @@ $result=mysqli_query($con, $query);
 
         <div class="search_bar">
 
-                <div class="search_icon">
-                    <img src="css/svg/magnifying-glass-solid.svg" alt="search_icon">
-                </div>
+                <div></div>
 
                 <input type="text" placeholder="Wyszukaj profil zawodnika" />
-                <div class="cancel_icon">
-                    <img src="css/svg/xmark-solid.svg" alt="cancel_icon">
-                </div>
-                
-                
-            
+
+                <button type="submit" class="search_icon">
+                    <img src="css/svg/magnifying-glass-solid.svg" alt="search_icon">
+                </button>
+                            
         </div>
     
 
 
 
-        <div class="description_profile_example">
-            <br><br><br><br><br>
+        <!-- <div class="description_profile_example">
+            
+        </div> -->
+
+        <div class="about_ranking">
+            <h1>Autorski ranking ukazujący w ciekawszy sposób poziom 100 najlepszych graczy niż ranking PZBSu. Jak go zrobiliśmy, nikt się nie dowie. CZEŚĆ </h1>
         </div>
 
         <div class="main_ranking">
@@ -117,16 +118,32 @@ $result=mysqli_query($con, $query);
     </main>
 
     <footer>
-
-        <div class="footer_logo">
-
+        <h2>Kontakt</h2>
+        <div class="contact">
+            <div class="contact_p">
+                <img src="css/img/user.png" alt="Piotr Okonek">
+                <br>
+                <h3>Piotr Okonek </h3><br> <h4> student Inżynierii i Analizy Danych <br> na Politechnice Warszawskiej</h4>
+                <br>
+                <p>linkedin:</p>
+                <br>
+                <p>mail:</p>
+                <br>
+                <p>github:</p>
+            </div>
+            <div class="contact_m">
+                <img src="css/img/user.png" alt="Maciej Leszek">
+                <br>
+                <h3>Maciej Leszek</h3><br> <h4> student Inżynierii Internetu Rzeczy <br> na Politechnice Warszawskiej</h4>
+                <br>
+                <p>linkedin:</p>
+                <br>
+                <p>mail:</p>
+                <br>
+                <p>github:</p>
+            </div>
         </div>
-
-        <div class="footer_contact">
-
-        </div>
-
     </footer>
 
 </body>
-</html>   
+</html> 
