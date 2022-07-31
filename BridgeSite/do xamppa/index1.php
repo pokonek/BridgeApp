@@ -8,14 +8,14 @@ $result=mysqli_query($con, $query);
 <!DOCTYPE html>
 <html lang="PL">
 <head>
-    <title>Bridge App</title>
+    <title>The Bridge App</title>
+
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">    
     <meta name="keywords" content="Bridge, Brydż, brydż, Brydz, brydz, gra w brydza, gra w brydża">
-    <meta name="description" content="Strona mająca na celu ukazanie indywidualnego progresu gracza w brydża na podstawie wyników z ogólnopolskich turniejów w oparciu o technologie sieci neuronowych">
+    <meta name="description" content="Strona mająca na celu ukazanie indywidualnego progresu gracza w brydża na podstawie wyników z ogólnopolskich turniejów">
     <meta name="author" content="Maciej Leszek, Piotr Okonek">
-    
     
     <link rel="stylesheet" href="css/style2.css">
     <link rel="icon" href="css/img/logo.png">
@@ -41,13 +41,6 @@ $result=mysqli_query($con, $query);
                 </button>
                             
         </div>
-    
-
-
-
-        <!-- <div class="description_profile_example">
-            
-        </div> -->
 
         <div class="about_ranking">
             <h1>Autorski ranking ukazujący w ciekawszy sposób poziom 100 najlepszych graczy niż ranking PZBSu. Jak go zrobiliśmy, nikt się nie dowie. CZEŚĆ </h1>
@@ -77,42 +70,34 @@ $result=mysqli_query($con, $query);
                 </li>
 
             </ul>
-                <?php while($rows=mysqli_fetch_assoc($result)) 
-                { 
-                ?> 
-                    <ul class="ranking_profile">
-                        <li class="ranking_number">
-                            <span><?php echo $rows['Miejsce']; ?></span>
-                        </li>
+            <?php while($rows=mysqli_fetch_assoc($result)) 
+            { 
+            ?> 
+            <ul class="ranking_profile">
+                <li class="ranking_number">
+                    <span><?php echo $rows['Miejsce']; ?></span>
+                </li>       
 
-                        <li class="ranking_id">
-                            <span><?php echo $rows['PID']; ?></span>
-                        </li>
+                <li class="ranking_id">
+                    <span><?php echo $rows['PID']; ?></span>
+                </li>        
 
-                        <li class="ranking_name">
-                            <span><?php echo $rows['Zawodnik']; ?></span>
-                        </li>
+                <li class="ranking_name">
+                    <span><?php echo $rows['Zawodnik']; ?></span>
+                </li>
 
-                        <li class="ranking_result">
-                            <span><?php echo $rows['Ranking']; ?></span>
-                        </li>
+                <li class="ranking_result">
+                    <span><?php echo $rows['Ranking']; ?></span>
+                </li>
 
-                        <li class="ranking_difference">
-                            <span><?php echo $rows['Zmiana pozycji']; ?></span>
-                        </li>
-                    </ul>
+                <li class="ranking_difference">
+                    <span><?php echo $rows['Zmiana pozycji']; ?></span>
+                </li>        
+            </ul>
             <?php 
                 } 
-            ?> 
-           
+            ?>     
 
-
-            
-
-        </div>
-
-        <div class="further_ideas">
-            <br><br><br><br><br>
         </div>
 
     </main>

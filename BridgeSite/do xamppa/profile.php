@@ -51,17 +51,17 @@
 
 
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pl">
 <head>
 
-    <title>Profile</title>
+    <title>Profil zawodnika</title>
 
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">    
     <meta name="keywords" content="Bridge, Brydż, brydż, Brydz, brydz, gra w brydza, gra w brydża">
     <meta name="author" content="Maciej Leszek, Piotr Okonek">
-    
+    <meta name="description" content="Strona mająca na celu ukazanie indywidualnego progresu gracza w brydża na podstawie wyników z ogólnopolskich turniejów">
     
     <link rel="stylesheet" href="css/profile_style1.css">
     <link rel="icon" href="css/img/logo.png">
@@ -215,11 +215,6 @@
             </aside>
 
         </header>
-        
-            
-                 
-        
-
 
         <article>
             <div class="profile_partial_ranking">
