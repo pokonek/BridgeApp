@@ -1,6 +1,12 @@
 <?php
     include_once('connection.php');
-    $filtervalues = $_GET['search'];
+    if(isset($_GET['search'])) {
+        $filtervalues = $_GET['search'];
+    }
+    else{
+        $filtervalues = '';
+    }
+    
 
     $query = "SELECT * FROM final_ranking WHERE `PID`= '$filtervalues' or `Zawodnik`='$filtervalues' ";
     $query_run = mysqli_query($con, $query);
