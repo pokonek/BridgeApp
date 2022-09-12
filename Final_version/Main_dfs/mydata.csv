@@ -1,753 +1,353 @@
-,m-ce,nr,nazwiska,wk,okręg,ośrodek,+/-,%,pkl,pdf
-0,1,660,Grażyna BussePiotr Busse,15.019.0,LB,WP/247,,67.09,100.0,1500
-1,2,597,Jerzy RatkowskiJerzy Sukow,5.012.0,WM,WM/337,,65.96,98.0,1492
-2,3,374,Dariusz KrakowiakJacek Lech,3.02.0,MA,MA/262,,65.35,96.0,1484
-3,4,720,Władysław TomasiakWojciech Bondarewicz,13.04.0,ZP,ZP/167,,64.69,94.0,1478
-4,5,33,Jarosław KowalikRoman Wyszowski,5.05.0,DS,DS/269,,64.43,92.0,1474
-5,6,675,Ewa Rodziewicz-BielewiczSławomir Piechocki,7.011.0,WP,WP/247,,64.34,90.0,1470
-6,7,336,Wojciech GrzegorzewskiJan Lisicki,2.51.0,MA,MA/262,,64.33,88.0,1466
-7,8,587,Mirosław GrodzkiMieczysław Lebiecki,5.02.0,WM,WM/324,,63.83,86.0,1462
-8,9,590,Andrzej CzumajJózef Kamiński,2.59.0,WM,WM/324,,63.72,84.0,1458
-9,10,707,Piotr SoleckiCezary Kmiecik,7.05.0,WP,WP/293,,63.61,82.0,1454
-10,11,386,Marek MelsztyńskiJerzy Olszewski,1.52.5,MA,MA/262,,63.54,80.0,1450
-11,12,57,Marek CzolijEdward Szafraniec,9.011.0,DS,DS/307,,63.49,78.0,1446
-12,13,91,Zdzisław PatreuhaMarian Kupnicki,5.017.0,DSKP,DS/72,,63.4,76.0,1442
-13,14,654,Aleksandra GraczyńskaWłodzimierz Jachalski,5.03.0,WP,WP/247,,63.29,74.0,1438
-14,15,780,Sławomir SzczełkunMarek Banach,5.05.0,ZP,ZP/375,,63.06,72.0,1434
-15,16,307,Lech SadośMariusz Łasiewicki,12.04.0,MA,MA/126,,62.98,70.0,1430
-16,17,462,Eugeniusz StrzyżTomasz Twaróg,5.04.0,PK,PK/118,,62.75,68.0,1426
-17,18,767,Radosław SzymczakMarcin Wiliński,5.05.0,ZP,ZP/359,,62.63,66.0,1422
-18,19,559,Leonard JaskowiakZbigniew Kolański,12.03.0,WM,WM/122,,62.59,64.0,1418
-19,20,242,Mirosław MarszałArkadiusz Gotwald,5.03.0,LD,LD/48,,62.34,62.0,1414
-20,21,500,Roman KmieciakLeszek Szkudlarek,5.09.0,PM,PM/102,,62.19,60.0,1410
-21,22,681,Danuta KazmuchaCezary Serek,17.015.0,OPWP,WP/247,,62.11,58.0,1406
-22,23,682,Bogdan ŚwiątekJan Borychowski,12.013.0,WP,WP/247,,62.09,56.0,1402
-23,24,412,Kazimierz GłowackiAndrzej Niewiadomski,2.55.0,MA,MA/321,,62.06,54.0,1398
-24,25,496,Janusz KobylarskiIreneusz Dzikowski,5.018.0,PM,PM/102,,61.94,52.0,1394
-25,26,708,Jerzy SadowskiCzesław Wojtaś,12.05.0,ZP,ZP/116,,61.76,50.0,1390
-26,27,342,Adam NieżurawskiMichał Tuczyński,2.02.5,MA,MA/262,,61.65,48.0,1386
-27,28,603,Wojciech KarpińskiKrzysztof Nagielski,5.09.0,WM,WM/337,,61.58,46.0,1382
-28,29,167,Tadeusz WasilewskiPiotr Szczuka,5.09.0,KP,KP/50,,61.47,44.0,1378
-29,30,725,Grzegorz RybackiWaldemar Mikucki,7.09.0,ZP,ZP/167,,61.25,42.0,1374
-30,31,362,Andrzej RedaMariusz Mączewski,1.52.0,MA,MA/262,,61.07,40.0,1370
-31,32,467,Przemysław ZawadaRoman Opaliński,19.018.0,MAPK,PK/118,,61.0,38.0,1366
-32,33,181,Sebastian RawlikWojciech Waszkowiak,4.012.0,LB,LB/127,,60.92,36.0,1362
-33,34,30,Marek CzerniawskiEugeniusz Gąska,4.03.0,DS,DS/158,,60.85,34.0,1358
-34,35,501,Waldemar WarzałaJacek Piotrowski,12.012.0,PM,PM/102,,60.81,32.0,1354
-35,36,383,Janusz KrólikowskiStefan Maruszewski,3.00.0,MA,MA/262,,60.74,30.0,1350
-36,37,567,Janusz GomolińskiSławomir Wrzosek,9.011.0,WM,WM/122,,60.61,28.0,1346
-37,38,735,Lechosław BłazińskiRadosław Szopiński,12.07.0,ZP,ZP/215,,60.57,26.0,1342
-38,39,3,Marcin PiotrowskiPiotr Iwanus,5.05.0,KP,BY2/915,,60.51,24.0,1338
-39,40,552,Piotr MazurRyszard Kłusowski,5.07.0,WM,WM/122,,60.47,22.0,1334
-40,41,745,Andrzej SzłapkaFranciszek Wnęk,2.52.0,ZP,ZP/255,,60.39,20.0,1330
-41,42,460,Dariusz KulpińskiStanisław Drobot,9.09.0,PK,PK/118,,60.38,18.0,1326
-42,43,529,Michal OmielskiTadeusz Marecki,0.00.0,,USA/130,,60.38,16.0,1322
-43,44,371,Joanna SzymaszczykMichał Górski,2.52.5,MA,MA/262,,60.23,14.0,1318
-44,45,746,Jacek SzutowiczRadosław Sielczak,18.03.0,PMZP,ZP/255,,60.18,12.0,1314
-45,46,615,Janusz BorowińskiWojciech Wrześniowski,13.09.0,WM,WM/386,,60.07,10.0,1310
-46,47,61,Krzysztof BaranowskiLech Moliński,1.52.5,DS,DS/336,,60.02,8.0,1306
-47,48,525,Jacek WąsikJanusz Zegadło,2.03.0,SW,SW/287,,59.96,6.0,1302
-48,49,292,Sławomir SierockiMaciej Kulikowski,4.04.0,MA,MA/123,,59.96,4.0,1298
-49,50,267,Andrzej SzczepaniakArkadiusz Stojan,5.02.0,LU,LU/96,,59.84,2.0,1294
-50,51,545,Adolf BocheńskiWiesław Krzemieński,13.012.0,WM,WM/122,,59.84,,1290
-51,52,282,Joanna DerewońkoTadeusz Luzak,4.012.0,MA,MA/123,,59.83,,1287
-52,53,498,Paweł GruszczyńskiRemigiusz Góralczyk,7.05.0,WPZP,PM/102,,59.82,,1284
-53,54,576,Kazimierz KulasDariusz Łuczak,7.04.0,WM,WM/132,,59.64,,1281
-54,55,98,Zofia DiakowskaJan Kulczycki,3.02.0,DS,DS/72,,59.55,,1278
-55,56,700,Rafał JunikJolanta Ziętara,7.05.0,WP,WP/293,,59.53,,1275
-56,57,413,Wojciech PalmowskiWojciech Adamkiewicz,9.04.0,MA,MA/321,,59.44,,1272
-57,58,340,Radosław RozmanKrzysztof Bekalarek,2.02.0,MA,MA/262,,59.29,,1269
-58,59,247,Lechosław JanczarJerzy Szubiga,5.05.0,LD,LD/92,,59.29,,1266
-59,60,20,Marek JakubowskiFranciszek Miazga,2.53.0,DS,DS/144,,59.23,,1263
-60,61,595,Waldemar ŚlesickiWitold Deorocki,2.51.0,WM,WM/337,,59.13,,1260
-61,62,23,Zbigniew SamekRoman Wisłocki,9.00.5,DS,DS/144,,59.1,,1257
-62,63,433,Edward BondarewiczRadosław Sawicki,5.05.0,OP,OP/273,,59.09,,1254
-63,64,509,Karina DrobiniakBogusław Dyk,5.012.0,PM,PM/129,,59.0,,1251
-64,65,241,Teresa PudelewiczDariusz Kardas,5.011.0,LD,LD/48,,58.91,,1248
-65,66,333,Daniel NorekRyszard Sałański,4.02.0,MA,MA/126,,58.9,,1245
-66,67,264,Marek AtalskiIreneusz Stromidło,13.03.0,LU,LU/96,,58.85,,1242
-67,68,346,Jacek LipskiWiesław Olszewski,2.52.0,MA,MA/262,,58.84,,1239
-68,69,723,Robert CylwikRobert Zaciura,7.03.0,ZP,ZP/167,,58.8,,1236
-69,70,182,Damian MazurakMarian Nieznański,5.07.0,LB,LB/127,,58.77,,1233
-70,71,135,Tomasz PerdutaAndrzej Łoziński,0.02.0,KP,KP/143,,58.77,,1230
-71,72,404,Janusz SobolewskiJanusz Woźniak,4.02.5,MA,MA/288,,58.48,,1227
-72,73,10,Stefan MałowieckiZbigniew Bobak,3.03.0,DS,DS/136,,58.47,,1224
-73,74,629,Józef GrewlingMarek Bukowski,7.05.0,WP,WP/120,,58.44,,1221
-74,75,650,Jan AdamczewskiRoman Kujawski,11.012.0,WP,WP/147,,58.42,,1218
-75,76,402,Aleksander WaślickiZbigniew Komorowski,4.01.5,MA,MA/288,,58.4,,1215
-76,77,591,Marek SłowikowskiJan Jegliński,4.05.0,WM,WM/324,,58.37,,1212
-77,78,37,Mirosław SporczykWładysław Stańczak,2.52.5,DS,DS/269,,58.36,,1209
-78,79,494,Robert CzarneckiKazimierz Dominiak,5.09.0,PM,PM/102,,58.35,,1206
-79,80,15,Zdzisław KlimczakJanusz Czerniawski,4.04.0,DS,DS/136,,58.32,,1203
-80,81,548,Krzysztof MichalczykMirosław Zomkowski,12.011.0,WM,WM/122,,58.23,,1200
-81,82,651,Marek WojciechowskiLeszek Nowakowski,9.02.0,WP,WP/147,,58.14,,1197
-82,83,113,Aleksandra GranowskaAlfred Nowak,2.55.0,KP,KP/125,,58.09,,1194
-83,84,757,Bogdan TrunKrzysztof Lipowski,4.04.0,ZP,ZP/255,,58.03,,1191
-84,85,761,Wiesław JarmułowiczTadeusz Prokopowicz,1.00.0,ZP,ZP/359,,58.03,,1188
-85,86,188,Mirosław BublewiczMaciej Wierzbicki,11.09.0,LB,LB/263,,58.02,,1185
-86,87,257,Józef MyćJakub Jagodziński,7.05.0,LU,LU/90,0.33,57.95,,1182
-87,88,630,Marek JuszczakGrzegorz Samol,5.05.0,WP,WP/120,,57.93,,1179
-88,89,154,Włodzimierz MaćkowskiAndrzej Karpiński,2.51.5,KP,KP/50,,57.91,,1176
-89,90,737,Marian SiwyAndrzej Wójcik,11.07.0,ZP,ZP/215,,57.89,,1173
-90,91,392,Zdzisław TylkoAndrzej Jarząbek,1.01.5,MA,MA/262,,57.88,,1170
-91,92,76,Marcin PastudzkiSzymon Niewiadomski,3.03.0,DS,DS/67,,57.84,,1167
-92,93,299,Renata NeronowiczTadeusz Filaber,12.07.0,MA,MA/126,,57.83,,1164
-93,94,356,Przemysław GrędaMateusz Tulibacki,0.00.0,,MA/262,,57.78,,1161
-94,95,564,Tomasz StopierzyńskiMirosław Makuch,5.03.0,WM,WM/122,,57.66,,1158
-95,96,134,Przemysław KitaEwa Kita,2.52.5,KP,KP/143,,57.65,,1155
-96,97,779,Cezary JarmułDariusz Piątek,7.04.0,ZP,ZP/375,,57.63,,1152
-97,98,395,Alicja RybakGrzegorz Rybak,2.52.5,MA,MA/288,,57.56,,1149
-98,99,145,Jerzy BronisławskiMirosław Graczkowski,5.05.0,KP,KP/50,-0.3,57.44,,1146
-99,100,148,Mariusz BielskiMariusz Krakowiak,5.05.0,KP,KP/50,,57.41,,1143
-100,101,632,Adam MisiakJan Kalicki,2.53.0,WP,WP/120,,57.33,,1140
-101,102,390,Tomasz KolasińskiMaciej Owczarek,0.01.0,MA,MA/262,,57.29,,1137
-102,103,571,Jan JaniakStanisław Hartwig,7.02.5,WM,WM/132,,57.27,,1134
-103,104,283,Hanna ProbolaArkadiusz Zadworny,2.53.0,MA,MA/123,,57.25,,1131
-104,105,515,Robert KowalskiPaweł Kita,12.05.0,SW,SW/287,,57.2,,1128
-105,106,280,Paweł RokoszyńskiHenryk Przybysławski,4.05.0,MA,MA/123,,57.19,,1125
-106,107,246,Rafał ImielaPiotr Wnuk,5.04.0,LD,LD/48,,57.19,,1122
-107,108,14,Jerzy KurianowiczGrzegorz Bajek,5.011.0,DS,DS/136,,57.19,,1119
-108,109,446,Andrzej KazimierowiczStanisław Górski,4.05.0,OP,OP/363,,57.16,,1116
-109,110,219,Łucja Frąckowiak-IwanickaStanisław Iwanicki,7.05.0,LB,LB/285,,57.14,,1113
-110,111,201,Tomasz ZarębskiRyszard Beleć,2.54.0,LB,LB/265,,57.13,,1110
-111,112,84,Marcin MotykiewiczWiesław Kubiński,4.05.0,DS,DS/67,,57.07,,1107
-112,113,166,Arkadiusz StanisławskiTadeusz Żurek,3.04.0,KP,KP/50,,56.92,,1104
-113,114,265,Jerzy JasińskiEdward Molas,3.03.0,SWLU,LU/96,,56.91,,1101
-114,115,753,Wiesław SirmanSławomir Jamka,2.01.5,ZP,ZP/255,,56.9,,1098
-115,116,743,Czesław NiewadziłRyszard Jankowski,0.00.0,NZZP,ZP/255,,56.85,,1095
-116,117,471,Wojciech PaszkoMarek Pietraszek,7.018.0,PK,PK/118,,56.85,,1092
-117,118,763,Wiktor SzłapackiDanuta Mazalewska,0.00.0,,ZP/359,,56.84,,1089
-118,119,214,Zofia MiechowiczTomasz Bartnicki,5.07.0,LB,LB/285,,56.84,,1086
-119,120,190,Krzysztof TumielewiczWiesław Pastuszko,9.07.0,LB,LB/263,,56.79,,1083
-120,121,87,Krzysztof ĆwikDariusz Artmański,5.05.0,DS,DS/67,,56.66,,1080
-121,122,598,Mariusz SarnowskiBogdan Jabłoński,0.01.0,WM,WM/337,,56.62,,1077
-122,123,421,Janusz KafelAndrzej Kretkowski,3.04.0,KPMA,MA/46,,56.54,,1074
-123,124,505,Kazimierz ZelgaRoman Budzik,11.013.0,PM,PM/129,,56.52,,1071
-124,125,273,Andrzej PotrzyszczJózef Małysz,7.07.0,LU,LU/96,,56.47,,1068
-125,126,679,Olgierd Rodziewicz-BielewiczPaweł Fiebig,11.03.0,WP,WP/247,,56.47,,1065
-126,127,4,Kazimierz NamysłZbigniew Rychlik,4.04.0,KP,BY2/915,,56.45,,1062
-127,128,705,Sławomir CzaplińskiJarosław Hilbrecht,7.07.0,WP,WP/293,,56.42,,1059
-128,129,146,Andrzej DrzewieckiZenon Biczkowski,5.05.0,KP,KP/50,,56.42,,1056
-129,130,490,Lechosław SuszkaDariusz Zieliński,5.05.0,PM,PM/102,,56.37,,1053
-130,131,756,Andrzej PożerskiWojciech Morawski,5.03.0,ZP,ZP/255,,56.36,,1050
-131,132,468,Tomasz BajorekTadeusz Przybyło,9.09.0,PK,PK/118,,56.35,,1047
-132,133,750,Radosław KmiecikGrzegorz Zborowski,3.05.0,PM,ZP/255,,56.34,,1044
-133,134,144,Roch RupniewskiTadeusz Szwenkel,11.09.0,KP,KP/143,,56.31,,1041
-134,135,352,Andrzej ParafinowiczRobert Ramotowski,0.00.0,,MA/262,,56.25,,1038
-135,136,648,Marek PiechocińskiAndrzej Chudy,5.04.0,WP,WP/147,,56.2,,1035
-136,137,441,Marek MazurTomasz Walania,5.04.0,OP,OP/363,,56.2,,1032
-137,138,243,Adam MotykaKarol Kałuziński,4.05.0,LD,LD/48,,56.19,,1029
-138,139,50,Mateusz StrzelczykJoanna Kokot,2.53.0,DS,DS/298,,56.18,,1026
-139,140,127,Marcin FiguraJacek Pamuła,3.04.0,KP,KP/143,,56.1,,1023
-140,141,11,Lesław CegielStanisław Janiak,4.05.0,DS,DS/136,,56.07,,1020
-141,142,382,Wojciech WojsaMichał Szadkowski,0.50.0,MA,MA/262,,56.07,,1017
-142,143,676,Marek SzukałaJacek Kokociński,19.07.0,WP,WP/247,,56.05,,1014
-143,144,781,Zbigniew WiśniewskiTadeusz Czajka,3.02.5,ZP,ZP/375,,55.96,,1011
-144,145,350,Katarzyna ChmielewskaPaweł Jończyk,0.54.0,LBSL,MA/262,,55.91,,1008
-145,146,97,Tadeusz KowalikSławomir Zimniak,5.07.0,DS,DS/72,,55.85,,1005
-146,147,623,Sebastian NowakAleksander Heinze,3.05.0,WP,WP/120,,55.83,,1002
-147,148,156,Maciej WoropayZbigniew Witt,1.52.0,KP,KP/50,,55.67,,999
-148,149,592,Wiesław PietrzakZenon Wawer,5.05.0,WM,WM/324,,55.67,,996
-149,150,536,Lech BrzozowskiLeszek Musiol,0.00.0,,USA/130,,55.66,,993
-150,151,36,Ewa DziekańskaWiesława Mirosław,9.02.0,DS,DS/269,,55.65,,990
-151,152,122,Tomasz NowakPiotr Wołowski,4.07.0,KP,KP/125,,55.54,,987
-152,153,425,Szczepan OkonkowskiPiotr Watemborski,0.01.5,MA,MA/46,,55.5,,984
-153,154,253,Jarosław ŁaszczukTomasz Spodenkiewicz,7.013.0,LDDS,LD/92,,55.48,,981
-154,155,64,Jerzy RomańczykIreneusz Kwiatosz,5.01.0,DS,DS/336,,55.41,,978
-155,156,427,Bogdan KotarskiZbigniew Krześniak,0.00.0,,MA/46,,55.4,,975
-156,157,636,Henryk NamyślakKazimierz Wyszomirski,0.01.0,WP,WP/142,,55.38,,972
-157,158,517,Włodzimierz NiedolazAleksander Knawa,7.013.0,SW,SW/287,,55.38,,969
-158,159,296,Tomasz PaluchowskiRobert Chmielak,13.07.0,MA,MA/126,,55.25,,966
-159,160,755,Michał DaźWiesław Lange,0.02.0,NZZP,ZP/255,,55.22,,963
-160,161,670,Wojciech RobińskiLeszek Rosochowicz,5.05.0,WP,WP/247,,55.19,,960
-161,162,432,Marek KawałkoAndrzej Pluta,2.50.5,OP,OP/273,,55.16,,957
-162,163,102,Andrzej MitkaIgor Smyk,4.03.0,KP,KP/114,,55.14,,954
-163,164,270,Piotr ZawiślakGabriel Szarafin,5.05.0,LU,LU/96,,55.13,,951
-164,165,484,Jarosław DrewingKrzysztof Firkus,5.04.0,PM,PM/102,,55.11,,948
-165,166,696,Józef MalinowskiJacek Piechowiak,1.51.5,WP,WP/293,,55.01,,945
-166,167,667,Krzysztof KufelJacek Kufel,2.53.0,WP,WP/247,,54.95,,942
-167,168,211,Bolesław PiotrowiczKazimierz Jaskuła,5.07.0,LB,LB/285,,54.93,,939
-168,169,758,Grzegorz MakowieckiKrzysztof Rutkowski,2.52.5,ZP,ZP/255,,54.83,,936
-169,170,100,Jarosław MolendaArtur Winkler,9.09.0,DS,DS/72,,54.82,,933
-170,171,159,Andrzej JarmużekTadeusz Rakoczy,4.02.5,KP,KP/50,,54.79,,930
-171,172,225,Karol PokorskiZdzisław Majer,7.02.5,LD,LD/119,,54.68,,927
-172,173,348,Jean MartonJerzy Wasiljew,0.00.0,,MA/262,,54.65,,924
-173,174,487,Katarzyna KlimkiewiczTomasz Klimkiewicz,3.03.0,PM,PM/102,,54.61,,921
-174,175,639,Zbigniew BeraZbigniew Sabała,4.012.0,WP,WP/142,,54.58,,918
-175,176,439,Andrzej DudaTomasz Tapper,4.02.5,OP,OP/273,,54.56,,915
-176,177,129,Aleksandra RóżańskaMarek Wyżlic,1.52.0,KP,KP/143,,54.55,,912
-177,178,204,Leszek WójcikAndrzej Zielony,11.05.0,WP,LB/265,,54.55,,909
-178,179,284,Artur DuczmalewskiWaldemar Kałużyński,4.09.0,MA,MA/123,,54.51,,906
-179,180,103,Teodor BykowskiEdward Kozicki,1.01.0,KP,KP/114,-0.5,54.47,,903
-180,181,41,Józef GrybelRyszard Rączkowski,3.04.0,DS,DS/269,,54.47,,900
-181,182,706,Mirosław GrobelkiewiczAndrzej Małdziński,2.55.0,WP,WP/293,,54.42,,897
-182,183,305,Mirosław LiszewskiTadeusz Laszczak,11.07.0,PDMA,MA/126,,54.35,,894
-183,184,643,Piotr StefańskiJan Jarmuż,4.04.0,KP,WP/147,,54.33,,891
-184,185,497,Andrzej DobkowiczRyszard Jarmużewski,4.05.0,PM,PM/102,,54.32,,888
-185,186,385,Dariusz WojnaWaldemar Wieremiejczyk,2.52.0,MA,MA/262,,54.29,,885
-186,187,372,Adolf PłatekRoman Wajs,0.03.0,MA,MA/262,,54.28,,882
-187,188,323,Zdzisław LaszczakSylwester Młynarczuk,15.018.0,MA,MA/126,,54.27,,879
-188,189,216,Andrzej ŁagoszMaciej Fularz,11.01.5,LB,LB/285,,54.27,,876
-189,190,451,Marek WysockiZbigniew Ruchlicki,3.03.0,PD,PD/81,,54.25,,873
-190,191,228,Waldemar BrzozowskiJarosław Malarski,4.02.5,LD,LD/119,,54.25,,870
-191,192,262,Dariusz GrodzkiJacek Baka,3.011.0,LU,LU/90,0.67,54.21,,867
-192,193,448,Andrzej PrasalskiMarian Urwanowicz,7.09.0,PD,PD/81,,54.12,,864
-193,194,128,Adam SeichterEugeniusz Seichter,2.012.0,KP,KP/143,,54.11,,861
-194,195,457,Jan GardockiAdam Szempliński,7.05.0,PD,PD/81,,54.08,,858
-195,196,370,Andrzej LewandowskiJerzy Pawelec,1.05.0,MA,MA/262,,54.07,,855
-196,197,229,Kazimierz DróżdżMarcin Mazerant,3.00.0,LD,LD/48,,54.05,,852
-197,198,173,Krzysztof HajkowskiCzesław Plachimowicz,9.05.0,LB,LB/127,,54.04,,849
-198,199,611,Jerzy AnderszewskiStefan Piskorski,2.00.0,WM,WM/386,,54.04,,846
-199,200,75,Andrzej SuchodolskiWojciech Szałapak,5.04.0,DS,DS/67,,53.87,,843
-200,201,465,Jerzy RybarskiTadeusz Szemraj,3.05.0,PK,PK/118,,53.86,,840
-201,202,728,Ryszard UrbańskiRobert Lewandowski,5.02.5,ZP,ZP/167,,53.85,,837
-202,203,357,Jacek KarczmarczykDarla Szywalska,1.01.0,MA,MA/262,,53.82,,834
-203,204,760,Zbigniew LangeRoman Chmielecki,1.51.5,ZP,ZP/359,,53.79,,831
-204,205,318,Wiktor CałaAdam Żelazny,5.05.0,MA,MA/126,,53.75,,828
-205,206,513,Marek RadeckiAndrzej Szulborski,3.03.0,SW,SW/287,,53.75,,825
-206,207,223,Paweł BabeckiAdam Pawłowski,5.013.0,LD,LD/119,,53.73,,822
-207,208,52,Maciej GrodzkiJanusz Staniów,5.05.0,DS,DS/298,,53.69,,819
-208,209,405,Witold JochymMirosław Grochowski,2.01.5,MA,MA/288,,53.66,,816
-209,210,365,Dariusz PoniatowskiJan Syska,3.01.5,MA,MA/262,,53.64,,813
-210,211,410,Jerzy SadowskiMarian Rutkowski,4.05.0,WMMA,MA/321,,53.64,,810
-211,212,456,Marian KrasowskiMirosław Morchat,7.05.0,PD,PD/81,,53.6,,807
-212,213,297,Sławomir BąkPiotr Tuszyński,4.024.0,MADS,MA/126,,53.56,,804
-213,214,88,Antoni SłowikMariusz Słowik,3.03.0,DS,DS/67,,53.54,,801
-214,215,492,Bogumił MacierzyńskiJózef Idczak,9.07.0,PM,PM/102,,53.51,,798
-215,216,602,Andrzej SkoczylasWojciech Krzyszczak,0.50.5,WM,WM/337,,53.49,,795
-216,217,604,Andrzej FronczakMarek Lichocki,18.012.0,PMWM,WM/337,,53.48,,792
-217,218,49,Piotr KuleszaJanusz Drozdowski,7.012.0,ZP,DS/298,,53.45,,789
-218,219,319,Henryk BrodawskiArtur Rutkowski,13.019.0,MA,MA/126,,53.45,,786
-219,220,327,Bartosz ChmurskiIgor Chalupec,24.04.0,MA,MA/126,,53.42,,783
-220,221,523,Artur WięckowskiRobert Łataś,4.04.0,SW,SW/287,,53.36,,780
-221,222,24,Dariusz WincentyAleksander Poznysz,11.012.0,DS,DS/144,,53.36,,777
-222,223,738,Józef KubinowskiJerzy Świderski,0.07.0,NZZP,ZP/215,,53.31,,774
-223,224,399,Stanislaw HoltynIreneusz Cybulski,2.53.0,MA,MA/288,,53.3,,771
-224,225,638,Andrzej AleksandrzakArtur Wójcik,15.012.0,WP,WP/142,,53.26,,768
-225,226,112,Piotr LitwinJarosław Łakomy,5.07.0,KP,KP/114,,53.26,,765
-226,227,656,Jerzy RoszakPrzemysław Hauser,9.09.0,WP,WP/247,,53.22,,762
-227,228,596,Witold NowickiKazimierz Konefał,0.05.0,WPWM,WM/337,,53.19,,759
-228,229,520,Hanna KowalskaAndrzej Majcher,5.09.0,SW,SW/287,,53.18,,756
-229,230,584,Krzysztof PękałaHenryk Łakomski,2.512.0,WM,WM/324,,53.16,,753
-230,231,226,Jerzy MierzejewskiRyszard Maras,2.04.0,LD,LD/119,,53.15,,750
-231,232,551,Piotr CiakEdmund Reczuga,5.07.0,WM,WM/122,,53.11,,747
-232,233,619,Franciszek SzklennikWiesław Świderski,0.52.5,WP,WP/120,,53.09,,744
-233,234,535,Pawel DemitraszekWieslaw Kowalczyk,0.00.0,,USA/130,,53.08,,741
-234,235,334,Gerard CzernohorskiWaldemar Składanowski,5.05.0,MA,MA/126,,53.05,,738
-235,236,72,Aleksander CzajkaLech Kostecki,7.05.0,DS,DS/67,,52.99,,735
-236,237,245,Bronisław JaneckiJan Dziubałtowski,3.01.5,LD,LD/48,,52.98,,732
-237,238,207,Krzysztof BorowikHenryk Choiński,0.03.0,LB,LB/265,,52.96,,729
-238,239,192,Arkadiusz JaranowskiŁukasz Frąckowiak,3.02.5,LB,LB/263,,52.88,,726
-239,240,186,Przemysław WojtczakMirosław Jedynak,1.52.5,LB,LB/263,,52.88,,723
-240,241,70,Zbigniew SkóreckiRadosław Surowiak,3.04.0,DS,DS/336,,52.86,,720
-241,242,22,Zygmunt PołećAndrzej Łada,0.02.0,DS,DS/144,,52.84,,717
-242,243,710,Jerzy SchulzKazimierz Wiliński,9.07.0,ZP,ZP/116,,52.79,,714
-243,244,359,Jerzy KuhnBożena Jacuch,2.51.5,MA,MA/262,,52.78,,711
-244,245,118,Ziemowit BrzykcyKrzysztof Popczyński,5.05.0,KP,KP/125,,52.76,,708
-245,246,317,Waldemar BurakowskiTadeusz Bożek,15.07.0,MA,MA/126,,52.73,,705
-246,247,205,Sławomir PolakCezary Bura,7.09.0,WP,LB/265,,52.64,,702
-247,248,51,Anna KołodziejczykMaria Huzar,0.00.0,DS,DS/298,,52.63,,699
-248,249,143,Fryderyk WoźniakAndrzej Ciechacki,0.01.5,KP,KP/143,,52.6,,696
-249,250,450,Tomasz BlińskiKrzysztof Baranowski,7.03.0,PD,PD/81,,52.6,,693
-250,251,202,Franciszek BułyszkoZbigniew Józefiak,4.04.0,LB,LB/265,,52.59,,690
-251,252,130,Kazimierz JankowskiAndrzej Nasierowski,2.50.0,KP,KP/143,,52.57,,687
-252,253,355,Janusz SzymańskiWojciech Bartnik,1.51.0,MA,MA/262,,52.53,,684
-253,254,526,Piotr WaluszewskiWaldemar Haponiuk,5.07.0,SW,SW/287,,52.46,,681
-254,255,662,Stanisław DrzymałaJadwiga Nowak,5.011.0,WP,WP/247,,52.46,,678
-255,256,300,Olga WrzosLeszek Jędrzejczak,4.02.5,MA,MA/126,,52.45,,675
-256,257,366,Małgorzata WachowskaKrzysztof Klimczak,1.51.5,MA,MA/262,,52.43,,672
-257,258,212,Jerzy CydzikStanisław Pryputniewicz,5.05.0,LB,LB/285,,52.41,,669
-258,259,544,Mirosław CichockiAndrzej Tutaj,19.05.0,WM,WM/122,,52.39,,666
-259,260,489,Wiesława KasperekJerzy Kajzer,5.05.0,PM,PM/102,,52.38,,663
-260,261,704,Przemysław MaliszewskiJolanta Jacoszek,4.03.0,WP,WP/293,,52.38,,660
-261,262,79,Barbara RadomskaAnna Jankowska,4.04.0,LBDS,DS/67,,52.34,,657
-262,263,442,Andrzej CieliszakJan Skoczylas,0.02.0,OP,OP/363,,52.33,,654
-263,264,438,Jerzy BrachmańskiJerzy Jankowski,1.02.5,OP,OP/273,,52.33,,651
-264,265,376,Rafał PrzybyszMałgorzata Buduła,2.52.5,MA,MA/262,,52.32,,648
-265,266,325,Janusz ZarębaJerzy Brzózy,3.01.5,MA,MA/126,,52.29,,645
-266,267,209,Karol MońkoEdward Kulus,5.011.0,WPLB,LB/285,,52.29,,642
-267,268,476,Edmund PinkiewiczJacek Lew,12.015.0,PM,PM/102,,52.28,,639
-268,269,1,Leszek KawskiAndrzej Wojnowski,9.03.0,KP,BY2/915,,52.28,,636
-269,270,455,Dariusz HutnikAndrzej Jakimiec,7.05.0,PD,PD/81,,52.28,,633
-270,271,414,Dominik GłowackiKazimierz Dobrzyniecki,2.55.0,MA,MA/321,,52.24,,630
-271,272,437,Piotr BieleckiMichał Bąk,5.03.0,OP,OP/273,,52.22,,627
-272,273,106,Marek KaczanGrzegorz Prusak,5.05.0,KP,KP/114,0.33,52.21,,624
-273,274,474,Barbara BorosMarek Boros,2.55.0,PM,PM/102,,52.2,,621
-274,275,34,Jan KrakowskiWładysław Kurek,2.50.0,DS,DS/269,,52.2,,618
-275,276,664,Jan RosochowiczJarosław Ostrowski,3.015.0,WP,WP/247,,52.19,,615
-276,277,472,Tomasz UkraińskiAdam Żarnowski,12.012.0,PK,PK/118,,52.17,,612
-277,278,508,Maria TomczewskaWaldemar Maciejewski,7.04.0,PMDS,PM/129,,52.16,,609
-278,279,419,Andrzej GotzMarcin Stryczyński,1.04.0,MA,MA/321,,52.15,,606
-279,280,114,Marian ZarembskiMariusz Wróblewicz,3.02.0,KP,KP/125,,52.14,,603
-280,281,562,Halina PodleckaLech Skwarżyński,2.02.5,WM,WM/122,,52.12,,600
-281,282,616,Donat CzubaJerzy Bartko,0.00.0,,WM/386,,52.12,,597
-282,283,263,Mieczysław BuczekZdzisław Senderek,4.02.5,LUSW,LU/96,0.33,52.03,,594
-283,284,191,Wioletta ParmonikBarbara Soroko,3.02.5,LB,LB/263,,52.0,,591
-284,285,62,Maciej ChojnackiRyszard Menzfeld,5.05.0,DS,DS/336,,51.98,,588
-285,286,244,Stanisław ZbrojaJerzy Jakubowski,0.51.5,LD,LD/48,,51.96,,585
-286,287,142,Krzysztof BonowiczJacek Kostrzewski,2.01.5,KP,KP/143,,51.95,,582
-287,288,81,Marian KrzypkowskiRyszard Rolka,2.05.0,DS,DS/67,,51.95,,579
-288,289,641,Mirosław JankowskiRobert Góralczyk,0.52.0,WP,WP/147,,51.87,,576
-289,290,422,Andrzej ChrzanowskiSzymon Dutkiewicz,4.05.0,MA,MA/46,,51.86,,573
-290,291,58,Tadeusz ŁabikMarian Malung,4.04.0,DS,DS/307,,51.83,,570
-291,292,483,Zenon BetańskiMarek Kryniewski,5.05.0,PM,PM/102,,51.83,,567
-292,293,315,Sylwester CieślakAdam Tomczyński,12.04.0,MA,MA/126,,51.82,,564
-293,294,252,Włodzimierz BiernackiKrzysztof Olejnik,2.52.0,LD,LD/92,,51.8,,561
-294,295,269,Maciej StopczyńskiAdam Skórka,0.00.0,LU,LU/96,,51.8,,558
-295,296,364,Tadeusz GórnickiAnna Gendaj,0.50.0,MA,MA/262,,51.8,,555
-296,297,308,Jakub BojanowskiEwa Banaszkiewicz,2.015.0,MA,MA/126,,51.75,,552
-297,298,736,Mieczysław RogowskiRoman Szlachetka,5.012.0,ZP,ZP/215,,51.72,,549
-298,299,45,Adam MarcinowskiMałgorzata Turska-Marcinowska,7.09.0,DS,DS/298,,51.72,,546
-299,300,71,Zbigniew SobczykPiotr Klubiński,12.09.0,DS,DS/67,,51.69,,543
-300,301,281,Tadeusz BłażyńskiRyszard Bodziachowski,0.00.0,NZ,MA/123,,51.68,,540
-301,302,151,Andrzej KarczewskiMarek Skonieczny,4.01.5,KP,KP/50,,51.65,,537
-302,303,418,Grzegorz NowińskiPaweł Wróblewski,2.53.0,MA,MA/321,,51.65,,534
-303,304,703,Radzisław OczkowiczTomasz Solarski,5.03.0,WP,WP/293,,51.64,,531
-304,305,447,Stanisław NiedźwieckiHenryk Stecewicz,0.53.0,PD,PD/81,,51.63,,528
-305,306,136,Zbigniew EhlertRobert Kamiński,5.04.0,KP,KP/143,,51.6,,525
-306,307,666,Włodzimierz KwiatkowskiKrzysztof Jordan,12.02.5,WP,WP/247,,51.54,,522
-307,308,685,Andrzej MazurekMieczysław Szczechowiak,12.04.0,WP,WP/247,,51.54,,519
-308,309,668,Lidia GapińskaMarek Gapiński,2.52.0,WP,WP/247,,51.5,,516
-309,310,6,Albin BorkowskiKazimierz Buchalski,5.02.0,KP,BY2/915,,51.46,,513
-310,311,74,Waldemar MajewskiDariusz Marczak,4.05.0,DS,DS/67,,51.44,,510
-311,312,31,Jerzy ChopcianAdam Cybulak,0.52.5,DS,DS/158,,51.4,,507
-312,313,640,Wojciech ZimniakAndrzej Stypczyński,5.04.0,WPDS,WP/147,,51.36,,505
-313,314,631,Bogdan SmykowskiStanisław Krzyżanowski,2.04.0,WP,WP/120,,51.36,,503
-314,315,652,John CatlowMałgorzata Augustyn,3.02.5,WP,WP/247,,51.33,,501
-315,316,198,Andrzej DrgasAndrzej Góźdź,3.03.0,LB,LB/265,,51.32,,499
-316,317,147,Leszek GozdekJerzy Rosenthal,2.54.0,KP,KP/50,,51.31,,497
-317,318,771,Jerzy CzeszewskiWiesław Adamowicz,4.02.5,ZP,ZP/359,,51.29,,495
-318,319,13,Andrzej AugustyniakHenryk Gayny,5.02.0,DS,DS/136,,51.25,,493
-319,320,259,Bartosz MatrasAndrzej Kokoryka,7.011.0,LU,LU/90,,51.24,,491
-320,321,330,Andrzej MiszewskiJerzy Krupka,18.03.0,MA,MA/126,,51.23,,489
-321,322,680,Ryszard NowickiJerzy Bajka,5.05.0,WP,WP/247,,51.22,,487
-322,323,302,Andrzej MusiałAndrzej Fryszkowski,3.04.0,MA,MA/126,,51.21,,485
-323,324,236,Jarosław GąsiorowskiAndrzej Kaźmierczak,13.07.0,LD,LD/48,,51.21,,483
-324,325,258,Elżbieta WaniurskaPiotr Waniurski,7.012.0,LUMP,LU/90,,51.16,,481
-325,326,709,Janusz LinkiewiczBogusław Maryńczak,4.05.0,ZP,ZP/116,,51.14,,479
-326,327,277,Jerzy GrelaWiesław Teresiński,0.05.0,LU,LU/96,,51.13,,477
-327,328,724,Hanna ZembrzuskaMaciej Zembrzuski,9.07.0,ZP,ZP/167,,51.12,,475
-328,329,555,Paweł AbramskiZdzisław Falkowski,5.05.0,WM,WM/122,-0.2,51.12,,473
-329,330,320,Bogdan SzulejewskiArkadiusz Majcher,21.011.0,SWMA,MA/126,,51.06,,471
-330,331,343,Mikołaj KomorowskiKrzysztof Stefaniak,2.52.0,MA,MA/262,,51.05,,469
-331,332,546,Zdzisław KurkowskiStanisław Niedźwiecki,1.53.0,WM,WM/122,,51.04,,467
-332,333,256,Andrzej KozikowskiAleksander Zatke,15.02.0,LD,LD/92,,51.04,,465
-333,334,99,Marek KwaśniakDorota Kwintkiewicz,0.03.0,DS,DS/72,,51.03,,463
-334,335,378,Mariusz BaszenkoPaweł Szymański,0.00.0,MA,MA/262,,51.03,,461
-335,336,530,Robert LubowickiLeszek Zagozdon,1.55.0,PDLU,USA/130,,51.0,,459
-336,337,686,Marek DomagałaJarosław Lubczyński,5.05.0,WP,WP/247,,50.98,,457
-337,338,368,Witold ŻygulskiDariusz Płoszaj,2.01.5,MA,MA/262,,50.96,,455
-338,339,65,Małgorzata GostyńskaJerzy Hawryliszyn,1.52.0,DS,DS/336,,50.91,,453
-339,340,93,Ewa SokolińskaJanusz Kozioł,1.52.5,DS,DS/72,,50.86,,451
-340,341,180,Ryszard SzkwarekStanisław Kotas,2.05.0,LB,LB/127,,50.83,,449
-341,342,290,Stanisław KraszewskiWiktor Rusak,0.02.0,NZMA,MA/123,,50.83,,447
-342,343,164,Grzegorz RojewskiJarosław Michałowski,13.018.0,WPKP,KP/50,,50.82,,445
-343,344,428,Grzegorz GóreckiMarek Krowicki,4.02.5,MA,MA/46,,50.82,,443
-344,345,519,Elżbieta Czwartosz-MarcinkowskaLeszek Adamczyk,0.51.0,SW,SW/287,,50.8,,441
-345,346,617,Jarosław JurczenkoAdrian Brzuzy,0.00.5,WM,WM/386,,50.79,,439
-346,347,772,Stanisław KuleszaWojciech Witkowski,11.04.0,ZP,ZP/375,,50.79,,437
-347,348,175,Sebastian SimonienkoSławomir Drewalski,5.04.0,LB,LB/127,,50.79,,435
-348,349,435,Eryk HamerskiAntoni Żółtański,3.03.0,OP,OP/273,,50.79,,433
-349,350,466,Janusz JarząbekWincenty Chmiel,5.05.0,PK,PK/118,,50.73,,431
-350,351,538,Anna JaskowiakGrażyna Piszczek,2.01.0,WM,WM/122,,50.72,,429
-351,352,718,Mirosław StelmaszykPaweł Stężała,2.55.0,ZP,ZP/167,,50.7,,427
-352,353,430,Jan GlenzMaciej Sachs,4.02.0,OP,OP/273,,50.69,,425
-353,354,570,Aleksander CydejkoJan Stańczak,5.09.0,WM,WM/132,,50.67,,423
-354,355,659,Jerzy MściszJanusz Zwierzyński,13.011.0,WP,WP/247,,50.65,,421
-355,356,778,Tadeusz LeszczyńskiSławomir Wojtyłko,5.03.0,ZP,ZP/375,,50.64,,419
-356,357,110,Józef MatuszewskiBogusz Nalazek,5.07.0,KP,KP/114,,50.62,,417
-357,358,695,Dariusz PawlakJarosław Michalski,2.02.0,WP,WP/247,,50.6,,415
-358,359,19,Jan DawidowskiPiotr Janich,3.02.0,DS,DS/144,,50.58,,413
-359,360,689,Grzegorz ProniewiczAndrzej Kędzierski,3.05.0,WP,WP/247,,50.53,,411
-360,361,309,Irena ChodorowskaJan Chodorowski,18.018.0,MA,MA/126,,50.46,,409
-361,362,115,Bogdan NajmrodzkiJan Rdesiński,9.05.0,KP,KP/125,,50.45,,407
-362,363,561,Hanna RohdeKrzysztof Rohde,1.51.5,WM,WM/122,,50.44,,405
-363,364,361,Ewa WawrowskaMirosław Zawiślak,1.02.5,MA,MA/262,,50.41,,403
-364,365,123,Janusz StrześniewskiJan Siwczyński,1.02.0,KP,KP/143,,50.36,,401
-365,366,96,Marek DreckiJoanna Kotwica,7.02.0,DS,DS/72,,50.32,,399
-366,367,499,Mirosław GiełczyńskiTomasz Czekała,1.52.0,PM,PM/102,,50.3,,397
-367,368,637,Zbigniew KlimczakKazimierz Macioszczyk,3.01.5,WP,WP/142,,50.25,,395
-368,369,713,Edward KaczmarekLech Sulżycki,9.07.0,ZP,ZP/116,,50.21,,393
-369,370,109,Szymon RosowskiSławomir Cieślewicz,3.02.5,KP,KP/114,,50.2,,391
-370,371,625,Marta SmętekJanusz Jędrzejewski,0.55.0,WP,WP/120,,50.18,,389
-371,372,506,Marek PietrzakMarek Banasiński,5.012.0,PM,PM/129,,50.14,,387
-372,373,254,Zdzisław ŁuczakMirosław Owczarek,0.50.0,LD,LD/92,,50.1,,385
-373,374,507,Wojciech LewandowskiAndrzej Jasiński,4.05.0,PM,PM/129,,50.07,,383
-374,375,288,Paweł LasotaBogumił Kącicki,2.04.0,MA,MA/123,,50.06,,381
-375,376,121,Włodzimierz HeymannBenedykt Mieszczak,4.03.0,KP,KP/125,,50.01,,379
-376,377,481,Zdzisław KozaWłodzimierz Wasielewski,3.02.5,PM,PM/102,,50.01,,376
-377,378,183,Andrzej ParmonikAndrzej Rękosiak,5.07.0,LB,LB/263,,49.96,,375
-378,379,434,Jan WojnarskiRyszard Wojnarski,0.03.0,OP,OP/273,,49.95,,374
-379,380,776,Andrzej SzczodryRyszard Gaca,3.04.0,ZP,ZP/375,,49.9,,373
-380,381,575,Jan PodoleckiPaweł Jesionka,2.50.0,NZ,WM/132,,49.89,,372
-381,382,424,Andrzej SokołowskiDariusz Piotrkiewicz,2.52.5,MAKP,MA/46,,49.89,,371
-382,383,40,Piotr BirowskiAndrzej Janiak,2.03.0,DS,DS/269,,49.89,,370
-383,384,727,Waldemar KrychWłodzimierz Reszelski,4.011.0,ZP,ZP/167,,49.88,,369
-384,385,152,Adam KozłowskiAdam Gregorowicz,4.02.5,KP,KP/50,,49.87,,368
-385,386,600,Zbigniew ListewnikZbigniew Bando,1.51.0,WM,WM/337,,49.84,,367
-386,387,550,Tadeusz BastekMarek Falkowski,4.04.0,WM,WM/122,,49.79,,366
-387,388,502,Zbigniew PinkiewiczJanusz Przybyszewski,13.011.0,PM,PM/102,,49.79,,365
-388,389,197,Józef SikoraMieczysław Skowroński,5.01.0,LB,LB/265,,49.75,,364
-389,390,160,Stanisław ŁańskiAndrzej Buczkowski,9.04.0,KP,KP/50,,49.75,,363
-390,391,642,Franciszek SzkudlarekJerzy Pawełczak,2.02.0,KPWP,WP/147,,49.74,,362
-391,392,711,Henryk PakułaMaciej Silski,4.00.0,ZPNZ,ZP/116,,49.65,,361
-392,393,726,Andrzej MatysekEdmund Zarzycki,3.02.5,ZP,ZP/167,,49.65,,360
-393,394,770,Kazimierz SobolewskiBogdan Szczepański,0.00.0,,ZP/359,,49.64,,359
-394,395,397,Andrzej RzechułaAndrzej Łukianiuk,2.53.0,MA,MA/288,,49.54,,358
-395,396,533,Stanisław KoleśnikRomuald Mindak,1.50.0,PD,USA/130,,49.54,,357
-396,397,401,Ryszard KarwatAleksander Szczupakowski,2.03.0,MA,MA/288,,49.51,,356
-397,398,125,Tomasz WoźniakJerzy Masłoń,7.013.0,KP,KP/143,,49.5,,355
-398,399,589,Janusz KowalówkaMarian Grzyb,5.02.0,WM,WM/324,,49.47,,354
-399,400,628,Kazimierz LisKrzysztof Goźdź,5.03.0,WP,WP/120,,49.4,,353
-400,401,108,Waldemar ZielińskiRobert Mrukowski,4.05.0,KP,KP/114,,49.4,,352
-401,402,445,Andrzej HuńkaJanusz Środa,4.03.0,OP,OP/363,,49.39,,351
-402,403,417,Andrzej MazurJerzy Pałysa,1.51.5,MA,MA/321,,49.39,,350
-403,404,764,Kazimierz KłysMarek Leś,1.01.0,ZP,ZP/359,,49.34,,349
-404,405,553,Cezary KozłowskiRyszard Wieczorek,0.01.0,WM,WM/122,,49.33,,348
-405,406,511,Krzysztof MeyerMariusz Pankiewicz,3.03.0,PM,PM/129,,49.28,,347
-406,407,699,Grzegorz HorakAdam Wilk,0.00.0,,WP/293,,49.26,,346
-407,408,138,Marek NazarewiczJulian Jurski,5.011.0,KP,KP/143,,49.19,,345
-408,409,369,Zbigniew KornetStefan Andrejas,0.51.5,MA,MA/262,,49.19,,344
-409,410,101,Józef KurnikWit Monarski,3.02.0,KP,KP/114,,49.18,,343
-410,411,238,Janusz DudarMieczysław Niciak,0.01.0,LD,LD/48,,49.13,,342
-411,412,77,Stanisław GresztaAndrzej Chodowski,2.02.5,DS,DS/67,,49.11,,341
-412,413,531,Henryk KowalewskiRyszard Matuszczyk,0.00.0,,USA/130,,49.11,,340
-413,414,773,Franciszek AlbekierKazimierz Lisicki,0.50.0,ZPNZ,ZP/375,,49.08,,339
-414,415,63,Adam SzuszkiewiczPiotr Korecki,3.07.0,DSLB,DS/336,,49.07,,338
-415,416,503,Ryszard KonopkaIreneusz Jarosz,12.018.0,PMWP,PM/129,,49.04,,337
-416,417,187,Marian GrzesiakWładysław Biernat,4.04.0,LB,LB/263,,49.03,,336
-417,418,379,Wojciech GajzlerEwa Orłowska,1.02.0,MA,MA/262,,48.98,,335
-418,419,60,Dominik HołyśJanusz Zajączkowski,1.53.0,DS,DS/307,,48.96,,334
-419,420,310,Mirosław NowaczyńskiKrzysztof Sokół,7.04.0,MA,MA/126,,48.94,,333
-420,421,107,Henryk NowakZenon Gajkowski,0.50.5,KP,KP/114,,48.92,,332
-421,422,733,Danuta DudzikFranciszek Świderski,0.59.0,ZP,ZP/215,,48.89,,331
-422,423,137,Robert KadukowskiJerzy Kadukowski,3.03.0,KP,KP/143,,48.88,,330
-423,424,213,Eugeniusz WilniewiecJan Obuchowicz,5.09.0,LB,LB/285,,48.88,,329
-424,425,458,Grzegorz ZalewskiWiesław Korpula,5.01.5,PD,PD/81,,48.88,,328
-425,426,714,Stanisław KamińskiTadeusz Mediuch,5.00.5,ZP,ZP/116,,48.86,,327
-426,427,671,Piotr SurdykKrystian Ostrowski,3.02.0,WP,WP/247,,48.84,,326
-427,428,749,Jerzy KullassMarek Wawrzyniak,9.07.0,ZP,ZP/255,,48.84,,325
-428,429,554,Danuta CieniewskaEmilia Michnowiec,1.00.0,WMNZ,WM/122,,48.84,,324
-429,430,32,Leon ŁukaszewiczGrzegorz Czapulak,5.05.0,DS,DS/158,,48.81,,323
-430,431,518,Maja ŻabierekHubert Urban,5.07.0,SW,SW/287,,48.81,,322
-431,432,199,Tadeusz MarcinkowskiZdzisław Dolata,2.53.0,LB,LB/265,,48.8,,321
-432,433,42,Tadeusz CymbalistaGrzegorz Skowronek,5.03.0,DS,DS/269,,48.79,,320
-433,434,407,Andrzej SontowskiWaldemar Stępiński,3.02.5,MA,MA/288,,48.76,,319
-434,435,94,Albina SuderRyszard Suder,2.53.0,DS,DS/72,,48.75,,318
-435,436,29,Wojciech RaczyńskiJerzy Poznar,3.05.0,DS,DS/158,,48.74,,317
-436,437,624,Waldemar PałkaZbigniew Geisler,3.03.0,WP,WP/120,,48.74,,316
-437,438,172,Wacław KaczmarekCzesław Niewiarowski,0.52.5,LB,LB/127,,48.74,,315
-438,439,163,Marek GrużewskiHenryk Jeliński,1.53.0,KP,KP/50,,48.72,,314
-439,440,512,Stanisław BubkaŁukasz Gackowski,3.02.0,PM,PM/129,,48.72,,313
-440,441,653,Tomasz WasilewskiJerzy Nowak,7.013.0,WP,WP/247,,48.71,,312
-441,442,210,Leszek LatockiZdzisław Rzucidło,5.05.0,LB,LB/285,,48.67,,311
-442,443,752,Waldemar WochnaPrzemysław Stefanowski,5.00.5,ZP,ZP/255,,48.66,,310
-443,444,594,Jerzy KwoczekTadeusz Mielko,0.01.0,NZWM,WM/337,,48.62,,309
-444,445,429,Barbara LaryszTomasz Adamczyk,3.00.5,OP,OP/273,,48.6,,308
-445,446,82,Ireneusz PikulskiKazimierz Komorowicz,5.04.0,DS,DS/67,,48.6,,307
-446,447,582,Bożena DiakiteMarian Lemecha,0.01.5,NZWM,WM/324,,48.59,,306
-447,448,67,Zdzisław NiemirskiStanisław Cygan,1.02.0,DS,DS/336,,48.57,,305
-448,449,162,Kazimierz LigęzaBogdan Zieliński,5.05.0,KP,KP/50,,48.55,,304
-449,450,139,Jerzy MachuraEwa Krakówka,0.02.0,KP,KP/143,,48.54,,303
-450,451,748,Bogdan TrzycieckiSławomir Dąbrowski,0.00.0,NZ,ZP/255,,48.54,,302
-451,452,556,Józefa KrzemieńskaWaldemar Orłowski,5.01.5,WM,WM/122,,48.52,,301
-452,453,53,Edward WitanEwa Herda,4.00.0,MA,DS/298,,48.5,,300
-453,454,585,Wiktor IlwickiBogdan Jurecki,0.00.0,NZ,WM/324,,48.48,,299
-454,455,655,Tomasz KuchtaEdward Niewierowski,1.011.0,WP,WP/247,,48.48,,298
-455,456,222,Sławomir PawłowskiBogusław Świeżawski,1.51.5,LD,LD/119,,48.46,,297
-456,457,7,Zbigniew BuciutoJózef Wiese,3.05.0,DS,DS/136,,48.45,,296
-457,458,278,Jan CzarnieckiWiesław Pawelec,4.05.0,LU,LU/96,,48.44,,295
-458,459,289,Dariusz SierockiAndrzej Natański,7.03.0,MA,MA/123,,48.42,,294
-459,460,171,Franciszek RadwanJózef Żarski,2.53.0,LB,LB/127,,48.41,,293
-460,461,43,Jan MarcinkowskiStanisław Nadkierniczny,5.03.0,DS,DS/298,,48.4,,292
-461,462,344,Tomasz GellertJacek Jeleński,2.01.5,MA,MA/262,,48.36,,291
-462,463,301,Grzegorz KulaMaciej Kowalski,11.012.0,MA,MA/126,,48.35,,290
-463,464,86,Wojciech SkoniecznyMarek Rużyło,5.05.0,DS,DS/67,,48.32,,289
-464,465,452,Alfred KodaJanusz Kunicki,4.00.5,PD,PD/81,,48.21,,288
-465,466,599,Regina WołekIwona Smilgin,2.50.5,WM,WM/337,,48.15,,287
-466,467,393,Marek BorkowskiMarek Wróblewski,0.00.0,PM,MA/262,,48.15,,286
-467,468,68,Tadeusz BorońEdward Matczuk,0.50.0,DSNZ,DS/336,,48.14,,285
-468,469,271,Andrzej SzajnaHalina Szarafin,0.00.0,LU,LU/96,,48.09,,284
-469,470,165,Czesław BuryJózef Palewicz,4.04.0,KP,KP/50,,48.06,,283
-470,471,759,Henryk AdaszewskiKazimierz Żmiejko,0.00.0,NZ,ZP/255,,48.06,,282
-471,472,104,Leszek ZdrojewskiTadeusz Domka,3.04.0,KP,KP/114,,48.05,,281
-472,473,621,Wiesław SierzchułaJarosław Modlibowski,3.03.0,WP,WP/120,,48.03,,280
-473,474,124,Andrzej ArcimowiczFeliks Tracewski,0.00.0,,KP/143,,48.01,,279
-474,475,539,Grażyna BlechZdzisław Cimaszkiewicz,1.04.0,WM,WM/122,,48.0,,278
-475,476,687,Zbigniew KaczorowskiWojciech Witkowski,2.52.5,WP,WP/247,,47.95,,277
-476,477,678,Zofia MikołajczykBarbara Podgórska,4.05.0,WP,WP/247,,47.94,,276
-477,478,712,Wincenty GlinaZygmunt Kwiatkowski,0.00.0,NZ,ZP/116,,47.93,,275
-478,479,2,Anna LeśniewskaAndrzej Rywocki,4.03.0,KP,BY2/915,,47.93,,274
-479,480,248,Antoni JabłońskiKazimierz Wojajczyk,1.02.5,LD,LD/92,,47.92,,273
-480,481,185,Jerzy GlezerStanisław Kuźmicz,1.50.0,LBWP,LB/263,,47.88,,272
-481,482,218,Roman PileckiMarek Matwijewicz,2.04.0,LB,LB/285,,47.88,,271
-482,483,12,Ewa NazarukSylwester Gołdyn,3.02.5,DS,DS/136,,47.87,,270
-483,484,692,Mirosława MiętkiewskaAdam Meller,2.55.0,WP,WP/247,,47.87,,269
-484,485,249,Jerzy GauzaMarian Jakubowski,1.04.0,LD,LD/92,,47.82,,268
-485,486,326,Zdzisław KowalewskiZbigniew Skibicki,13.05.0,MA,MA/126,,47.82,,267
-486,487,406,Zbigniew DembińskiGrażyna Śniadewicz,2.51.5,MA,MA/288,,47.8,,266
-487,488,558,Ireneusz JagielskiMirosław Wilga,7.05.0,WM,WM/122,,47.79,,265
-488,489,569,Dariusz RomejkoJanusz Preisner,0.00.0,NZ,WM/132,,47.73,,264
-489,490,463,Józef WronaWaldemar Kaszuba,5.03.0,PK,PK/118,,47.7,,263
-490,491,48,Katarzyna DufratPiotr Cegielski,15.00.0,PMDS,DS/298,,47.7,,262
-491,492,168,Piotr ProporowiczRafał Szafranek,5.04.0,KP,KP/50,,47.69,,261
-492,493,47,Tomasz StruzikJan Szamkołowicz,5.07.0,DS,DS/298,,47.68,,260
-493,494,195,Mirosław MiłaszewiczZbigniew Ćwiertniak,5.00.0,LB,LB/265,,47.66,,259
-494,495,473,Zofia CzarneckaMarzena Banach,2.52.0,PM,PM/102,,47.62,,258
-495,496,384,Marek SzakunPiotr Skowroński,4.01.0,MA,MA/262,,47.61,,257
-496,497,119,Stefan KamińskiZdzisław Świtalski,2.00.5,KP,KP/125,,47.55,,256
-497,498,174,Andrzej WłodarczakAndrzej Dudkiewicz,2.52.0,LB,LB/127,,47.53,,255
-498,499,203,Sławomir RuteckiTadeusz Birecki,7.05.0,LB,LB/265,,47.52,,254
-499,500,543,Janina BakułaWiesław Podlecki,5.03.0,WM,WM/122,,47.5,,253
-500,501,782,Danuta SkowronekRoman Pawłowski,2.52.5,ZP,ZP/375,,47.46,,252
-501,502,17,Sławomir BogdanowiczTadeusz Pogwizd,3.05.0,DS,DS/136,,47.44,,251
-502,503,158,Witold ChmarzyńskiJerzy Mojsiewicz,1.05.0,KP,KP/50,,47.41,,250
-503,504,488,Witold KalińskiDanuta Żabicka,12.07.0,PM,PM/102,,47.31,,249
-504,505,396,Janusz KowalczykLesław Klader,5.04.0,MA,MA/288,,47.31,,248
-505,506,541,Tadeusz GrochowskiTadeusz Krajewski,3.03.0,WM,WM/122,,47.29,,247
-506,507,176,Marek MarciniakCzesław Rekret,4.04.0,LB,LB/127,,47.28,,246
-507,508,574,Józef WiśnikRobert Buta,2.00.0,NZ,WM/132,,47.25,,245
-508,509,287,Błażej ZalewskiPiotr Błoch,2.00.0,MANZ,MA/123,,47.24,,244
-509,510,184,Janusz ŚniadeckiCezary Żuchowski,3.03.0,LB,LB/263,,47.2,,243
-510,511,566,Lidia WrzosekEwa Tutaj,5.05.0,WM,WM/122,,47.2,,242
-511,512,514,Barbara AdamczykAnna Tamborska,0.00.0,SW,SW/287,,47.15,,241
-512,513,626,Marek GrewlingTadeusz Grewling,2.52.5,WP,WP/120,,47.14,,240
-513,514,549,Mirosław DoroszukJakub Kowalczyk,9.05.0,WM,WM/122,,47.13,,239
-514,515,141,Krzysztof ChechłowskiKazimierz Wierzbowski,1.50.5,KP,KP/143,,47.1,,238
-515,516,381,Irena PruszkoMałgorzata Dmowska,1.51.5,MA,MA/262,,47.05,,237
-516,517,240,Zbigniew SzymczykAndrzej Krakowiak,5.07.0,LD,LD/48,,47.03,,236
-517,518,261,Krzysztof ChabrowskiWaldemar Klekowski,4.02.5,LU,LU/90,,46.99,,235
-518,519,394,Janusz RadomskiAndrzej Waszkiewicz,0.00.0,,MA/262,,46.97,,234
-519,520,580,Maryla PiłatRyszard Szałkowski,0.00.0,NZ,WM/324,,46.93,,233
-520,521,303,Marta MakarewiczPiotr Kołuda,4.017.0,MALU,MA/126,,46.89,,232
-521,522,645,Zbigniew MarciniakRafał Mikołajczak,5.02.5,WP,WP/147,,46.86,,231
-522,523,276,Janusz HamerskiJanusz Borek,1.52.0,LU,LU/96,,46.84,,230
-523,524,586,Krystyna ŁąkaGrażyna Ćwiek,0.00.0,NZ,WM/324,,46.83,,229
-524,525,693,Aneta KlaczyńskaWaldemar Paternoga,0.00.5,WP,WP/247,,46.79,,228
-525,526,239,Grzegorz JackowskiRobert Derlatka,0.00.0,LD,LD/48,,46.78,,227
-526,527,285,Barbara SytaHenryk Osiński,0.01.5,MA,MA/123,0.33,46.77,,226
-527,528,605,Marek SerdyńskiZbigniew Samborski,2.01.5,WM,WM/337,,46.73,,225
-528,529,768,Mirosław GiniewiczTadeusz Rodak,0.01.0,ZP,ZP/359,,46.72,,224
-529,530,83,Andrzej SobinaJerzy Więcławski,3.05.0,DS,DS/67,,46.68,,223
-530,531,601,Jerzy RebellAndrzej Szyc,0.00.0,NZWM,WM/337,,46.62,,222
-531,532,742,Władysław KucenkoAndrzej Jabłoński,5.05.0,ZP,ZP/255,,46.61,,221
-532,533,116,Jan KudłaJan Nowakowski,1.51.5,KP,KP/125,,46.61,,220
-533,534,341,Krzysztof WierzbickiElżbieta Fiejka,0.51.0,MA,MA/262,,46.56,,219
-534,535,335,Teresa Roszkowska-ŚliźRyszard Pietrzak,1.02.0,MA,MA/262,,46.5,,218
-535,536,120,Tadeusz NitkaMarceli Pluciński,0.00.5,KP,KP/125,,46.45,,217
-536,537,730,Romuald OlobryZbigniew Sosna,3.04.0,ZPDS,ZP/215,,46.44,,216
-537,538,588,Paweł CzacharowskiJan Wiszniewski,1.50.0,WMNZ,WM/324,,46.44,,215
-538,539,716,Zbigniew KułaczkowskiKrzysztof Orzechowski,11.05.0,ZP,ZP/116,,46.39,,214
-539,540,196,Wiesław WiśniewskiLech Jaworski,5.02.5,LB,LB/265,,46.37,,213
-540,541,469,Robert BrakAnna Cisek,0.00.0,PK,PK/118,,46.34,,212
-541,542,314,Andrzej MillerAdam Ziółkowski,1.01.0,MA,MA/126,,46.33,,211
-542,543,540,Alina GudeckaLeszek Ostrowski,2.52.0,WM,WM/122,,46.31,,210
-543,544,55,Józef OlejnikAndrzej Leszczyński,5.03.0,DS,DS/307,,46.24,,209
-544,545,131,Ewa ZiółkowskaAleksandra Romańska,0.00.0,KP,KP/143,,46.16,,208
-545,546,149,Roman NowińskiEwa Nowińska,0.50.5,KP,KP/50,,46.15,,207
-546,547,27,Marian GołąbekWiesław Kozieł,1.52.0,DS,DS/158,,46.14,,206
-547,548,373,Dariusz WasilewskiMirosława Swoboda,0.52.0,MA,MA/262,,46.13,,205
-548,549,627,Tomasz MielcarekŁukasz Lis,3.03.0,WP,WP/120,,46.06,,204
-549,550,475,Piotr ZamiarDariusz Podfigurny,4.04.0,PM,PM/102,,46.03,,203
-550,551,747,Janusz PiłatWiesław Wójcik,0.00.0,NZ,ZP/255,,45.96,,202
-551,552,522,Anna DawiecTeresa Piasecka,0.51.5,SW,SW/287,,45.96,,201
-552,553,454,Jarosław RoszczenkoBogusław Kozakiewicz,3.02.0,PD,PD/81,,45.95,,200
-553,554,491,Wacław JanickiSylwester Walerowicz,17.015.0,WP,PM/102,,45.94,,199
-554,555,230,Tadeusz WitekHenryk Żywioł,0.00.0,LD,LD/48,,45.9,,198
-555,556,250,Mirosław GrobelnyIreneusz Pluta,0.00.5,LD,LD/92,,45.85,,197
-556,557,231,Marcin ZbrojaIgor Łobodziński,5.05.0,LD,LD/48,,45.78,,196
-557,558,766,Stanisław FiedkiewiczRobert Kirlejza,1.00.0,ZP,ZP/359,,45.76,,195
-558,559,177,Tomasz MartynaWojciech Felsztyński,0.01.5,NZLB,LB/127,,45.74,,194
-559,560,635,Adam KozłowskiRoman Zabłocki,3.05.0,WPOP,WP/142,,45.71,,193
-560,561,613,Andrzej PleskotDariusz Dobkowski,0.00.0,,WM/386,,45.7,,192
-561,562,316,Tomasz WolfkeMirosław Łopaciuk,2.05.0,MA,MA/126,,45.65,,191
-562,563,295,Andrzej ZiomekKrzysztof Kobyliński,9.011.0,MA,MA/126,,45.6,,190
-563,564,527,Janusz KrawczyńskiTadeusz Sobota,9.07.0,SW,SW/287,,45.59,,189
-564,565,339,Zdzisław PietruszewskiZbigniew Kozerski,1.51.5,MA,MA/262,,45.59,,188
-565,566,44,Zofia TrojanJakub Franczak,1.02.0,DS,DS/298,,45.58,,187
-566,567,593,Jan KondrakiewiczMarian Grabowski,0.50.0,NZ,WM/337,,45.57,,186
-567,568,251,Marek ŁukaszewskiPiotr Wulkiewicz,0.57.0,LDPD,LD/92,,45.57,,185
-568,569,347,Marek JanotaMieczysław Hauswirt,2.51.5,MA,MA/262,,45.54,,184
-569,570,669,Janusz MichalecRyszard Kapela,4.04.0,WP,WP/247,,45.54,,183
-570,571,233,Tadeusz DybalskiLesław Pyda,0.01.0,LD,LD/48,,45.49,,182
-571,572,573,Bogdan PietkiewiczJózef Kuczak,3.00.0,NZ,WM/132,,45.45,,181
-572,573,56,Marian ChrzanowskiEugeniusz Soiński,0.05.0,DS,DS/307,,45.4,,180
-573,574,215,Jerzy SzramowskiMarian Purczyński,1.00.5,LB,LB/285,,45.4,,179
-574,575,688,Zenon WierzbickiKrzysztof Buzała,5.05.0,WP,WP/247,,45.32,,178
-575,576,155,Lucyna GozdekMieczysław Romanowski,2.02.5,KP,KP/50,,45.3,,177
-576,577,321,Janusz RadeckiJacek Korpetta,18.017.0,MA,MA/126,,45.27,,176
-577,578,80,Andrzej RobakMałgorzata Robak,4.04.0,DS,DS/67,,45.25,,175
-578,579,557,Janina BiałaAdam Birski,2.00.0,WMNZ,WM/122,,45.24,,174
-579,580,524,Małgorzata GolecZofia Wciślik,2.52.0,SW,SW/287,,45.22,,173
-580,581,16,Konstanty PawlikaniecJan Pawlikaniec,3.05.0,DSWP,DS/136,,45.22,,172
-581,582,606,Andrzej KrzemińskiBernard Rynkowski,0.00.5,WM,WM/337,,45.21,,171
-582,583,665,Tadeusz DziadykiewiczAleksander Buchholz,2.02.0,WP,WP/247,,45.16,,170
-583,584,495,Wiesław AndrukMirosław Małypan,9.05.0,PM,PM/102,,45.14,,169
-584,585,85,Elżbieta NiewiadomskaGrzegorz Mzyk,2.02.0,DS,DS/67,,45.13,,168
-585,586,255,Tomasz KuśMirosław Rumak,1.51.0,LD,LD/92,,45.12,,167
-586,587,178,Tomasz KaranikasTadeusz Zwoliński,3.02.0,LB,LB/127,,45.08,,166
-587,588,329,Magdalena CzajkowskaBogdan Szlacheta,2.57.0,MA,MA/126,,45.08,,165
-588,589,677,Michał ZimpelPiotr Czarnecki,2.02.0,WP,WP/247,,45.05,,164
-589,590,777,Jan DamazynTadeusz Floriańczyk,2.00.0,ZPNZ,ZP/375,,45.05,,163
-590,591,200,Edward PoniewieraStefan Waga,3.04.0,LB,LB/265,,45.05,,162
-591,592,684,Tomasz PowęzkaJustyna Łaniewska,2.02.5,WP,WP/247,,45.02,,161
-592,593,354,Stanisław ZielińskiTomasz Markiewicz,0.00.5,MA,MA/262,,45.01,,160
-593,594,409,Sławomir GrabowskiSławomir Grędziński,5.07.0,MAWM,MA/321,,45.01,,159
-594,595,647,Janina WinnowiczAndrzej Winnowicz,5.05.0,WP,WP/147,,44.87,,158
-595,596,322,Krzysztof NajdaKrzysztof Kowalczyk,7.04.0,MA,MA/126,,44.87,,157
-596,597,493,Aleksander KasprzakMichał Samet,18.02.0,PM,PM/102,,44.85,,156
-597,598,338,Bronisław KamińskiIwona Klorek,3.01.0,MA,MA/262,,44.84,,155
-598,599,622,Andrzej LochyńskiPaweł Kaczmarowski,0.01.0,WP,WP/120,,44.84,,154
-599,600,765,Andrzej KryńElżbieta Fedorowicz,1.00.0,ZP,ZP/359,,44.79,,153
-600,601,774,Franciszek LipińskiGerard Wenta,0.00.0,NZ,ZP/375,,44.74,,152
-601,602,232,Krzysztof CieślakTadeusz Kołat,1.52.0,LD,LD/48,,44.53,,151
-602,603,306,Włodzimierz JaneczekTomasz Ryffa,11.05.0,MA,MA/126,,44.52,,150
-603,604,345,Tomasz KozłowskiMarek Chylewski,3.02.0,MA,MA/262,,44.51,,149
-604,605,578,Jerzy HenkeRobert Królak,0.01.0,NZWM,WM/324,,44.49,,148
-605,606,610,Ryszard PichlaBogusław Gierulski,7.021.0,WM,WM/337,,44.45,,147
-606,607,690,Marcin PędzińskiHalina Mikołajczak,15.03.0,WP,WP/247,,44.43,,146
-607,608,140,Renata KlonowskaMarta Nowacka,0.00.0,,KP/143,,44.32,,145
-608,609,577,Wiesława NawojczykAndrzej Michalczyk,0.00.0,NZ,WM/324,,44.28,,144
-609,610,477,Marek FijałkowskiKrzysztof Niemkiewicz,2.55.0,PM,PM/102,,44.11,,143
-610,611,157,Bogumił DrewsArnold Borkowski,1.00.0,KP,KP/50,-0.3,44.09,,142
-611,612,537,Tomasz LisicaJan Rogowski,7.018.0,WM,WM/122,,44.08,,141
-612,613,59,Adam KrólAndrzej Ołpiński,3.04.0,DS,DS/307,,44.08,,140
-613,614,734,Henryk CieślaRyszard Ćwierz,3.01.0,ZP,ZP/215,,44.07,,139
-614,615,272,Henryk GłąbSławomir Płatek,1.50.0,LU,LU/96,,44.06,,138
-615,616,28,Roman SiwiecStanisław Cieśla,3.05.0,DS,DS/158,,44.06,,137
-616,617,169,Wojciech RuszkowskiHilary Gierszewski,0.00.0,KP,KP/50,,43.98,,136
-617,618,46,Jerzy GłowińskiDariusz Głowiński,0.52.5,DSZP,DS/298,,43.89,,135
-618,619,563,Leonard JanuszkoCzesław Wojniusz,4.02.5,WM,WM/122,0.37,43.89,,134
-619,620,701,Ewa SumińskaWitold Wintonowicz,0.00.0,,WP/293,,43.88,,133
-620,621,416,Janusz OleksiakWaldemar Surmacz,0.02.0,MA,MA/321,,43.74,,132
-621,622,206,Jerzy RyndakZbigniew Zalesiński,5.01.0,LB,LB/265,,43.74,,131
-622,623,170,Maciej RaczyńskiMaciej Rechlewski,3.02.5,KP,KP/50,,43.65,,130
-623,624,453,Robert DominkiewiczStanisław Pochodowicz,1.05.0,PD,PD/81,,43.64,,129
-624,625,614,Halina BielawskaWojciech Walkiewicz,0.02.5,WM,WM/386,,43.6,,128
-625,626,387,Krystyna GoreńJadwiga Nycz,1.51.0,MA,MA/262,,43.6,,127
-626,627,579,Irena SadurskaWaldemar Sadurski,0.50.5,WM,WM/324,,43.59,,126
-627,628,436,Zdzisław SzyksznianAleksander Dudek,3.03.0,OP,OP/273,,43.54,,125
-628,629,388,Piotr PiątkiewiczArkadiusz Wódkowski,1.52.5,MA,MA/262,,43.49,,124
-629,630,612,Leonard DubowikJolanta Rucińska,0.00.0,WM,WM/386,,43.46,,123
-630,631,389,Jan JaworskiSławomir Rokicki,1.53.0,MA,MA/262,,43.38,,122
-631,632,221,Jerzy KudlikZbyszek Ratajczak,2.02.5,LD,LD/119,,43.34,,121
-632,633,732,Mieczysław UniejewskiBożena Listwoń,1.51.5,ZP,ZP/215,,43.31,,120
-633,634,291,Barbara KasiakGenowefa Sierocka,0.00.5,NZMA,MA/123,,43.31,,119
-634,635,25,Marek MazurekBolesław Szkodziński,0.51.0,DS,DS/144,,43.31,,118
-635,636,731,Adam GrabowskiEugeniusz Mańkowski,2.51.5,ZP,ZP/215,,43.3,,117
-636,637,39,Ireneusz DrabczykWładysław Karliński,0.00.0,DS,DS/269,,43.25,,116
-637,638,377,Jacek SowińskiJózef Nowik,2.51.5,MA,MA/262,,43.25,,115
-638,639,220,Irena HugielLesław Hugiel,7.09.0,LB,LB/285,,43.22,,114
-639,640,150,Zbigniew DąbekMarian Jankowski,5.04.0,KP,KP/50,,43.2,,113
-640,641,398,Mariusz PotockiJerzy Oleksiewicz,2.02.5,MA,MA/288,,43.16,,112
-641,642,26,Lesław GrakowiczHenryk Kowal,2.00.0,DS,DS/144,,43.09,,111
-642,643,565,Tomasz LubeckiRoman Walaszkowski,0.50.5,WM,WM/122,,43.05,,110
-643,644,560,Grzegorz SowulRyszard Piotrowicz,1.01.5,WM,WM/122,,42.96,,109
-644,645,443,Paweł WiechaBronisław Mazur,3.05.0,OP,OP/363,,42.93,,108
-645,646,516,Krzysztof GałdaEdmund Jas,12.07.0,SW,SW/287,,42.9,,107
-646,647,532,Andrzej IwanickiZbigniew Pigula,0.00.0,,USA/130,,42.85,,106
-647,648,117,Krzysztof DembekWłodzimierz Suchodolski,0.51.0,KP,KP/125,,42.82,,105
-648,649,547,Henryk BałtronowiczJan Warda,2.02.0,WM,WM/122,,42.79,,104
-649,650,658,Janusz KoprasHieronim Nowacki,4.05.0,WP,WP/247,,42.79,,103
-650,651,657,Wojciech KaniewskiPaweł Siwak,4.02.5,WP,WP/247,,42.71,,102
-651,652,751,Andrzej GierczyńskiMariusz Drewniak,1.01.0,ZP,ZP/255,,42.7,,101
-652,653,193,Andrzej ŁysakowskiEdward Śniadecki,1.02.0,LB,LB/263,,42.69,,100
-653,654,275,Jarosław OstrowskiAleksander Łukasz,4.00.0,LU,LU/96,,42.67,,99
-654,655,479,Janusz MenkinaJanusz Stankiewicz,0.00.5,PM,PM/102,,42.63,,98
-655,656,411,Edward GilertKazimierz Duszczyk,0.01.0,MA,MA/321,,42.63,,97
-656,657,9,Ryszard JuchaZbigniew Matyjaszczuk,0.50.5,DS,DS/136,,42.55,,96
-657,658,426,Dariusz JagodzińskiGrzegorz Szelenbaum,2.01.5,MA,MA/46,,42.51,,95
-658,659,644,Jacek GronowskiTadeusz Kubów,1.01.0,WP,WP/147,,42.51,,94
-659,660,224,Stanisław WiktorskiDariusz Wojtasiak,0.50.0,LD,LD/119,,42.5,,93
-660,661,464,Leokadia Weryńska-LejaStanisław Sadło,1.55.0,PK,PK/118,,42.48,,92
-661,662,697,Grażyna BalcerzakStanisław Gwiazdowski,0.00.0,,WP/293,,42.46,,91
-662,663,661,Henryk DuszyńskiKrzysztof Galubiński,5.02.5,WP,WP/247,,42.39,,90
-663,664,485,Antoni SękowskiLeszek Ekert,18.03.0,PM,PM/102,,42.34,,89
-664,665,683,Michał KanikowskiMarian Kanikowski,5.03.0,WP,WP/247,,42.17,,88
-665,666,367,Janina OrłowskaZbyszek Poźniak,1.50.0,MA,MA/262,,42.14,,87
-666,667,92,Emilia KemuśJoahim Gwiżdż,1.00.0,DS,DS/72,,42.13,,86
-667,668,572,Waldemar KozłowskiRyszard Smoczyński,0.03.0,NZWM,WM/132,,42.11,,85
-668,669,279,Wacław KryńskiPiotr Popławski,1.51.5,MA,MA/123,,42.07,,84
-669,670,740,Henryk LeonowiczMariusz Trukawka,1.50.0,ZPNZ,ZP/255,,42.05,,83
-670,671,444,Kazimierz PinkoszAndrzej Mazurek,4.03.0,OP,OP/363,,42.0,,82
-671,672,234,Andrzej MikołajewskiTadeusz Przygodzki,0.00.0,LD,LD/48,,41.98,,81
-672,673,486,Zbigniew PrasekKrzysztof Przybielski,5.04.0,PM,PM/102,,41.95,,80
-673,674,673,Małgorzata WęglewskaAndrzej Gintrowicz,2.01.5,WPSW,WP/247,,41.92,,79
-674,675,403,Magdalena GłombińskaEwa Piotrowska,2.51.5,MA,MA/288,,41.9,,78
-675,676,126,Janusz PietrzykowskiJacek Kozłowski,0.00.0,,KP/143,,41.8,,77
-676,677,702,Ryszard MituraTadeusz Kasperek,0.00.0,,WP/293,,41.78,,76
-677,678,95,Andrzej WyrzykowskiPiotr Rapacki,2.01.5,DS,DS/72,,41.72,,75
-678,679,719,Bogumiła KuryjDariusz Grochowiak,1.00.0,ZP,ZP/167,,41.69,,74
-679,680,294,Kazimierz PrzymusińskiMarek Wajs,1.50.0,MANZ,MA/123,,41.67,,73
-680,681,618,Stefan GronowskiJerzy Wilczek,1.04.0,WP,WP/120,,41.64,,72
-681,682,324,Agnieszka JonczykWiesław Sycz,3.013.0,MA,MA/126,,41.63,,71
-682,683,482,Dariusz WiktorkoSzczepan Chruścicki,2.04.0,PM,PM/102,,41.56,,70
-683,684,235,Jerzy GaworczykHenryk Krakowiak,5.03.0,LD,LD/48,,41.54,,69
-684,685,674,Alicja StefanowskaAdam Peszke,3.05.0,WP,WP/247,,41.47,,68
-685,686,328,Jerzy BejmaJoanna Kilanowicz-Bosek,3.03.0,MA,MA/126,,41.4,,67
-686,687,715,Witold MateńkoBogdan Wiliński,4.00.0,ZP,ZP/116,,41.38,,66
-687,688,78,Marek KubickiMirosław Kawecki,0.51.5,DS,DS/67,,41.38,,65
-688,689,762,Robert KadłubowskiZdzisław Sewruk,0.00.0,,ZP/359,,41.28,,64
-689,690,179,Bartosz GajewskiŁukasz Wieczorek,4.03.0,LB,LB/127,,41.26,,63
-690,691,349,Anna SmoluchowskaGrażyna Jaskulska,1.51.5,MA,MA/262,,41.13,,62
-691,692,161,Andrzej KranzEdward Poselt,0.00.0,KP,KP/50,-0.3,41.12,,61
-692,693,351,Małgorzata MaruszkinKarol Kasperkiewicz,1.52.0,MA,MA/262,,41.1,,60
-693,694,286,Marian JarosińskiBogdan Bogumił,1.50.0,MANZ,MA/123,0.33,40.97,,59
-694,695,663,Eugeniusz DotaRoman Wojciechowski,2.51.5,WP,WP/247,,40.92,,58
-695,696,90,Malwina FilipekPaulina Mrozińska,0.00.0,DS,DS/72,,40.87,,57
-696,697,266,Tomasz GutowskiBarbara Jakubas,0.50.0,LU,LU/96,0.33,40.84,,56
-697,698,391,Tomasz PrzegalińskiTomasz Mroczek,1.51.5,MA,MA/262,,40.83,,55
-698,699,634,Paweł GalubaWłodzimierz Zabłocki,1.01.5,DSWP,WP/142,,40.82,,54
-699,700,449,Andrzej ZalewskiFeliks Babiracki,2.52.5,PD,PD/81,,40.76,,53
-700,701,304,Hanna KoziorowskaTomasz Kozarzewski,5.03.0,MA,MA/126,,40.7,,52
-701,702,89,Ireneusz ŚlęzakStanisław Horochowski,1.51.0,DS,DS/72,,40.69,,51
-702,703,189,Halina GrześkowiakKrzysztof Bak,1.52.0,LB,LB/263,,40.66,,50
-703,704,400,Piotr SzafrańskiJoanna Lesiuk,0.00.0,MA,MA/288,,40.59,,49
-704,705,298,Dariusz WęgrowiczAndrzej Kondeja,5.013.0,MA,MA/126,,40.56,,48
-705,706,132,Ludwik JurzystaJanusz Borkowski,0.50.0,KP,KP/143,,40.44,,47
-706,707,353,Krystyna FrąckiewiczJanusz Tyszkiewicz,1.53.0,MA,MA/262,,40.35,,46
-707,708,153,Michał DolnyAndrzej Sielużycki,2.53.0,KP,KP/50,,40.34,,45
-708,709,380,Tomasz KręglewskiHanna Kalotka-Kręglewska,2.02.0,MA,MA/262,,40.14,,44
-709,710,461,Dominik PuchałaJacek Bartman,0.00.0,PK,PK/118,,40.11,,43
-710,711,217,Marek NowakZdzisław Korona,4.04.0,LB,LB/285,,39.9,,42
-711,712,375,Anna BartoszukMałgorzata Lipnicka,0.00.5,MA,MA/262,,39.88,,41
-712,713,722,Maryla NakonecznaAnna Kołłątaj,1.50.0,ZP,ZP/167,,39.83,,40
-713,714,754,Janusz GausLudwik Padewski,0.00.0,NZ,ZP/255,,39.54,,39
-714,715,133,Krzysztof KochanowskiJoanna Kochanowska,0.00.0,,KP/143,,39.49,,38
-715,716,260,Krzysztof LatusWojciech Gąska,7.04.0,LU,LU/90,,39.45,,37
-716,717,542,Jerzy SzczepańskiElżbieta Olejnik,1.00.0,WMNZ,WM/122,,39.35,,36
-717,718,769,Bolesław AleksandrowiczBogdan Lipiński,1.51.5,ZP,ZP/359,,39.23,,35
-718,719,363,Katarzyna Grabarczyk-StećAndrzej Łodziński,0.01.5,MA,MA/262,,39.19,,34
-719,720,607,Anna DworakowskaMarek Czapliński,0.50.0,WM,WM/337,,38.77,,33
-720,721,268,Adam BachtaBernard Żenkin,0.01.5,LUSW,LU/96,,38.62,,32
-721,722,360,Elżbieta PoniatowskaGrażyna Ożóg,0.01.0,MA,MA/262,,38.62,,31
-722,723,691,Grażyna WinklerMariusz Winkler,0.51.5,WP,WP/247,,38.55,,30
-723,724,21,Jan GrocholskiSebastian Grocholski,3.01.0,DS,DS/144,,38.5,,29
-724,725,534,Grzegorz GolebiowskiAntoni Rosiek,0.00.0,,USA/130,,38.4,,28
-725,726,105,Krzysztof KasprzykMieczysław Rejniak,1.03.0,KP,KP/114,,38.36,,27
-726,727,337,Witold StarkiewiczJan Wadowski,2.52.0,MA,MA/262,,38.24,,26
-727,728,415,Stanisław GłosekWitol Bogdan,0.00.0,,MA/321,,37.9,,25
-728,729,38,Urszula SokołowskaKrystyna Kozik,0.00.0,DS,DS/269,,37.54,,24
-729,730,521,Urszula StefaniakKazimierz Jaszczuk,2.01.5,SW,SW/287,,37.53,,23
-730,731,480,Paweł ŁużeckiZenon Elert,1.50.0,PM,PM/102,,37.53,,22
-731,732,423,Tadeusz WiśniewskiZdzisław Marcinkowski,4.01.5,MA,MA/46,,37.48,,21
-732,733,620,Roman KowalMaria Kowal,0.51.0,WP,WP/120,,37.43,,20
-733,734,358,Rafał WośPaweł Mańkowski,0.00.0,,MA/262,,37.41,,19
-734,735,741,Alojzy StępieńPaweł Dickert,0.02.5,NZZP,ZP/255,,37.27,,18
-735,736,8,Joanna NeuburgerEdward Neuburger,0.50.5,DS,DS/136,,37.17,,17
-736,737,744,Genowefa GrenikJolanta Kędzierska,0.00.0,NZ,ZP/255,,36.67,,16
-737,738,646,Remigiusz SzymczakStanisław Kowalczewski,1.01.0,WP,WP/147,,36.53,,15
-738,739,721,Barbara SmulskaJan Kisiel,0.51.5,ZP,ZP/167,,36.27,,14
-739,740,478,Grażyna PłockaMarcin Ozga,0.50.0,PM,PM/102,,36.17,,13
-740,741,73,Zdzisław MalkiewiczSławomir Zagórski,4.03.0,DS,DS/67,,36.14,,12
-741,742,608,Leokadia DanielewiczRena Bieda,0.00.0,WM,WM/337,,36.12,,11
-742,743,775,Ireneusz FeldmanEdward Wołoszczuk,0.00.0,NZ,ZP/375,,35.69,,10
-743,744,35,Jakub NapierałaJerzy Olanin,0.00.0,DS,DS/269,,35.42,,9
-744,745,583,Leszek GrzelakOlgierd Jurgielewicz,0.00.0,NZ,WM/324,,35.32,,8
-745,746,510,Romuald JarugaStefan Pawlęty,2.52.0,PM,PM/129,,35.3,,7
-746,747,470,Tadeusz MarutJanusz Słonina,0.50.5,PK,PK/118,,35.13,,6
-747,748,459,Adam MaryniakBożena Materna,0.00.0,PK,PK/118,,34.16,,5
-748,749,66,Jerzy StypińskiTadeusz Janeczek,3.03.0,WPDS,DS/336,,33.28,,4
-749,750,431,Ireneusz HebdowskiJan Kurianowicz,0.00.0,OP,OP/273,,33.07,,3
-750,751,5,Zbigniew LeśniewskiMikołaj Piotrowski,1.50.0,KP,BY2/915,,31.37,,2
-751,752,698,Leszek KłopockiTadeusz Osowski,0.00.5,WP,WP/293,,29.6,,1
+,ośrodek,runda,NS,EW,kontrakt,rozg.,wist,lew,zapis,% NS,% EW,Unnamed: 11
+0,BY2/915,,6,5,2,S,7,=,110,6.55,93.45,
+1,BY2/915,,1,4,1,N,D,+2,150,73.5,26.5,
+2,BY2/915,,2,3,2,N,D,+2,130,34.05,65.95,
+3,DS/136,11.0,9,12,1,N,Q,+2,150,73.5,26.5,
+4,DS/136,3.0,10,11,3,S,K,=,140,59.54,40.46,
+5,DS/136,2.0,17,15,1,N,Q,+3,130,34.05,65.95,
+6,DS/136,4.0,14,7,1,N,Q,+3,130,34.05,65.95,
+7,DS/136,8.0,8,13,3,N,Q,+1,130,34.05,65.95,
+8,DS/144,1.0,22,25,,,,,130,34.05,65.95,
+9,DS/144,2.0,23,21,,,,,-100,2.99,97.01,
+10,DS/144,3.0,19,20,,,,,130,34.05,65.95,
+11,DS/144,4.0,26,24,,,,,130,34.05,65.95,
+12,DS/158,5.0,27,29,3,N,Q,+2,150,73.5,26.5,
+13,DS/158,5.0,31,28,1,N,Q,+4,150,73.5,26.5,
+14,DS/158,5.0,32,30,1,N,Q,+3,130,34.05,65.95,
+15,DS/298,2.0,46,50,2,E,5,-3,300,91.74,8.26,
+16,DS/298,3.0,44,43,3,S,3,+1,630,96.58,3.42,
+17,DS/298,4.0,49,53,1,N,Q,+4,150,73.5,26.5,
+18,DS/298,5.0,51,48,1,N,Q,+3,130,34.05,65.95,
+19,DS/298,8.0,45,47,1,N,Q,+4,150,73.5,26.5,
+20,DS/307,4.0,57,55,1,N,Q,+4,150,73.5,26.5,
+21,DS/307,5.0,58,56,1,N,Q,+3,130,34.05,65.95,
+22,DS/307,10.0,60,59,1,N,Q,+2,110,6.55,93.45,
+23,DS/336,1.0,62,65,3,N,Q,+1,130,34.05,65.95,
+24,DS/336,2.0,64,68,2,S,7,=,120,8.12,91.88,
+25,DS/336,7.0,63,61,3,N,6,+2,150,73.5,26.5,
+26,DS/336,8.0,66,67,1,N,Q,+2,150,73.5,26.5,
+27,DS/67,7.0,79,75,1,N,Q,+3,130,34.05,65.95,
+28,DS/67,8.0,84,86,1,N,Q,+4,150,73.5,26.5,
+29,DS/67,9.0,76,82,3,N,Q,=,600,94.02,5.98,
+30,DS/67,10.0,87,72,1,N,Q,+4,150,73.5,26.5,
+31,DS/67,11.0,71,74,3,N,Q,+2,150,73.5,26.5,
+32,DS/67,12.0,81,83,2,N,5,+2,130,34.05,65.95,
+33,DS/67,13.0,77,78,1,N,6,+2,150,73.5,26.5,
+34,DS/67,14.0,80,73,1,N,5,+2,150,73.5,26.5,
+35,DS/67,15.0,88,85,1,N,Q,+3,130,34.05,65.95,
+36,DS/72,2.0,99,97,1,N,Q,+3,130,34.05,65.95,
+37,DS/72,3.0,92,93,1,N,Q,+3,130,34.05,65.95,
+38,DS/72,4.0,96,89,3,N,Q,+1,130,34.05,65.95,
+39,DS/72,8.0,90,95,3,S,4,+1,130,34.05,65.95,
+40,DS/72,10.0,100,98,2,N,Q,+2,130,34.05,65.95,
+41,DS/72,11.0,91,94,4 x,E,5,-3,800,99.29,0.71,
+42,KP/114,2.0,104,105,2,N,Q,+3,150,73.5,26.5,
+43,KP/114,3.0,108,101,1,N,Q,+3,130,34.05,65.95,
+44,KP/114,4.0,102,107,1,N,3,+1,120,8.12,91.88,
+45,KP/114,5.0,112,110,1,N,Q,+4,150,73.5,26.5,
+46,KP/114,6.0,103,106,3,S,9,+1,630,96.58,3.42,
+47,KP/125,0.0,121,119,1,N,3,+3,130,34.05,65.95,
+48,KP/125,0.0,115,116,1,N,3,+2,150,73.5,26.5,
+49,KP/125,0.0,122,118,3,N,Q,+1,130,34.05,65.95,
+50,KP/125,0.0,120,114,3,N,Q,=,110,6.55,93.45,
+51,KP/125,0.0,113,117,2,S,9,+3,150,73.5,26.5,
+52,KP/143,15.0,144,137,2,N,Q,+2,130,34.05,65.95,
+53,KP/143,14.0,132,123,2,N,Q,+2,130,34.05,65.95,
+54,KP/143,13.0,136,129,3,N,Q,+1,130,34.05,65.95,
+55,KP/143,12.0,131,143,2,S,7,+2,130,34.05,65.95,
+56,KP/143,11.0,142,125,1,N,Q,+5,170,87.32,12.68,
+57,KP/143,10.0,141,127,1,N,Q,+3,130,34.05,65.95,
+58,KP/143,9.0,124,140,4,S,9,-2,-200,0.57,99.43,
+59,KP/143,8.0,135,134,1,N,Q,+4,150,73.5,26.5,
+60,KP/143,7.0,139,128,2,N,Q,+3,150,73.5,26.5,
+61,KP/143,6.0,126,138,3,S,5,+2,660,98.29,1.71,
+62,KP/143,5.0,133,130,3,N,Q,+1,130,34.05,65.95,
+63,KP/50,10.0,156,154,1,N,Q,+3,130,34.05,65.95,
+64,KP/50,9.0,146,169,1,N,3,+2,150,73.5,26.5,
+65,KP/50,8.0,160,157,4 x,E,4,-3,800,99.29,0.71,
+66,KP/50,7.0,152,150,3,S,5,+1,130,34.05,65.95,
+67,KP/50,6.0,155,145,3,S,5,+1,130,34.05,65.95,
+68,KP/50,5.0,147,151,1,N,5,+2,150,73.5,26.5,
+69,KP/50,4.0,159,161,1,N,Q,+3,130,34.05,65.95,
+70,KP/50,3.0,167,162,3,N,5,+2,150,73.5,26.5,
+71,KP/50,2.0,164,163,3,N,Q,+1,130,34.05,65.95,
+72,KP/50,1.0,148,153,3,N,Q,+1,130,34.05,65.95,
+73,KP/50,11.0,158,165,5,S,9,=,600,94.02,5.98,
+74,KP/50,10.0,166,168,3,S,9,+1,130,34.05,65.95,
+75,KP/50,9.0,170,149,1,N,Q,+3,130,34.05,65.95,
+76,LB/127,2.0,181,179,1,N,Q,+4,150,73.5,26.5,
+77,LB/127,3.0,174,175,3 x,N,3,+2,1070,100.0,0.0,
+78,LB/127,4.0,178,171,3,N,K,+1,130,34.05,65.95,
+79,LB/127,8.0,172,177,1,N,Q,+4,150,73.5,26.5,
+80,LB/127,10.0,182,180,3,S,5,-1,-100,2.99,97.01,
+81,LB/127,11.0,173,176,3,N,Q,+2,150,73.5,26.5,
+82,LB/263,4.0,190,183,3,E,5,-2,200,89.46,10.54,
+83,LB/263,11.0,185,188,2,W,A,-2,200,89.46,10.54,
+84,LB/263,3.0,186,187,2,N,Q,+3,150,73.5,26.5,
+85,LB/263,8.0,184,189,3,N,Q,+1,130,34.05,65.95,
+86,LB/263,2.0,193,191,3,N,Q,-1,-100,2.99,97.01,
+87,LB/265,4.0,197,205,1,N,J,+3,130,34.05,65.95,
+88,LB/265,5.0,203,201,1,N,Q,+4,150,73.5,26.5,
+89,LB/265,6.0,206,198,1,N,5,+3,130,34.05,65.95,
+90,LB/265,7.0,196,202,1,N,Q,+3,130,34.05,65.95,
+91,LB/265,8.0,195,207,1,N,Q,+3,130,34.05,65.95,
+92,LB/265,9.0,200,199,1,N,Q,+3,130,34.05,65.95,
+93,LB/285,2.0,219,217,3,S,3,+2,660,98.29,1.71,
+94,LB/285,3.0,212,213,3,S,7,-1,-100,2.99,97.01,
+95,LB/285,4.0,216,209,1,N,Q,+3,130,34.05,65.95,
+96,LB/285,8.0,210,215,1,N,Q,+3,130,34.05,65.95,
+97,LB/285,10.0,220,218,2,N,5,+2,130,34.05,65.95,
+98,LB/285,11.0,211,214,2,N,Q,+3,150,73.5,26.5,
+99,LD/119,2.0,225,223,1,N,Q,+4,150,73.5,26.5,
+100,LD/119,3.0,221,222,3,N,J,+1,130,34.05,65.95,
+101,LD/119,4.0,228,226,4,S,3,-2,-200,0.57,99.43,
+102,LD/48,2.0,240,232,1,N,Q,+4,150,73.5,26.5,
+103,LD/48,3.0,234,241,1,N,Q,+3,130,34.05,65.95,
+104,LD/48,5.0,239,229,3,N,Q,+1,130,34.05,65.95,
+105,LD/48,6.0,231,243,1,N,Q,+3,130,34.05,65.95,
+106,LD/48,7.0,233,236,1,S,3,+3,130,34.05,65.95,
+107,LD/48,8.0,235,244,1,N,Q,+4,150,73.5,26.5,
+108,LD/48,9.0,245,230,3,S,3,+1,630,96.58,3.42,
+109,LD/48,10.0,246,238,3,N,Q,+1,130,34.05,65.95,
+110,LD/92,1.0,255,253,1,N,Q,+3,130,34.05,65.95,
+111,LD/92,2.0,249,250,,,,,0,4.56,95.44,
+112,LD/92,3.0,256,252,3,N,Q,+1,630,96.58,3.42,
+113,LD/92,4.0,254,248,1,N,Q,+3,130,34.05,65.95,
+114,LD/92,5.0,247,251,1,N,Q,+4,150,73.5,26.5,
+115,LU/90,1.0,262,261,1,N,Q,+4,150,73.5,26.5,
+116,LU/90,2.0,257,260,1,N,Q,+3,130,34.05,65.95,
+117,LU/90,3.0,258,259,1,N,Q,+4,150,73.5,26.5,
+118,LU/96,1.0,266,270,1,N,Q,+3,130,34.05,65.95,
+119,LU/96,3.0,271,273,1,N,Q,+3,130,34.05,65.95,
+120,LU/96,4.0,265,264,2,N,Q,+3,150,73.5,26.5,
+121,LU/96,5.0,267,275,3,S,7,+1,630,96.58,3.42,
+122,LU/96,6.0,276,269,1,N,Q,+3,130,34.05,65.95,
+123,LU/96,7.0,263,277,3,N,Q,+2,660,98.29,1.71,
+124,LU/96,8.0,278,272,3,N,Q,+1,130,34.05,65.95,
+125,MA/123,1.0,282,286,,,,,150,73.5,26.5,
+126,MA/123,2.0,290,284,,,,,130,34.05,65.95,
+127,MA/123,3.0,287,289,,,,,140,59.54,40.46,
+128,MA/123,4.0,281,280,,,,,150,73.5,26.5,
+129,MA/123,5.0,283,291,,,,,600,94.02,5.98,
+130,MA/123,6.0,292,285,,,,,130,34.05,65.95,
+131,MA/123,8.0,294,288,,,,,130,34.05,65.95,
+132,MA/126,1.0,307,321,3,S,7,=,140,59.54,40.46,
+133,MA/126,2.0,310,319,3,N,J,+1,130,34.05,65.95,
+134,MA/126,2.0,330,303,2 x,W,A,-2,500,92.59,7.41,
+135,MA/126,3.0,309,317,1,N,Q,+3,130,34.05,65.95,
+136,MA/126,3.0,329,299,5,N,Q,-1,-100,2.99,97.01,
+137,MA/126,4.0,308,315,1,N,5,+2,150,73.5,26.5,
+138,MA/126,4.0,328,295,1,N,Q,+3,130,34.05,65.95,
+139,MA/126,5.0,327,333,3,N,Q,+2,150,73.5,26.5,
+140,MA/126,6.0,304,320,3,N,Q,=,600,94.02,5.98,
+141,MA/126,6.0,326,305,2,N,Q,+2,130,34.05,65.95,
+142,MA/126,7.0,302,318,4,S,Q,=,620,95.44,4.56,
+143,MA/126,7.0,325,301,1,N,Q,+3,130,34.05,65.95,
+144,MA/126,8.0,316,300,1,N,Q,+3,130,34.05,65.95,
+145,MA/126,8.0,297,324,1,N,Q,+4,150,73.5,26.5,
+146,MA/126,9.0,314,298,3,S,5,=,110,6.55,93.45,
+147,MA/126,9.0,334,323,2,E,J,-1,100,5.41,94.59,
+148,MA/126,10.0,322,296,2,N,Q,+3,150,73.5,26.5,
+149,MA/262,1.0,353,354,2,W,7,-2,200,89.46,10.54,
+150,MA/262,1.0,375,376,1,N,Q,+3,130,34.05,65.95,
+151,MA/262,2.0,351,350,1,N,Q,+3,130,34.05,65.95,
+152,MA/262,2.0,373,372,1,N,Q,+3,130,34.05,65.95,
+153,MA/262,3.0,349,346,1,N,Q,+3,130,34.05,65.95,
+154,MA/262,3.0,371,368,3,N,Q,+1,630,96.58,3.42,
+155,MA/262,3.0,381,388,2,W,A,=,-110,1.43,98.57,
+156,MA/262,4.0,347,342,1,N,Q,+3,130,34.05,65.95,
+157,MA/262,4.0,369,364,1,N,Q,+3,130,34.05,65.95,
+158,MA/262,4.0,391,394,1,N,Q,+2,150,73.5,26.5,
+159,MA/262,5.0,345,338,1,N,Q,+3,130,34.05,65.95,
+160,MA/262,5.0,367,360,1,N,Q,+3,130,34.05,65.95,
+161,MA/262,5.0,387,384,1,N,Q,+3,130,34.05,65.95,
+162,MA/262,6.0,343,356,3,N,Q,+1,130,34.05,65.95,
+163,MA/262,6.0,365,378,1,N,Q,+4,150,73.5,26.5,
+164,MA/262,6.0,392,393,1,N,Q,+4,150,73.5,26.5,
+165,MA/262,7.0,341,352,3,N,Q,+1,130,34.05,65.95,
+166,MA/262,7.0,363,374,3,N,Q,+1,130,34.05,65.95,
+167,MA/262,7.0,389,386,2,N,Q,-2,-200,0.57,99.43,
+168,MA/262,8.0,348,339,3,N,Q,+1,130,34.05,65.95,
+169,MA/262,8.0,370,361,3,N,Q,+1,130,34.05,65.95,
+170,MA/262,8.0,383,390,3,S,5,+1,130,34.05,65.95,
+171,MA/262,9.0,344,337,3,E,5,-2,200,89.46,10.54,
+172,MA/262,9.0,366,359,1,N,Q,+3,130,34.05,65.95,
+173,MA/262,9.0,380,382,1,N,5,-1,-100,2.99,97.01,
+174,MA/262,10.0,340,335,1,N,Q,+3,130,34.05,65.95,
+175,MA/262,10.0,362,357,1,N,Q,+3,130,34.05,65.95,
+176,MA/262,10.0,379,385,3,N,Q,+1,130,34.05,65.95,
+177,MA/288,4.0,397,405,1,N,5,+1,120,8.12,91.88,
+178,MA/288,5.0,403,401,1,N,Q,+4,150,73.5,26.5,
+179,MA/288,6.0,406,398,2,W,A,-1,100,5.41,94.59,
+180,MA/288,7.0,396,402,3,N,5,=,600,94.02,5.98,
+181,MA/288,8.0,395,407,3,N,Q,+1,130,34.05,65.95,
+182,MA/288,9.0,400,399,1,N,Q,+3,130,34.05,65.95,
+183,MA/321,2.0,412,416,1,N,Q,+4,150,73.5,26.5,
+184,MA/321,3.0,410,409,3,S,4,+2,660,98.29,1.71,
+185,MA/321,4.0,415,419,5,S,5,-1,-100,2.99,97.01,
+186,MA/321,5.0,417,414,3,N,Q,+1,130,34.05,65.95,
+187,MA/321,8.0,411,413,1,N,Q,+3,130,34.05,65.95,
+188,MA/46,2.0,424,427,1,N,Q,+3,130,34.05,65.95,
+189,MA/46,4.0,425,423,1,N,Q,+3,130,34.05,65.95,
+190,MA/46,5.0,422,421,2,S,5,+3,150,73.5,26.5,
+191,MA/46,6.0,428,426,1,N,Q,+2,150,73.5,26.5,
+192,OP/273,2.0,439,437,4,E,7,-3,300,91.74,8.26,
+193,OP/273,3.0,432,433,3,N,Q,+1,130,34.05,65.95,
+194,OP/273,4.0,436,429,1,N,Q,+3,130,34.05,65.95,
+195,OP/273,8.0,430,435,3,N,Q,+1,130,34.05,65.95,
+196,OP/273,11.0,431,434,2,N,Q,+2,130,34.05,65.95,
+197,OP/363,5.0,441,443,3,N,Q,+1,130,34.05,65.95,
+198,OP/363,5.0,445,442,3,N,Q,+1,130,34.05,65.95,
+199,OP/363,5.0,446,444,1,N,Q,+4,150,73.5,26.5,
+200,PD/81,2.0,450,454,1,N,Q,+4,150,73.5,26.5,
+201,PD/81,8.0,449,451,1,N,5,+2,150,73.5,26.5,
+202,PD/81,3.0,448,447,1,N,Q,+3,130,34.05,65.95,
+203,PD/81,4.0,453,457,1,N,Q,+3,130,34.05,65.95,
+204,PD/81,5.0,455,452,3,N,Q,+1,130,34.05,65.95,
+205,PD/81,10.0,458,456,1,N,Q,+3,130,34.05,65.95,
+206,PK/118,10.0,472,468,3,N,Q,+1,130,34.05,65.95,
+207,PK/118,9.0,459,461,3 x,N,5,+1,870,99.71,0.29,
+208,PK/118,8.0,463,464,3,S,7,-1,-100,2.99,97.01,
+209,PK/118,7.0,460,467,3,N,5,=,600,94.02,5.98,
+210,PK/118,6.0,465,471,1,N,Q,+4,150,73.5,26.5,
+211,PK/118,5.0,462,470,1,N,Q,+3,130,34.05,65.95,
+212,PK/118,4.0,469,466,2,N,Q,+2,130,34.05,65.95,
+213,PM/102,1.0,482,497,2,N,Q,+2,130,34.05,65.95,
+214,PM/102,2.0,479,495,2,N,Q,+3,150,73.5,26.5,
+215,PM/102,3.0,487,493,1,N,Q,+4,150,73.5,26.5,
+216,PM/102,4.0,484,491,1,N,2,+3,130,34.05,65.95,
+217,PM/102,5.0,481,489,1,N,Q,+4,150,73.5,26.5,
+218,PM/102,6.0,478,498,2,S,Q,+2,130,34.05,65.95,
+219,PM/102,7.0,476,496,1,N,Q,+3,130,34.05,65.95,
+220,PM/102,7.0,486,502,3,N,Q,+1,130,34.05,65.95,
+221,PM/102,8.0,494,475,1,N,Q,+3,180,87.89,12.11,
+222,PM/102,8.0,501,483,1,N,Q,+3,130,34.05,65.95,
+223,PM/102,9.0,492,474,1,N,Q,+3,130,34.05,65.95,
+224,PM/102,9.0,500,480,2,N,5,+1,150,73.5,26.5,
+225,PM/102,10.0,490,473,1,N,Q,+3,130,34.05,65.95,
+226,PM/102,10.0,499,477,3,N,Q,+1,130,34.05,65.95,
+227,PM/129,1.0,511,509,,,,,130,34.05,65.95,
+228,PM/129,2.0,505,506,,,,,150,73.5,26.5,
+229,PM/129,3.0,512,508,,,,,-100,2.99,97.01,
+230,PM/129,5.0,503,507,,,,,150,73.5,26.5,
+231,SW/287,4.0,519,523,3,E,4,-2,200,89.46,10.54,
+232,SW/287,3.0,514,517,1,N,Q,+4,150,73.5,26.5,
+233,SW/287,7.0,520,525,1,N,Q,+4,150,73.5,26.5,
+234,SW/287,5.0,521,515,1,N,Q,+3,130,34.05,65.95,
+235,SW/287,6.0,524,513,1,N,Q,+3,130,34.05,65.95,
+236,SW/287,9.0,518,527,3,N,Q,+1,130,34.05,65.95,
+237,SW/287,8.0,526,516,3,S,9,-2,-200,0.57,99.43,
+238,USA/130,0.0,536,534,3,W,A,-3,300,91.74,8.26,
+239,USA/130,0.0,530,529,1,N,Q,+4,150,73.5,26.5,
+240,USA/130,0.0,532,535,3,N,X,+1,130,34.05,65.95,
+241,USA/130,0.0,533,531,3,N,Q,+1,130,34.05,65.95,
+242,WM/122,2.0,543,555,1,N,Q,+4,150,73.5,26.5,
+243,WM/122,3.0,565,553,1,N,Q,+3,130,34.05,65.95,
+244,WM/122,4.0,559,551,3,N,Q,+2,150,73.5,26.5,
+245,WM/122,5.0,545,549,3,N,Q,+2,150,73.5,26.5,
+246,WM/122,6.0,541,558,1,N,Q,+3,130,34.05,65.95,
+247,WM/122,7.0,540,556,2,N,Q,+2,130,34.05,65.95,
+248,WM/122,8.0,554,539,1,N,Q,+3,130,34.05,65.95,
+249,WM/122,9.0,552,538,1,N,Q,+2,150,73.5,26.5,
+250,WM/122,10.0,550,537,1,N,Q,+3,130,34.05,65.95,
+251,WM/122,11.0,548,561,1,N,Q,+3,130,34.05,65.95,
+252,WM/122,13.0,563,566,3,S,7,-1,-100,2.99,97.01,
+253,WM/122,14.0,564,547,3,N,4,+1,130,34.05,65.95,
+254,WM/122,15.0,562,544,3,W,A,-3,300,91.74,8.26,
+255,WM/122,16.0,560,567,1,N,Q,+4,150,73.5,26.5,
+256,WM/132,1.0,572,575,3,N,J,+1,130,34.05,65.95,
+257,WM/132,2.0,573,571,1,N,Q,+3,130,34.05,65.95,
+258,WM/132,3.0,570,569,1,N,Q,+3,130,34.05,65.95,
+259,WM/132,4.0,576,574,4,N,K,=,130,34.05,65.95,
+260,WM/324,3.0,580,584,3,N,,+1,130,34.05,65.95,
+261,WM/324,4.0,588,582,1,N,,+3,130,34.05,65.95,
+262,WM/324,5.0,585,587,1,N,,+3,130,34.05,65.95,
+263,WM/324,6.0,579,578,4,S,,=,130,34.05,65.95,
+264,WM/324,8.0,590,583,3,N,,=,600,94.02,5.98,
+265,WM/324,9.0,577,591,3,E,,-2,200,89.46,10.54,
+266,WM/324,10.0,592,586,4,S,,=,130,34.05,65.95,
+267,WM/337,1.0,604,596,1,N,Q,+4,150,73.5,26.5,
+268,WM/337,2.0,598,605,1,N,Q,+3,130,34.05,65.95,
+269,WM/337,3.0,606,601,3,S,5,+1,630,96.58,3.42,
+270,WM/337,4.0,603,593,2,N,Q,+3,150,73.5,26.5,
+271,WM/337,5.0,595,607,3,N,Q,+2,150,73.5,26.5,
+272,WM/337,6.0,597,600,2,N,Q,+2,130,34.05,65.95,
+273,WM/337,7.0,599,608,3,N,Q,=,600,94.02,5.98,
+274,WM/337,9.0,610,602,1,N,Q,+3,130,34.05,65.95,
+275,WM/386,,615,611,3,N,Q,+2,150,73.5,26.5,
+276,WM/386,,617,612,1,N,Q,+3,130,34.05,65.95,
+277,WM/386,,614,613,1,N,5,+1,120,8.12,91.88,
+278,WP/120,3.0,621,625,3,N,3,+1,130,34.05,65.95,
+279,WP/120,4.0,629,623,1,N,Q,+4,210,90.88,9.12,
+280,WP/120,5.0,626,628,1,N,Q,+4,150,73.5,26.5,
+281,WP/120,6.0,620,619,3,N,Q,+1,130,34.05,65.95,
+282,WP/120,7.0,622,630,3,N,Q,+2,150,73.5,26.5,
+283,WP/120,8.0,631,624,1,N,Q,+3,130,34.05,65.95,
+284,WP/120,9.0,618,632,1,N,Q,+3,130,34.05,65.95,
+285,WP/142,5.0,639,638,1,N,Q,+3,130,34.05,65.95,
+286,WP/142,5.0,634,637,2,N,Q,+3,150,73.5,26.5,
+287,WP/142,5.0,635,636,1,N,Q,+4,150,73.5,26.5,
+288,WP/147,2.0,643,647,3,E,5,-2,200,89.46,10.54,
+289,WP/147,5.0,648,645,1,N,Q,+4,150,73.5,26.5,
+290,WP/147,4.0,646,650,1,N,Q,+3,130,34.05,65.95,
+291,WP/147,8.0,642,644,1,N,Q,+3,130,34.05,65.95,
+292,WP/147,3.0,641,640,1,N,5,+1,120,8.12,91.88,
+293,WP/247,10.0,657,652,3,S,3,+1,130,34.05,65.95,
+294,WP/247,9.0,661,654,3,N,Q,+1,130,34.05,65.95,
+295,WP/247,8.0,665,656,4,S,7,-2,-200,0.57,99.43,
+296,WP/247,7.0,658,669,3,N,Q,+1,130,34.05,65.95,
+297,WP/247,6.0,660,673,1,N,Q,+3,130,34.05,65.95,
+298,WP/247,5.0,662,655,1,N,Q,+4,150,73.5,26.5,
+299,WP/247,4.0,664,659,3,N,4,+1,130,34.05,65.95,
+300,WP/247,3.0,666,663,1,N,3,+2,150,73.5,26.5,
+301,WP/247,2.0,668,667,1,N,Q,+4,150,73.5,26.5,
+302,WP/247,1.0,670,671,3,N,Q,+1,130,34.05,65.95,
+303,WP/247,10.0,679,674,1,N,Q,+3,130,34.05,65.95,
+304,WP/247,9.0,683,676,1,N,Q,+3,130,34.05,65.95,
+305,WP/247,8.0,687,678,3,S,5,+1,130,34.05,65.95,
+306,WP/247,7.0,680,691,1,N,Q,+4,150,73.5,26.5,
+307,WP/247,6.0,682,695,2,N,Q,+3,150,73.5,26.5,
+308,WP/247,5.0,684,677,1,N,Q,+4,150,73.5,26.5,
+309,WP/247,4.0,686,681,3,N,Q,+2,660,98.29,1.71,
+310,WP/247,3.0,688,685,3,N,Q,+1,130,34.05,65.95,
+311,WP/247,2.0,690,689,2,S,5,+2,170,87.32,12.68,
+312,WP/247,1.0,692,693,1,N,Q,+3,130,34.05,65.95,
+313,WP/293,2.0,706,704,3,E,4,-2,200,89.46,10.54,
+314,WP/293,3.0,699,700,3,S,3,+1,130,34.05,65.95,
+315,WP/293,4.0,703,696,1,N,Q,+3,130,34.05,65.95,
+316,WP/293,8.0,697,702,2,W,A,-1,100,5.41,94.59,
+317,WP/293,10.0,707,705,1,N,5,+2,150,73.5,26.5,
+318,WP/293,11.0,698,701,1,N,5,+1,120,8.12,91.88,
+319,ZP/116,1.0,716,714,,,,,150,73.5,26.5,
+320,ZP/116,2.0,710,711,,,,,180,87.89,12.11,
+321,ZP/116,4.0,715,709,,,,,150,73.5,26.5,
+322,ZP/116,5.0,708,712,,,,,130,34.05,65.95,
+323,ZP/167,2.0,728,726,3,N,5,=,600,94.02,5.98,
+324,ZP/167,3.0,721,722,1,N,Q,+2,110,6.55,93.45,
+325,ZP/167,4.0,725,718,1,N,Q,+4,150,73.5,26.5,
+326,ZP/167,8.0,719,724,1,N,Q,+3,130,34.05,65.95,
+327,ZP/167,11.0,720,723,1,N,Q,+4,150,73.5,26.5,
+328,ZP/215,1.0,738,736,,,,,150,73.5,26.5,
+329,ZP/215,2.0,732,733,,,,,130,34.05,65.95,
+330,ZP/215,4.0,737,731,,,,,130,34.05,65.95,
+331,ZP/215,5.0,730,734,,,,,150,73.5,26.5,
+332,ZP/255,14.0,749,740,1,N,Q,+3,130,34.05,65.95,
+333,ZP/255,13.0,747,751,3,N,Q,+2,150,73.5,26.5,
+334,ZP/255,12.0,744,752,1,N,Q,+1,90,4.85,95.15,
+335,ZP/255,11.0,742,741,3,N,Q,+1,130,34.05,65.95,
+336,ZP/255,10.0,743,746,1,N,Q,+4,150,73.5,26.5,
+337,ZP/255,9.0,753,758,3,N,Q,+1,130,34.05,65.95,
+338,ZP/255,8.0,745,757,3,E,7,-2,200,89.46,10.54,
+339,ZP/255,7.0,750,756,1,N,Q,+3,130,34.05,65.95,
+340,ZP/255,6.0,755,748,2,S,5,+2,130,34.05,65.95,
+341,ZP/359,10.0,771,769,1,N,Q,+4,150,73.5,26.5,
+342,ZP/359,8.0,762,764,2,S,9,+2,130,34.05,65.95,
+343,ZP/359,5.0,768,765,2,W,A,-3,300,91.74,8.26,
+344,ZP/359,4.0,766,770,1,N,7,+3,130,34.05,65.95,
+345,ZP/359,3.0,761,760,2,S,7,+2,130,34.05,65.95,
+346,ZP/359,2.0,763,767,2,N,Q,+2,130,34.05,65.95,
+347,ZP/375,2.0,782,780,1,N,Q,+2,150,73.5,26.5,
+348,ZP/375,3.0,775,776,3,S,3,+1,130,34.05,65.95,
+349,ZP/375,4.0,779,772,1,N,Q,+3,130,34.05,65.95,
+350,ZP/375,8.0,773,778,2,S,9,+3,150,73.5,26.5,
+351,ZP/375,11.0,774,777,1,N,5,+2,150,73.5,26.5,
