@@ -31,3 +31,7 @@ In this moment our website is running locally but we try to set up web hosting. 
 - Directory `Bridge Site` consists of all frontend files and folder `results` where you can find `.json` files using to create charts 
 - In directory `Final_version` you can find all connected with backend: DB connection, python scripts and some data frames
   - In the file `Bridge app- data processing.ipynb` we tried to described all functions and way to update our website. There you can find more explanations about our         work
+  
+## Finish of last task
+http://bridgeapp.cba.pl/ <br>
+Please try it yourself and if you have any comments, don't hesitate to contact us.
