@@ -1,0 +1,157 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style-type: none;
+    
+}
+body{
+    font-family:'Courier New', Courier, monospace;
+}
+main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+/* LOGO */
+.main_logo{
+    text-align: center;
+    font-size: 1.5em;
+    padding: 1em;
+}
+
+/* SEARCH BAR */
+.search_bar{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    background: #e26d5c;
+    padding: 1rem;
+    border-radius: 1rem;
+    border: #000 0.09rem solid;
+    color: white;
+    margin-left:2em;
+    margin-right:2em;
+}
+input{
+    font-size: 1.5rem;
+    font-weight: bold;
+    border: none;
+    outline: none;
+    background: #e26d5c;
+    color: #000;
+    text-align: left;
+    margin-left: 0.5rem;
+    margin-right: 0.5rem;
+}
+.search_icon img{
+    height:1.5rem;
+    margin-top: 0.2rem;
+}
+.cancel_icon img{
+    height:1.7rem;
+    margin-top: 0.2rem;
+}
+::placeholder{
+    color: #f0b2a8;
+}
+
+.search_bar img:hover{
+    opacity: 0.4;
+    cursor: pointer;
+    transition: 0.2s;
+}
+
+@media (max-width:550px){
+    .search_bar{
+        margin-left: 0.5rem;
+        margin-right: 0.5rem;
+        padding:0.4rem;
+    }
+    .search_icon img{
+        height:2rem;
+        margin-top: 0.1rem;
+    }
+    .cancel_icon img{
+        height:2.2rem;
+        margin-top: 0.1rem;
+    }
+    input {
+        font-size: 1rem;
+    }
+
+}
+  /* RANKING */
+  .main_ranking{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left:2em;
+    margin-right:2em;
+    text-align: center;
+    font-size: 1.2rem;
+  }
+  .main_ranking li{
+    background: #f2f2f2;
+  }
+  .ranking_profile_text{
+    display:grid;
+    grid-template-columns: repeat(3, 2fr) 1fr 3fr;
+    grid-column-gap: 0.5em;
+    margin-bottom: 1.5rem;
+
+  }
+  .ranking_profile_text li{
+    padding:0.5rem;
+  }
+
+  .ranking_profile{
+    display:grid;
+    grid-template-columns: repeat(3, 2fr) 1fr 3fr;
+    grid-template-rows: repeat(1, 1fr);
+    grid-column-gap: 0.5em;
+    align-items: top;
+    justify-content: center;
+    margin-bottom: 1rem;
+  }
+  .ranking_profile li{
+    padding:1rem;
+  }
+  li span{
+    padding: 1rem;
+
+  }
+  @media (max-width:450px){
+    .main_ranking{
+        transform: scale(0.9);
+        margin-left: 0.5rem;
+        margin-right: 0.5rem;
+      }
+      .ranking_profile_text{
+        display:grid;
+        grid-template-columns: repeat(5, 1fr);
+        grid-column-gap: 0.1em;
+        grid-row-gap: 0.1em;
+        margin:0.5rem;    
+      }
+      .ranking_profile{
+        display:grid;
+        grid-template-columns: repeat(5, 1fr);
+        grid-template-rows: repeat(1, 1fr);
+        grid-column-gap: 0.1em;
+        grid-row-gap: 0.1em;
+        margin:0.5rem;    
+      }
+      li span{
+        padding: 0.5em;    
+      }
+  }
+
+/* FOOTER */
+.contact img{
+  border-radius: 5%;
+}
+  

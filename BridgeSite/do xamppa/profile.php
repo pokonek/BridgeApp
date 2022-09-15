@@ -46,8 +46,8 @@
     $query_run12 = mysqli_query($con, $query12);
 
     if(mysqli_num_rows($query_run) == 0){
-        echo "Zrób mi louda" ;
-    }
+        header('Location: ./wrong_search.php');
+   }
 
 $PID = mysqli_fetch_assoc($query_run2)['PID'];
     
@@ -56,7 +56,7 @@ $PID = mysqli_fetch_assoc($query_run2)['PID'];
 
 
 <!DOCTYPE html>
-<html lang="en">
+<html lang="PL">
 <head>
 
     <title>Profile</title>
@@ -68,51 +68,46 @@ $PID = mysqli_fetch_assoc($query_run2)['PID'];
     <meta name="author" content="Maciej Leszek, Piotr Okonek">
     
     
-    <link rel="stylesheet" href="css/profile_style1.css">
+    <link rel="stylesheet" href="css/profile_style7.css">
     <link rel="icon" href="css/img/logo.png">
 </head>
 <body>
-    <nav>
+<nav>
+        <a href="./index.php">
         <div class="main_logo">
-            <h1>&#9824; &#9829; The Bridge App &#9830; &#9827;</h1>
+            <h1>The Bridge App</h1>
         </div>
+        </a>
     </nav>
-        <form action="" method="GET">
-                <div class="search_bar">            
-                    <div>
 
-                    </div>
-
-                    <input type="text" required value="<?php if(isset($_GET['search'])){echo $_GET['search']; } ?>" name="search" placeholder="Wyszukaj profil zawodnika" />               
+        <form class="search_bar" action="" method="GET">
+            <input type="text" required value="<?php if(isset($_GET['search'])){echo $_GET['search']; } ?>" name="search" placeholder="Podaj dane zawodnika" />               
                     
-                    <button type="submit" class="search_icon">
-                        <img src="css/svg/magnifying-glass-solid.svg" alt="search_icon">
-                    </button>
-                </div>
-            </form> 
+            <button type="submit" class="search_icon">
+                <img src="css/svg/magnifying-glass-solid.svg" alt="search_icon">
+            </button>
+                
+        </form> 
+
     <main>
 
+
         <header>
-            <section>
-                <div class="profile_photo">
-                    <img src="css/img/user.png" alt="profile_photo">
-                </div>
-            </section>
 
             <aside>
                 <div>
                     <ul class="profile_info">
                         <li class="profile_name">
-                            <p>Imię i nazwisko</p>
-                            <span><?php echo mysqli_fetch_assoc($query_run)['Zawodnik']; ?></span>
-                        </li>
+                                <p>Imię i nazwisko</p>
+                                <span><?php echo mysqli_fetch_assoc($query_run)['Zawodnik']; ?></span>
+                            </li>                       
+                            <li class="profile_team">
+                                <p>Organizacja</p>
+                                <span><?php echo mysqli_fetch_assoc($query_run5)['klub']; ?></span>
+                            </li>
                         <li class="profile_id">
                             <p>ID</p>
                             <span><?php echo $PID; ?></span>
-                        </li>
-                        <li class="profile_team">
-                            <p>Organizacja</p>
-                            <span><?php echo mysqli_fetch_assoc($query_run5)['klub']; ?></span>
                         </li>
                         <li class="profile_ranking_position">
                             <p>Pozycja w rankingu</p>
@@ -220,11 +215,6 @@ $PID = mysqli_fetch_assoc($query_run2)['PID'];
             </aside>
 
         </header>
-        
-            
-                 
-        
-
 
         <article>
             <div class="profile_partial_ranking">
@@ -240,31 +230,35 @@ $PID = mysqli_fetch_assoc($query_run2)['PID'];
 
     <footer>
         <h2>Kontakt</h2>
-        <div class="contact">
+        <address class="contact">
             <div class="contact_p">
-                <img src="css/img/user.png" alt="Piotr Okonek">
+                <img src="css/img/pietras.jpg" alt="Piotr Okonek">
                 <br>
-                <h3>Piotr Okonek </h3><br> <h4> student Inżynierii i Analizy Danych <br> na Politechnice Warszawskiej</h4>
+                <h3>Piotr Okonek </h3><br> <h4> student Inżynierii i Analizy Danych <br>Politechnika Warszawska</h4>
                 <br>
-                <p>linkedin:</p>
+                <p><a href="#" target="_blank">linkedin:</a></p>
                 <br>
-                <p>mail:</p>
+                <p><a href="mailto:p.okonek@wasko.pl" target="_blank">p.okonek@wasko.pl</a></p> 
                 <br>
-                <p>github:</p>
+                <p><a href="https://github.com/pokonek" target="_blank">github.com/pokonek</a></p>
             </div>
             <div class="contact_m">
-                <img src="css/img/user.png" alt="Maciej Leszek">
+                <img src="css/img/lehu.jpg" alt="Maciej Leszek">
                 <br>
-                <h3>Maciej Leszek</h3><br> <h4> student Inżynierii Internetu Rzeczy <br> na Politechnice Warszawskiej</h4>
+                <h3>Maciej Leszek</h3>
                 <br>
-                <p>linkedin:</p>
+                <h4>student Inżynierii Internetu Rzeczy <br>Politechnika Warszawska</h4>
                 <br>
-                <p>mail:</p>
+                <p><a href="https://www.linkedin.com/in/maciej-leszek-74405a249/" target="_blank">linkedin.com/in/maciej-leszek</a></p>
                 <br>
-                <p>github:</p>
+                <p><a href="mailto:maciej02.leszek@gmail.com" target="_blank">maciej02.leszek@gmail.com</a></p>
+                <br>
+                <p><a href="https://github.com/maciejleszek" target="_blank">github.com/maciejleszek</a></p>
             </div>
-        </div>
+        </address>
     </footer>
+
+
     <script src="https://cdn.jsdelivr.net/npm/chart.js@3.8.2/dist/chart.min.js"></script>
     <script src="./chart.js"></script>
 </body>

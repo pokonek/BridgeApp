@@ -2,7 +2,7 @@ import json
 
 
 def read_file():
-    with open('./players_progress_to_website.json') as f:
+    with open('./players_progress.json') as f:
         ranking = json.load(f)
         print(ranking)
         a = {}

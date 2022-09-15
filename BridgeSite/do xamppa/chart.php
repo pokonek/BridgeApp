@@ -1,3 +1,3 @@
-<div style="width:80vw;height:40em;margin: auto;">
+<div class="graph-style" style="width:80vw;margin:auto;">
     <canvas id="chart-canvas"></canvas>
 </div>
